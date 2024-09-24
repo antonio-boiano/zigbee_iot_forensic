@@ -1,0 +1,30 @@
+0x6a5e	Sonoff Temperature	key 60ca4507229ff82271c615339e526146	POS cucina
+0x4615	Sonoff Temperature	key 60ca4507229ff82271c615339e526146	POS stanza
+0x946e	Sonoff Door		key 60ca4507229ff82271c615339e526146	POS bagno
+0x7b10	Sonoff Door		key 60ca4507229ff82271c615339e526146	POS stanza Gian
+0xd0bb	Sonoff Motion		key 60ca4507229ff82271c615339e526146	POS ingresso
+0x045b	Sonoff Motion		key 60ca4507229ff82271c615339e526146	POS stanza Gian
+0x27d7	Aqara Motion		key 60ca4507229ff82271c615339e526146	POS stanza
+0x907b	Aqara Door		key 60ca4507229ff82271c615339e526146	POS stanza
+0xe01d	Aqara Door		key 60ca4507229ff82271c615339e526146	POS cucina
+0x187a	Aqara Vibration		key 60ca4507229ff82271c615339e526146	POS stanza NO BATTERY (prev 0xc02a)
+0xc31c	Aqara Mini Switch	key 60ca4507229ff82271c615339e526146	
+0xe1a6	Smart Socket		key 60ca4507229ff82271c615339e526146	POS stanza
+0x3d95	Power Plug		key 60ca4507229ff82271c615339e526146	POS stanza
+0xa706	Power Plug		key 60ca4507229ff82271c615339e526146	POS cucina
+0x4e11	Ledvance Z3 Plug	key 60ca4507229ff82271c615339e526146	POS stanza
+0x0112	Ledvance Smart+ Plug	key 60ca4507229ff82271c615339e526146	POS cucina->microonde
+0xec7f	Ledvance Bulb		key 60ca4507229ff82271c615339e526146	POS stanza (su Smart Socket 0xe1a6)
+0x1e15	Moes Bulb		key 60ca4507229ff82271c615339e526146	POS stanza (su Ledvance 0x4e11)
+
+0x1cd8	Philips Lamp		key 60ca4507229ff82271c615339e526146	POS stanza (su Power Plug 0x3d95)
+0x5bb9	Philips Lamp		key 60ca4507229ff82271c615339e526146	POS stanza Gian
+0x711c	Philips Lamp		key 60ca4507229ff82271c615339e526146	POS ingresso
+0x059b	Philips Motion		key 60ca4507229ff82271c615339e526146	POS cucina	(prev 0x48f1)
+
+------------------------------------------------
+192.168.8.116	HomeAssistant
+192.168.8.196	Pixel 5
+192.168.8.249	Dell XPS 15
+
+

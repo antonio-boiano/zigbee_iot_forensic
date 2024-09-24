@@ -1,0 +1,35 @@
+0x09ac	Ledvance Plug Z3	key 2fd6b1b929e883d274478f3a2bf8d4ef	POS stanza
+0x5db6	Aqara Door		key 2fd6b1b929e883d274478f3a2bf8d4ef	POS porta bagno
+0xe694	Smart Socket		key 2fd6b1b929e883d274478f3a2bf8d4ef	POS stanza
+0x772c 	Aqara Door		key 2fd6b1b929e883d274478f3a2bf8d4ef	POS dispensa cucina
+0x61af	Aqara Vibration		key 2fd6b1b929e883d274478f3a2bf8d4ef	POS letto
+0xe011	Aqara Mini Switch	key 2fd6b1b929e883d274478f3a2bf8d4ef
+0x9989	Aqara Motion		key 2fd6b1b929e883d274478f3a2bf8d4ef	POS ingresso
+0x7150	Sonoff Temperature	key 2fd6b1b929e883d274478f3a2bf8d4ef	POS stanza->libreria (prev 0xd8ee)
+0x265e 	Sonoff Temperature	key 2fd6b1b929e883d274478f3a2bf8d4ef	POS cucina
+0xb815	Sonoff Motion		key 2fd6b1b929e883d274478f3a2bf8d4ef	POS cucina
+0x4e52	Sonoff Motion 		key 2fd6b1b929e883d274478f3a2bf8d4ef	POS stanza->libreria
+0x3181	Sonoff Door		key 2fd6b1b929e883d274478f3a2bf8d4ef	POS porta stanza
+0x0a79	Sonoff Door		key 2fd6b1b929e883d274478f3a2bf8d4ef	POS porta Gian
+0x82eb	Ledvance Smart+ Plug	key 2fd6b1b929e883d274478f3a2bf8d4ef	POS stanza
+0x6e5f 	Smart Power Plug	key 2fd6b1b929e883d274478f3a2bf8d4ef	POS cucina
+0xc8f0	Smart Power Plug	key 2fd6b1b929e883d274478f3a2bf8d4ef	POS cucina->microonde
+0xebe5	Moes Bulb		key 2fd6b1b929e883d274478f3a2bf8d4ef	POS stanza (su Ledvance Plug Z3	
+0x054f	Ledvance RGBW Bulb	key 2fd6b1b929e883d274478f3a2bf8d4ef	POS stanza (su Smart Socket 0xe694)
+
+0xe5c4 	Philips Lamp		key 2fd6b1b929e883d274478f3a2bf8d4ef	POS stanza (su Ledvance Smart+ 0x82eb)
+0x482d	Philips Lamp		key 2fd6b1b929e883d274478f3a2bf8d4ef	POS ingresso
+0xa209	Philips Lamp		key 2fd6b1b929e883d274478f3a2bf8d4ef	POS stanza Gian
+0x2cae	Philips Motion		key 2fd6b1b929e883d274478f3a2bf8d4ef	POS ingresso
+----------------------------------------------------------------------------------------------------------------
+0xdad3 	Philips Hue Bridge
+0x97b8	Philips Lamp		key 92678cfd119076342a64abdd71c8f867	POS stanza (su Ledvance Smart+ 0x82eb)
+0xa848	Philips Lamp		key 92678cfd119076342a64abdd71c8f867	POS ingresso
+0x264a	Philips Lamp		key 92678cfd119076342a64abdd71c8f867	POS stanza Gian
+0x24d8	Philips Motion		key 92678cfd119076342a64abdd71c8f867	POS ingresso
+
+0xdad3 manda messaggi broadcast per controllare lampada se comando su stanza o gruppo di luci (se comando su Hue white lamp X messaggio unicast)
+
+192.168.8.249 Dell XPS 15
+192.168.8.221 Pixel 5
+192.168.8.116 Home Assistant

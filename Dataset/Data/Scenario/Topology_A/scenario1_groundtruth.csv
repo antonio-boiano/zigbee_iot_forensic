@@ -1,0 +1,5748 @@
+Packet Number,Device Name,Device Type
+1,Coordinator,Coordinator
+2,Ledvance Smart+ Plug,Socket
+3,Moes Bulb,Bulb
+4,Philips Motion,Bulb
+5,Ledvance Z3 Plug,Socket
+6,Power Plug 1,Socket
+7,Smart Socket,Socket
+8,Ledvance Bulb,Bulb
+9,Philips Lamp 1,Bulb
+10,Power Plug 2,Socket
+11,Power Plug 1,Socket
+12,Unknown,Unknown
+13,Coordinator,Coordinator
+14,Unknown,Unknown
+15,Philips Lamp 1,Bulb
+16,Unknown,Unknown
+17,Power Plug 1,Socket
+18,Unknown,Unknown
+19,Ledvance Smart+ Plug,Socket
+20,Coordinator,Coordinator
+21,Coordinator,Coordinator
+22,Unknown,Unknown
+23,Smart Socket,Socket
+24,Unknown,Unknown
+25,Coordinator,Coordinator
+26,Unknown,Unknown
+27,Philips Lamp 1,Bulb
+28,Unknown,Unknown
+29,Power Plug 1,Socket
+30,Coordinator,Coordinator
+31,Unknown,Unknown
+32,Power Plug 1,Socket
+33,Unknown,Unknown
+34,Power Plug 1,Socket
+35,Unknown,Unknown
+36,Coordinator,Coordinator
+37,Unknown,Unknown
+38,Smart Socket,Socket
+39,Unknown,Unknown
+40,Coordinator,Coordinator
+41,Unknown,Unknown
+42,Philips Lamp 1,Bulb
+43,Unknown,Unknown
+44,Power Plug 1,Socket
+45,Unknown,Unknown
+46,Coordinator,Coordinator
+47,Unknown,Unknown
+48,Power Plug 1,Socket
+49,Unknown,Unknown
+50,Coordinator,Coordinator
+51,Unknown,Unknown
+52,Philips Lamp 1,Bulb
+53,Unknown,Unknown
+54,Coordinator,Coordinator
+55,Unknown,Unknown
+56,Power Plug 2,Socket
+57,Unknown,Unknown
+58,Philips Lamp 1,Bulb
+59,Unknown,Unknown
+60,Power Plug 1,Socket
+61,Unknown,Unknown
+62,Coordinator,Coordinator
+63,Unknown,Unknown
+64,Coordinator,Coordinator
+65,Power Plug 2,Socket
+66,Unknown,Unknown
+67,Philips Lamp 1,Bulb
+68,Unknown,Unknown
+69,Power Plug 2,Socket
+70,Unknown,Unknown
+71,Coordinator,Coordinator
+72,Unknown,Unknown
+73,Philips Lamp 1,Bulb
+74,Unknown,Unknown
+75,Power Plug 1,Socket
+76,Unknown,Unknown
+77,Coordinator,Coordinator
+78,Unknown,Unknown
+79,Philips Motion,Bulb
+80,Unknown,Unknown
+81,Philips Lamp 1,Bulb
+82,Unknown,Unknown
+83,Coordinator,Coordinator
+84,Unknown,Unknown
+85,Philips Lamp 1,Bulb
+86,Unknown,Unknown
+87,Coordinator,Coordinator
+88,Unknown,Unknown
+89,Power Plug 1,Socket
+90,Unknown,Unknown
+91,Philips Lamp 1,Bulb
+92,Unknown,Unknown
+93,Power Plug 1,Socket
+94,Unknown,Unknown
+95,Philips Lamp 1,Bulb
+96,Unknown,Unknown
+97,Coordinator,Coordinator
+98,Unknown,Unknown
+99,Philips Lamp 1,Bulb
+100,Unknown,Unknown
+101,Philips Lamp 1,Bulb
+102,Unknown,Unknown
+103,Moes Bulb,Bulb
+104,Philips Motion,Bulb
+105,Ledvance Bulb,Bulb
+106,Unknown,Unknown
+107,Ledvance Bulb,Bulb
+108,Unknown,Unknown
+109,Coordinator,Coordinator
+110,Unknown,Unknown
+111,Coordinator,Coordinator
+112,Unknown,Unknown
+113,Ledvance Bulb,Bulb
+114,Unknown,Unknown
+115,Ledvance Bulb,Bulb
+116,Unknown,Unknown
+117,Power Plug 1,Socket
+118,Smart Socket,Socket
+119,Sonoff Motion 2,Motion
+120,Unknown,Unknown
+121,Ledvance Bulb,Bulb
+122,Sonoff Motion 2,Motion
+123,Philips Lamp 1,Bulb
+124,Power Plug 2,Socket
+125,Ledvance Smart+ Plug,Socket
+126,Coordinator,Coordinator
+127,Moes Bulb,Bulb
+128,Aqara Vibration,Vibration
+129,Unknown,Unknown
+130,Philips Motion,Bulb
+131,Ledvance Z3 Plug,Socket
+132,Power Plug 1,Socket
+133,Smart Socket,Socket
+134,Ledvance Bulb,Bulb
+135,Philips Lamp 1,Bulb
+136,Power Plug 2,Socket
+137,Sonoff Door 1,Door
+138,Unknown,Unknown
+139,Sonoff Door 1,Door
+140,Unknown,Unknown
+141,Ledvance Smart+ Plug,Socket
+142,Coordinator,Coordinator
+143,Unknown,Unknown
+144,Smart Socket,Socket
+145,Unknown,Unknown
+146,Coordinator,Coordinator
+147,Unknown,Unknown
+148,Unknown,Unknown
+149,Coordinator,Coordinator
+150,Unknown,Unknown
+151,Coordinator,Coordinator
+152,Unknown,Unknown
+153,Smart Socket,Socket
+154,Unknown,Unknown
+155,Coordinator,Coordinator
+156,Unknown,Unknown
+157,Philips Lamp 1,Bulb
+158,Unknown,Unknown
+159,Coordinator,Coordinator
+160,Unknown,Unknown
+161,Philips Lamp 1,Bulb
+162,Unknown,Unknown
+163,Coordinator,Coordinator
+164,Power Plug 1,Socket
+165,Philips Lamp 1,Bulb
+166,Philips Lamp 1,Bulb
+167,Power Plug 1,Socket
+168,Unknown,Unknown
+169,Coordinator,Coordinator
+170,Unknown,Unknown
+171,Philips Lamp 1,Bulb
+172,Unknown,Unknown
+173,Coordinator,Coordinator
+174,Unknown,Unknown
+175,Power Plug 1,Socket
+176,Unknown,Unknown
+177,Power Plug 1,Socket
+178,Unknown,Unknown
+179,Philips Lamp 1,Bulb
+180,Unknown,Unknown
+181,Coordinator,Coordinator
+182,Coordinator,Coordinator
+183,Coordinator,Coordinator
+184,Power Plug 1,Socket
+185,Coordinator,Coordinator
+186,Unknown,Unknown
+187,Power Plug 2,Socket
+188,Power Plug 2,Socket
+189,Power Plug 2,Socket
+190,Philips Lamp 1,Bulb
+191,Unknown,Unknown
+192,Power Plug 2,Socket
+193,Power Plug 2,Socket
+194,Unknown,Unknown
+195,Power Plug 2,Socket
+196,Unknown,Unknown
+197,Power Plug 2,Socket
+198,Unknown,Unknown
+199,Power Plug 2,Socket
+200,Unknown,Unknown
+201,Coordinator,Coordinator
+202,Unknown,Unknown
+203,Power Plug 2,Socket
+204,Power Plug 2,Socket
+205,Philips Lamp 1,Bulb
+206,Unknown,Unknown
+207,Power Plug 1,Socket
+208,Power Plug 1,Socket
+209,Unknown,Unknown
+210,Coordinator,Coordinator
+211,Moes Bulb,Bulb
+212,Ledvance Z3 Plug,Socket
+213,Power Plug 2,Socket
+214,Unknown,Unknown
+215,Power Plug 2,Socket
+216,Unknown,Unknown
+217,Power Plug 2,Socket
+218,Unknown,Unknown
+219,Power Plug 2,Socket
+220,Unknown,Unknown
+221,Coordinator,Coordinator
+222,Coordinator,Coordinator
+223,Unknown,Unknown
+224,Philips Lamp 1,Bulb
+225,Unknown,Unknown
+226,Power Plug 1,Socket
+227,Unknown,Unknown
+228,Power Plug 2,Socket
+229,Unknown,Unknown
+230,Power Plug 2,Socket
+231,Unknown,Unknown
+232,Power Plug 2,Socket
+233,Unknown,Unknown
+234,Power Plug 2,Socket
+235,Unknown,Unknown
+236,Philips Motion,Bulb
+237,Power Plug 1,Socket
+238,Smart Socket,Socket
+239,Ledvance Bulb,Bulb
+240,Philips Lamp 1,Bulb
+241,Power Plug 2,Socket
+242,Ledvance Smart+ Plug,Socket
+243,Moes Bulb,Bulb
+244,Coordinator,Coordinator
+245,Ledvance Z3 Plug,Socket
+246,Philips Motion,Bulb
+247,Power Plug 1,Socket
+248,Smart Socket,Socket
+249,Ledvance Bulb,Bulb
+250,Philips Lamp 1,Bulb
+251,Power Plug 2,Socket
+252,Ledvance Smart+ Plug,Socket
+253,Coordinator,Coordinator
+254,Unknown,Unknown
+255,Smart Socket,Socket
+256,Unknown,Unknown
+257,Coordinator,Coordinator
+258,Unknown,Unknown
+259,Philips Lamp 1,Bulb
+260,Unknown,Unknown
+261,Coordinator,Coordinator
+262,Unknown,Unknown
+263,Power Plug 1,Socket
+264,Unknown,Unknown
+265,Coordinator,Coordinator
+266,Unknown,Unknown
+267,Smart Socket,Socket
+268,Unknown,Unknown
+269,Coordinator,Coordinator
+270,Unknown,Unknown
+271,Philips Lamp 1,Bulb
+272,Unknown,Unknown
+273,Power Plug 1,Socket
+274,Unknown,Unknown
+275,Coordinator,Coordinator
+276,Unknown,Unknown
+277,Philips Lamp 1,Bulb
+278,Unknown,Unknown
+279,Coordinator,Coordinator
+280,Unknown,Unknown
+281,Philips Lamp 1,Bulb
+282,Unknown,Unknown
+283,Power Plug 1,Socket
+284,Unknown,Unknown
+285,Coordinator,Coordinator
+286,Unknown,Unknown
+287,Power Plug 2,Socket
+288,Unknown,Unknown
+289,Coordinator,Coordinator
+290,Unknown,Unknown
+291,Philips Lamp 1,Bulb
+292,Unknown,Unknown
+293,Power Plug 1,Socket
+294,Unknown,Unknown
+295,Unknown,Unknown
+296,Coordinator,Coordinator
+297,Philips Lamp 1,Bulb
+298,Coordinator,Coordinator
+299,Unknown,Unknown
+300,Power Plug 2,Socket
+301,Unknown,Unknown
+302,Philips Lamp 1,Bulb
+303,Unknown,Unknown
+304,Philips Lamp 1,Bulb
+305,Unknown,Unknown
+306,Power Plug 1,Socket
+307,Unknown,Unknown
+308,Coordinator,Coordinator
+309,Unknown,Unknown
+310,Philips Lamp 1,Bulb
+311,Unknown,Unknown
+312,Power Plug 1,Socket
+313,Unknown,Unknown
+314,Moes Bulb,Bulb
+315,Coordinator,Coordinator
+316,Ledvance Z3 Plug,Socket
+317,Philips Motion,Bulb
+318,Power Plug 1,Socket
+319,Smart Socket,Socket
+320,Philips Lamp 1,Bulb
+321,Ledvance Bulb,Bulb
+322,Power Plug 2,Socket
+323,Ledvance Smart+ Plug,Socket
+324,Moes Bulb,Bulb
+325,Coordinator,Coordinator
+326,Aqara Motion,Motion
+327,Unknown,Unknown
+328,Philips Motion,Bulb
+329,Power Plug 1,Socket
+330,Ledvance Z3 Plug,Socket
+331,Smart Socket,Socket
+332,Coordinator,Coordinator
+333,Philips Motion,Bulb
+334,Ledvance Z3 Plug,Socket
+335,Moes Bulb,Bulb
+336,Philips Lamp 1,Bulb
+337,Smart Socket,Socket
+338,Ledvance Bulb,Bulb
+339,Power Plug 1,Socket
+340,Power Plug 2,Socket
+341,Coordinator,Coordinator
+342,Philips Motion,Bulb
+343,Unknown,Unknown
+344,Ledvance Smart+ Plug,Socket
+345,Moes Bulb,Bulb
+346,Smart Socket,Socket
+347,Ledvance Bulb,Bulb
+348,Power Plug 1,Socket
+349,Philips Lamp 1,Bulb
+350,Power Plug 2,Socket
+351,Philips Motion,Bulb
+352,Moes Bulb,Bulb
+353,Smart Socket,Socket
+354,Ledvance Z3 Plug,Socket
+355,Coordinator,Coordinator
+356,Power Plug 1,Socket
+357,Philips Lamp 1,Bulb
+358,Ledvance Bulb,Bulb
+359,Power Plug 2,Socket
+360,Coordinator,Coordinator
+361,Ledvance Bulb,Bulb
+362,Power Plug 2,Socket
+363,Philips Lamp 1,Bulb
+364,Ledvance Smart+ Plug,Socket
+365,Sonoff Motion 2,Motion
+366,Unknown,Unknown
+367,Sonoff Motion 2,Motion
+368,Unknown,Unknown
+369,Coordinator,Coordinator
+370,Unknown,Unknown
+371,Smart Socket,Socket
+372,Smart Socket,Socket
+373,Unknown,Unknown
+374,Coordinator,Coordinator
+375,Unknown,Unknown
+376,Philips Lamp 1,Bulb
+377,Unknown,Unknown
+378,Power Plug 1,Socket
+379,Unknown,Unknown
+380,Coordinator,Coordinator
+381,Unknown,Unknown
+382,Coordinator,Coordinator
+383,Coordinator,Coordinator
+384,Unknown,Unknown
+385,Smart Socket,Socket
+386,Unknown,Unknown
+387,Smart Socket,Socket
+388,Unknown,Unknown
+389,Coordinator,Coordinator
+390,Unknown,Unknown
+391,Philips Lamp 1,Bulb
+392,Coordinator,Coordinator
+393,Unknown,Unknown
+394,Power Plug 1,Socket
+395,Unknown,Unknown
+396,Philips Lamp 1,Bulb
+397,Unknown,Unknown
+398,Coordinator,Coordinator
+399,Unknown,Unknown
+400,Philips Lamp 1,Bulb
+401,Unknown,Unknown
+402,Power Plug 1,Socket
+403,Unknown,Unknown
+404,Coordinator,Coordinator
+405,Unknown,Unknown
+406,Philips Lamp 1,Bulb
+407,Philips Lamp 1,Bulb
+408,Coordinator,Coordinator
+409,Unknown,Unknown
+410,Philips Lamp 1,Bulb
+411,Coordinator,Coordinator
+412,Unknown,Unknown
+413,Philips Lamp 1,Bulb
+414,Unknown,Unknown
+415,Unknown,Unknown
+416,Power Plug 2,Socket
+417,Philips Lamp 1,Bulb
+418,Unknown,Unknown
+419,Power Plug 2,Socket
+420,Power Plug 1,Socket
+421,Power Plug 2,Socket
+422,Power Plug 2,Socket
+423,Unknown,Unknown
+424,Coordinator,Coordinator
+425,Unknown,Unknown
+426,Philips Lamp 1,Bulb
+427,Unknown,Unknown
+428,Power Plug 1,Socket
+429,Unknown,Unknown
+430,Moes Bulb,Bulb
+431,Coordinator,Coordinator
+432,Philips Motion,Bulb
+433,Power Plug 1,Socket
+434,Smart Socket,Socket
+435,Ledvance Bulb,Bulb
+436,Ledvance Z3 Plug,Socket
+437,Power Plug 2,Socket
+438,Philips Lamp 1,Bulb
+439,Ledvance Smart+ Plug,Socket
+440,Aqara Door 1,Door
+441,Unknown,Unknown
+442,Smart Socket,Socket
+443,Unknown,Unknown
+444,Moes Bulb,Bulb
+445,Sonoff Motion 1,Motion
+446,Unknown,Unknown
+447,Sonoff Motion 1,Motion
+448,Unknown,Unknown
+449,Coordinator,Coordinator
+450,Power Plug 1,Socket
+451,Smart Socket,Socket
+452,Philips Motion,Bulb
+453,Ledvance Z3 Plug,Socket
+454,Power Plug 2,Socket
+455,Philips Lamp 1,Bulb
+456,Ledvance Smart+ Plug,Socket
+457,Ledvance Bulb,Bulb
+458,Coordinator,Coordinator
+459,Unknown,Unknown
+460,Smart Socket,Socket
+461,Unknown,Unknown
+462,Coordinator,Coordinator
+463,Unknown,Unknown
+464,Philips Lamp 1,Bulb
+465,Unknown,Unknown
+466,Coordinator,Coordinator
+467,Unknown,Unknown
+468,Power Plug 1,Socket
+469,Unknown,Unknown
+470,Coordinator,Coordinator
+471,Unknown,Unknown
+472,Smart Socket,Socket
+473,Unknown,Unknown
+474,Coordinator,Coordinator
+475,Unknown,Unknown
+476,Philips Lamp 1,Bulb
+477,Unknown,Unknown
+478,Coordinator,Coordinator
+479,Unknown,Unknown
+480,Philips Lamp 1,Bulb
+481,Unknown,Unknown
+482,Coordinator,Coordinator
+483,Unknown,Unknown
+484,Power Plug 1,Socket
+485,Unknown,Unknown
+486,Coordinator,Coordinator
+487,Unknown,Unknown
+488,Philips Lamp 1,Bulb
+489,Unknown,Unknown
+490,Power Plug 1,Socket
+491,Unknown,Unknown
+492,Coordinator,Coordinator
+493,Unknown,Unknown
+494,Power Plug 2,Socket
+495,Power Plug 2,Socket
+496,Unknown,Unknown
+497,Power Plug 2,Socket
+498,Philips Lamp 1,Bulb
+499,Unknown,Unknown
+500,Power Plug 2,Socket
+501,Power Plug 1,Socket
+502,Unknown,Unknown
+503,Philips Lamp 1,Bulb
+504,Power Plug 2,Socket
+505,Unknown,Unknown
+506,Power Plug 2,Socket
+507,Unknown,Unknown
+508,Power Plug 2,Socket
+509,Power Plug 2,Socket
+510,Unknown,Unknown
+511,Power Plug 2,Socket
+512,Power Plug 2,Socket
+513,Unknown,Unknown
+514,Power Plug 2,Socket
+515,Unknown,Unknown
+516,Coordinator,Coordinator
+517,Power Plug 2,Socket
+518,Philips Lamp 1,Bulb
+519,Unknown,Unknown
+520,Power Plug 2,Socket
+521,Power Plug 1,Socket
+522,Unknown,Unknown
+523,Power Plug 2,Socket
+524,Power Plug 2,Socket
+525,Unknown,Unknown
+526,Coordinator,Coordinator
+527,Power Plug 2,Socket
+528,Unknown,Unknown
+529,Philips Lamp 1,Bulb
+530,Philips Lamp 1,Bulb
+531,Philips Lamp 1,Bulb
+532,Philips Lamp 1,Bulb
+533,Coordinator,Coordinator
+534,Power Plug 1,Socket
+535,Power Plug 2,Socket
+536,Unknown,Unknown
+537,Unknown,Unknown
+538,Power Plug 2,Socket
+539,Unknown,Unknown
+540,Philips Lamp 1,Bulb
+541,Unknown,Unknown
+542,Power Plug 2,Socket
+543,Power Plug 1,Socket
+544,Unknown,Unknown
+545,Power Plug 2,Socket
+546,Unknown,Unknown
+547,Power Plug 2,Socket
+548,Unknown,Unknown
+549,Power Plug 2,Socket
+550,Unknown,Unknown
+551,Coordinator,Coordinator
+552,Unknown,Unknown
+553,Power Plug 2,Socket
+554,Unknown,Unknown
+555,Power Plug 2,Socket
+556,Unknown,Unknown
+557,Power Plug 2,Socket
+558,Unknown,Unknown
+559,Philips Lamp 1,Bulb
+560,Unknown,Unknown
+561,Coordinator,Coordinator
+562,Unknown,Unknown
+563,Power Plug 1,Socket
+564,Unknown,Unknown
+565,Philips Lamp 1,Bulb
+566,Unknown,Unknown
+567,Power Plug 1,Socket
+568,Unknown,Unknown
+569,Coordinator,Coordinator
+570,Unknown,Unknown
+571,Power Plug 1,Socket
+572,Unknown,Unknown
+573,Moes Bulb,Bulb
+574,Coordinator,Coordinator
+575,Power Plug 1,Socket
+576,Philips Motion,Bulb
+577,Smart Socket,Socket
+578,Power Plug 2,Socket
+579,Ledvance Z3 Plug,Socket
+580,Ledvance Smart+ Plug,Socket
+581,Moes Bulb,Bulb
+582,Ledvance Bulb,Bulb
+583,Philips Lamp 1,Bulb
+584,Aqara Vibration,Vibration
+585,Unknown,Unknown
+586,Power Plug 1,Socket
+587,Philips Motion,Bulb
+588,Smart Socket,Socket
+589,Coordinator,Coordinator
+590,Ledvance Z3 Plug,Socket
+591,Smart Socket,Socket
+592,Unknown,Unknown
+593,Coordinator,Coordinator
+594,Unknown,Unknown
+595,Smart Socket,Socket
+596,Unknown,Unknown
+597,Power Plug 2,Socket
+598,Ledvance Smart+ Plug,Socket
+599,Coordinator,Coordinator
+600,Unknown,Unknown
+601,Smart Socket,Socket
+602,Unknown,Unknown
+603,Coordinator,Coordinator
+604,Unknown,Unknown
+605,Philips Lamp 1,Bulb
+606,Unknown,Unknown
+607,Coordinator,Coordinator
+608,Unknown,Unknown
+609,Power Plug 1,Socket
+610,Power Plug 1,Socket
+611,Power Plug 1,Socket
+612,Power Plug 1,Socket
+613,Unknown,Unknown
+614,Power Plug 1,Socket
+615,Unknown,Unknown
+616,Coordinator,Coordinator
+617,Unknown,Unknown
+618,Smart Socket,Socket
+619,Unknown,Unknown
+620,Coordinator,Coordinator
+621,Unknown,Unknown
+622,Philips Lamp 1,Bulb
+623,Unknown,Unknown
+624,Power Plug 1,Socket
+625,Unknown,Unknown
+626,Coordinator,Coordinator
+627,Unknown,Unknown
+628,Philips Lamp 1,Bulb
+629,Unknown,Unknown
+630,Power Plug 1,Socket
+631,Unknown,Unknown
+632,Coordinator,Coordinator
+633,Unknown,Unknown
+634,Power Plug 2,Socket
+635,Unknown,Unknown
+636,Philips Lamp 1,Bulb
+637,Unknown,Unknown
+638,Coordinator,Coordinator
+639,Unknown,Unknown
+640,Power Plug 2,Socket
+641,Philips Lamp 1,Bulb
+642,Coordinator,Coordinator
+643,Power Plug 1,Socket
+644,Unknown,Unknown
+645,Coordinator,Coordinator
+646,Coordinator,Coordinator
+647,Unknown,Unknown
+648,Power Plug 2,Socket
+649,Unknown,Unknown
+650,Coordinator,Coordinator
+651,Power Plug 2,Socket
+652,Unknown,Unknown
+653,Philips Lamp 1,Bulb
+654,Unknown,Unknown
+655,Coordinator,Coordinator
+656,Unknown,Unknown
+657,Philips Lamp 1,Bulb
+658,Unknown,Unknown
+659,Coordinator,Coordinator
+660,Unknown,Unknown
+661,Unknown,Unknown
+662,Power Plug 1,Socket
+663,Unknown,Unknown
+664,Philips Lamp 1,Bulb
+665,Unknown,Unknown
+666,Coordinator,Coordinator
+667,Coordinator,Coordinator
+668,Unknown,Unknown
+669,Unknown,Unknown
+670,Philips Lamp 1,Bulb
+671,Unknown,Unknown
+672,Power Plug 1,Socket
+673,Unknown,Unknown
+674,Moes Bulb,Bulb
+675,Philips Lamp 1,Bulb
+676,Ledvance Bulb,Bulb
+677,Power Plug 1,Socket
+678,Philips Motion,Bulb
+679,Smart Socket,Socket
+680,Coordinator,Coordinator
+681,Ledvance Z3 Plug,Socket
+682,Power Plug 2,Socket
+683,Ledvance Smart+ Plug,Socket
+684,Philips Lamp 1,Bulb
+685,Moes Bulb,Bulb
+686,Coordinator,Coordinator
+687,Unknown,Unknown
+688,Philips Motion,Bulb
+689,Unknown,Unknown
+690,Philips Motion,Bulb
+691,Unknown,Unknown
+692,Coordinator,Coordinator
+693,Unknown,Unknown
+694,Philips Motion,Bulb
+695,Unknown,Unknown
+696,Philips Motion,Bulb
+697,Unknown,Unknown
+698,Ledvance Bulb,Bulb
+699,Power Plug 1,Socket
+700,Unknown,Unknown
+701,Coordinator,Coordinator
+702,Unknown,Unknown
+703,Philips Lamp 1,Bulb
+704,Unknown,Unknown
+705,Power Plug 1,Socket
+706,Unknown,Unknown
+707,Power Plug 1,Socket
+708,Philips Motion,Bulb
+709,Smart Socket,Socket
+710,Ledvance Z3 Plug,Socket
+711,Coordinator,Coordinator
+712,Power Plug 2,Socket
+713,Ledvance Smart+ Plug,Socket
+714,Coordinator,Coordinator
+715,Unknown,Unknown
+716,Smart Socket,Socket
+717,Unknown,Unknown
+718,Coordinator,Coordinator
+719,Unknown,Unknown
+720,Philips Lamp 1,Bulb
+721,Unknown,Unknown
+722,Coordinator,Coordinator
+723,Unknown,Unknown
+724,Power Plug 1,Socket
+725,Power Plug 1,Socket
+726,Unknown,Unknown
+727,Coordinator,Coordinator
+728,Unknown,Unknown
+729,Smart Socket,Socket
+730,Unknown,Unknown
+731,Coordinator,Coordinator
+732,Unknown,Unknown
+733,Philips Lamp 1,Bulb
+734,Unknown,Unknown
+735,Coordinator,Coordinator
+736,Unknown,Unknown
+737,Power Plug 1,Socket
+738,Unknown,Unknown
+739,Power Plug 1,Socket
+740,Unknown,Unknown
+741,Coordinator,Coordinator
+742,Unknown,Unknown
+743,Philips Lamp 1,Bulb
+744,Unknown,Unknown
+745,Philips Lamp 1,Bulb
+746,Unknown,Unknown
+747,Coordinator,Coordinator
+748,Unknown,Unknown
+749,Power Plug 1,Socket
+750,Unknown,Unknown
+751,Power Plug 1,Socket
+752,Unknown,Unknown
+753,Power Plug 2,Socket
+754,Coordinator,Coordinator
+755,Power Plug 2,Socket
+756,Unknown,Unknown
+757,Unknown,Unknown
+758,Unknown,Unknown
+759,Unknown,Unknown
+760,Power Plug 2,Socket
+761,Coordinator,Coordinator
+762,Coordinator,Coordinator
+763,Coordinator,Coordinator
+764,Coordinator,Coordinator
+765,Unknown,Unknown
+766,Philips Lamp 1,Bulb
+767,Coordinator,Coordinator
+768,Philips Lamp 1,Bulb
+769,Coordinator,Coordinator
+770,Unknown,Unknown
+771,Power Plug 2,Socket
+772,Unknown,Unknown
+773,Coordinator,Coordinator
+774,Unknown,Unknown
+775,Philips Lamp 1,Bulb
+776,Unknown,Unknown
+777,Power Plug 1,Socket
+778,Unknown,Unknown
+779,Coordinator,Coordinator
+780,Unknown,Unknown
+781,Philips Lamp 1,Bulb
+782,Unknown,Unknown
+783,Power Plug 1,Socket
+784,Unknown,Unknown
+785,Power Plug 1,Socket
+786,Power Plug 2,Socket
+787,Unknown,Unknown
+788,Moes Bulb,Bulb
+789,Philips Lamp 1,Bulb
+790,Unknown,Unknown
+791,Ledvance Bulb,Bulb
+792,Power Plug 1,Socket
+793,Smart Socket,Socket
+794,Power Plug 1,Socket
+795,Unknown,Unknown
+796,Coordinator,Coordinator
+797,Unknown,Unknown
+798,Philips Lamp 1,Bulb
+799,Unknown,Unknown
+800,Power Plug 1,Socket
+801,Unknown,Unknown
+802,Power Plug 1,Socket
+803,Unknown,Unknown
+804,Coordinator,Coordinator
+805,Unknown,Unknown
+806,Philips Lamp 1,Bulb
+807,Unknown,Unknown
+808,Power Plug 1,Socket
+809,Unknown,Unknown
+810,Philips Motion,Bulb
+811,Ledvance Z3 Plug,Socket
+812,Power Plug 2,Socket
+813,Coordinator,Coordinator
+814,Ledvance Smart+ Plug,Socket
+815,Philips Lamp 1,Bulb
+816,Moes Bulb,Bulb
+817,Ledvance Bulb,Bulb
+818,Unknown,Unknown
+819,Coordinator,Coordinator
+820,Unknown,Unknown
+821,Unknown,Unknown
+822,Unknown,Unknown
+823,Power Plug 1,Socket
+824,Unknown,Unknown
+825,Unknown,Unknown
+826,Smart Socket,Socket
+827,Ledvance Z3 Plug,Socket
+828,Philips Motion,Bulb
+829,Power Plug 2,Socket
+830,Coordinator,Coordinator
+831,Ledvance Smart+ Plug,Socket
+832,Philips Lamp 1,Bulb
+833,Coordinator,Coordinator
+834,Unknown,Unknown
+835,Smart Socket,Socket
+836,Unknown,Unknown
+837,Coordinator,Coordinator
+838,Unknown,Unknown
+839,Philips Lamp 1,Bulb
+840,Unknown,Unknown
+841,Coordinator,Coordinator
+842,Unknown,Unknown
+843,Power Plug 1,Socket
+844,Unknown,Unknown
+845,Coordinator,Coordinator
+846,Unknown,Unknown
+847,Smart Socket,Socket
+848,Smart Socket,Socket
+849,Unknown,Unknown
+850,Smart Socket,Socket
+851,Unknown,Unknown
+852,Coordinator,Coordinator
+853,Unknown,Unknown
+854,Philips Lamp 1,Bulb
+855,Unknown,Unknown
+856,Coordinator,Coordinator
+857,Coordinator,Coordinator
+858,Coordinator,Coordinator
+859,Unknown,Unknown
+860,Power Plug 1,Socket
+861,Unknown,Unknown
+862,Philips Lamp 1,Bulb
+863,Unknown,Unknown
+864,Coordinator,Coordinator
+865,Unknown,Unknown
+866,Philips Lamp 1,Bulb
+867,Unknown,Unknown
+868,Power Plug 1,Socket
+869,Unknown,Unknown
+870,Coordinator,Coordinator
+871,Unknown,Unknown
+872,Coordinator,Coordinator
+873,Unknown,Unknown
+874,Power Plug 2,Socket
+875,Coordinator,Coordinator
+876,Coordinator,Coordinator
+877,Unknown,Unknown
+878,Philips Lamp 1,Bulb
+879,Unknown,Unknown
+880,Power Plug 2,Socket
+881,Unknown,Unknown
+882,Power Plug 1,Socket
+883,Power Plug 1,Socket
+884,Power Plug 2,Socket
+885,Unknown,Unknown
+886,Power Plug 2,Socket
+887,Coordinator,Coordinator
+888,Unknown,Unknown
+889,Power Plug 2,Socket
+890,Unknown,Unknown
+891,Philips Lamp 1,Bulb
+892,Unknown,Unknown
+893,Power Plug 1,Socket
+894,Unknown,Unknown
+895,Coordinator,Coordinator
+896,Unknown,Unknown
+897,Philips Lamp 1,Bulb
+898,Unknown,Unknown
+899,Power Plug 1,Socket
+900,Unknown,Unknown
+901,Philips Lamp 1,Bulb
+902,Unknown,Unknown
+903,Sonoff Temperature,Temperature
+904,Unknown,Unknown
+905,Power Plug 2,Socket
+906,Power Plug 2,Socket
+907,Unknown,Unknown
+908,Moes Bulb,Bulb
+909,Ledvance Bulb,Bulb
+910,Power Plug 1,Socket
+911,Ledvance Z3 Plug,Socket
+912,Smart Socket,Socket
+913,Coordinator,Coordinator
+914,Power Plug 2,Socket
+915,Ledvance Smart+ Plug,Socket
+916,Philips Motion,Bulb
+917,Unknown,Unknown
+918,Philips Lamp 1,Bulb
+919,Smart Socket,Socket
+920,Unknown,Unknown
+921,Coordinator,Coordinator
+922,Unknown,Unknown
+923,Smart Socket,Socket
+924,Unknown,Unknown
+925,Smart Socket,Socket
+926,Unknown,Unknown
+927,Coordinator,Coordinator
+928,Coordinator,Coordinator
+929,Unknown,Unknown
+930,Smart Socket,Socket
+931,Unknown,Unknown
+932,Ledvance Z3 Plug,Socket
+933,Unknown,Unknown
+934,Ledvance Z3 Plug,Socket
+935,Unknown,Unknown
+936,Coordinator,Coordinator
+937,Unknown,Unknown
+938,Coordinator,Coordinator
+939,Unknown,Unknown
+940,Unknown,Unknown
+941,Ledvance Z3 Plug,Socket
+942,Unknown,Unknown
+943,Power Plug 1,Socket
+944,Ledvance Bulb,Bulb
+945,Smart Socket,Socket
+946,Ledvance Z3 Plug,Socket
+947,Power Plug 2,Socket
+948,Ledvance Smart+ Plug,Socket
+949,Coordinator,Coordinator
+950,Unknown,Unknown
+951,Smart Socket,Socket
+952,Unknown,Unknown
+953,Coordinator,Coordinator
+954,Unknown,Unknown
+955,Philips Lamp 1,Bulb
+956,Unknown,Unknown
+957,Coordinator,Coordinator
+958,Unknown,Unknown
+959,Power Plug 1,Socket
+960,Unknown,Unknown
+961,Power Plug 1,Socket
+962,Power Plug 1,Socket
+963,Unknown,Unknown
+964,Coordinator,Coordinator
+965,Unknown,Unknown
+966,Smart Socket,Socket
+967,Unknown,Unknown
+968,Coordinator,Coordinator
+969,Unknown,Unknown
+970,Philips Lamp 1,Bulb
+971,Unknown,Unknown
+972,Power Plug 1,Socket
+973,Unknown,Unknown
+974,Coordinator,Coordinator
+975,Unknown,Unknown
+976,Philips Lamp 1,Bulb
+977,Unknown,Unknown
+978,Coordinator,Coordinator
+979,Unknown,Unknown
+980,Philips Lamp 1,Bulb
+981,Unknown,Unknown
+982,Coordinator,Coordinator
+983,Unknown,Unknown
+984,Coordinator,Coordinator
+985,Unknown,Unknown
+986,Power Plug 2,Socket
+987,Power Plug 2,Socket
+988,Coordinator,Coordinator
+989,Coordinator,Coordinator
+990,Philips Lamp 1,Bulb
+991,Unknown,Unknown
+992,Unknown,Unknown
+993,Philips Lamp 1,Bulb
+994,Unknown,Unknown
+995,Power Plug 1,Socket
+996,Power Plug 1,Socket
+997,Philips Lamp 1,Bulb
+998,Unknown,Unknown
+999,Unknown,Unknown
+1000,Unknown,Unknown
+1001,Power Plug 2,Socket
+1002,Power Plug 2,Socket
+1003,Unknown,Unknown
+1004,Power Plug 2,Socket
+1005,Unknown,Unknown
+1006,Coordinator,Coordinator
+1007,Unknown,Unknown
+1008,Power Plug 2,Socket
+1009,Philips Lamp 1,Bulb
+1010,Unknown,Unknown
+1011,Power Plug 2,Socket
+1012,Power Plug 1,Socket
+1013,Unknown,Unknown
+1014,Power Plug 2,Socket
+1015,Unknown,Unknown
+1016,Power Plug 2,Socket
+1017,Coordinator,Coordinator
+1018,Unknown,Unknown
+1019,Philips Lamp 1,Bulb
+1020,Unknown,Unknown
+1021,Power Plug 1,Socket
+1022,Unknown,Unknown
+1023,Coordinator,Coordinator
+1024,Moes Bulb,Bulb
+1025,Philips Motion,Bulb
+1026,Philips Lamp 1,Bulb
+1027,Power Plug 1,Socket
+1028,Smart Socket,Socket
+1029,Ledvance Bulb,Bulb
+1030,Ledvance Z3 Plug,Socket
+1031,Power Plug 2,Socket
+1032,Ledvance Smart+ Plug,Socket
+1033,Coordinator,Coordinator
+1034,Moes Bulb,Bulb
+1035,Philips Motion,Bulb
+1036,Philips Lamp 1,Bulb
+1037,Power Plug 1,Socket
+1038,Ledvance Bulb,Bulb
+1039,Smart Socket,Socket
+1040,Ledvance Z3 Plug,Socket
+1041,Power Plug 2,Socket
+1042,Ledvance Smart+ Plug,Socket
+1043,Coordinator,Coordinator
+1044,Unknown,Unknown
+1045,Smart Socket,Socket
+1046,Unknown,Unknown
+1047,Coordinator,Coordinator
+1048,Unknown,Unknown
+1049,Philips Lamp 1,Bulb
+1050,Unknown,Unknown
+1051,Coordinator,Coordinator
+1052,Unknown,Unknown
+1053,Power Plug 1,Socket
+1054,Unknown,Unknown
+1055,Coordinator,Coordinator
+1056,Unknown,Unknown
+1057,Smart Socket,Socket
+1058,Unknown,Unknown
+1059,Smart Socket,Socket
+1060,Unknown,Unknown
+1061,Coordinator,Coordinator
+1062,Unknown,Unknown
+1063,Philips Lamp 1,Bulb
+1064,Unknown,Unknown
+1065,Power Plug 1,Socket
+1066,Unknown,Unknown
+1067,Coordinator,Coordinator
+1068,Unknown,Unknown
+1069,Philips Lamp 1,Bulb
+1070,Unknown,Unknown
+1071,Coordinator,Coordinator
+1072,Unknown,Unknown
+1073,Philips Lamp 1,Bulb
+1074,Unknown,Unknown
+1075,Power Plug 1,Socket
+1076,Unknown,Unknown
+1077,Coordinator,Coordinator
+1078,Unknown,Unknown
+1079,Power Plug 2,Socket
+1080,Unknown,Unknown
+1081,Coordinator,Coordinator
+1082,Unknown,Unknown
+1083,Unknown,Unknown
+1084,Power Plug 1,Socket
+1085,Unknown,Unknown
+1086,Coordinator,Coordinator
+1087,Unknown,Unknown
+1088,Philips Lamp 1,Bulb
+1089,Unknown,Unknown
+1090,Power Plug 2,Socket
+1091,Unknown,Unknown
+1092,Coordinator,Coordinator
+1093,Coordinator,Coordinator
+1094,Unknown,Unknown
+1095,Coordinator,Coordinator
+1096,Unknown,Unknown
+1097,Philips Lamp 1,Bulb
+1098,Unknown,Unknown
+1099,Philips Lamp 1,Bulb
+1100,Philips Lamp 1,Bulb
+1101,Philips Lamp 1,Bulb
+1102,Power Plug 1,Socket
+1103,Unknown,Unknown
+1104,Philips Lamp 1,Bulb
+1105,Unknown,Unknown
+1106,Power Plug 1,Socket
+1107,Unknown,Unknown
+1108,Coordinator,Coordinator
+1109,Moes Bulb,Bulb
+1110,Philips Motion,Bulb
+1111,Power Plug 2,Socket
+1112,Unknown,Unknown
+1113,Philips Lamp 1,Bulb
+1114,Power Plug 2,Socket
+1115,Unknown,Unknown
+1116,Power Plug 2,Socket
+1117,Coordinator,Coordinator
+1118,Unknown,Unknown
+1119,Philips Lamp 1,Bulb
+1120,Unknown,Unknown
+1121,Power Plug 1,Socket
+1122,Unknown,Unknown
+1123,Power Plug 2,Socket
+1124,Unknown,Unknown
+1125,Power Plug 2,Socket
+1126,Unknown,Unknown
+1127,Power Plug 2,Socket
+1128,Unknown,Unknown
+1129,Power Plug 2,Socket
+1130,Unknown,Unknown
+1131,Power Plug 2,Socket
+1132,Unknown,Unknown
+1133,Power Plug 2,Socket
+1134,Unknown,Unknown
+1135,Coordinator,Coordinator
+1136,Unknown,Unknown
+1137,Philips Lamp 1,Bulb
+1138,Unknown,Unknown
+1139,Power Plug 1,Socket
+1140,Unknown,Unknown
+1141,Power Plug 1,Socket
+1142,Unknown,Unknown
+1143,Power Plug 2,Socket
+1144,Unknown,Unknown
+1145,Power Plug 2,Socket
+1146,Unknown,Unknown
+1147,Ledvance Bulb,Bulb
+1148,Power Plug 1,Socket
+1149,Smart Socket,Socket
+1150,Power Plug 2,Socket
+1151,Ledvance Smart+ Plug,Socket
+1152,Coordinator,Coordinator
+1153,Moes Bulb,Bulb
+1154,Coordinator,Coordinator
+1155,Unknown,Unknown
+1156,Unknown,Unknown
+1157,Unknown,Unknown
+1158,Philips Lamp 1,Bulb
+1159,Unknown,Unknown
+1160,Coordinator,Coordinator
+1161,Unknown,Unknown
+1162,Philips Lamp 1,Bulb
+1163,Unknown,Unknown
+1164,Philips Lamp 1,Bulb
+1165,Unknown,Unknown
+1166,Philips Motion,Bulb
+1167,Philips Lamp 1,Bulb
+1168,Coordinator,Coordinator
+1169,Ledvance Smart+ Plug,Socket
+1170,Power Plug 1,Socket
+1171,Ledvance Bulb,Bulb
+1172,Ledvance Z3 Plug,Socket
+1173,Philips Motion,Bulb
+1174,Philips Lamp 1,Bulb
+1175,Moes Bulb,Bulb
+1176,Smart Socket,Socket
+1177,Ledvance Smart+ Plug,Socket
+1178,Coordinator,Coordinator
+1179,Power Plug 1,Socket
+1180,Ledvance Bulb,Bulb
+1181,Ledvance Z3 Plug,Socket
+1182,Power Plug 2,Socket
+1183,Moes Bulb,Bulb
+1184,Philips Motion,Bulb
+1185,Philips Lamp 1,Bulb
+1186,Smart Socket,Socket
+1187,Power Plug 1,Socket
+1188,Coordinator,Coordinator
+1189,Power Plug 2,Socket
+1190,Ledvance Z3 Plug,Socket
+1191,Moes Bulb,Bulb
+1192,Ledvance Bulb,Bulb
+1193,Smart Socket,Socket
+1194,Philips Motion,Bulb
+1195,Philips Lamp 1,Bulb
+1196,Coordinator,Coordinator
+1197,Ledvance Z3 Plug,Socket
+1198,Power Plug 1,Socket
+1199,Philips Lamp 1,Bulb
+1200,Philips Motion,Bulb
+1201,Ledvance Bulb,Bulb
+1202,Smart Socket,Socket
+1203,Power Plug 2,Socket
+1204,Ledvance Z3 Plug,Socket
+1205,Ledvance Smart+ Plug,Socket
+1206,Coordinator,Coordinator
+1207,Unknown,Unknown
+1208,Smart Socket,Socket
+1209,Unknown,Unknown
+1210,Coordinator,Coordinator
+1211,Unknown,Unknown
+1212,Philips Lamp 1,Bulb
+1213,Unknown,Unknown
+1214,Power Plug 1,Socket
+1215,Unknown,Unknown
+1216,Coordinator,Coordinator
+1217,Unknown,Unknown
+1218,Coordinator,Coordinator
+1219,Unknown,Unknown
+1220,Smart Socket,Socket
+1221,Unknown,Unknown
+1222,Coordinator,Coordinator
+1223,Unknown,Unknown
+1224,Philips Lamp 1,Bulb
+1225,Unknown,Unknown
+1226,Power Plug 1,Socket
+1227,Unknown,Unknown
+1228,Coordinator,Coordinator
+1229,Unknown,Unknown
+1230,Philips Lamp 1,Bulb
+1231,Unknown,Unknown
+1232,Coordinator,Coordinator
+1233,Unknown,Unknown
+1234,Philips Lamp 1,Bulb
+1235,Unknown,Unknown
+1236,Coordinator,Coordinator
+1237,Coordinator,Coordinator
+1238,Power Plug 1,Socket
+1239,Coordinator,Coordinator
+1240,Power Plug 1,Socket
+1241,Philips Lamp 1,Bulb
+1242,Power Plug 2,Socket
+1243,Power Plug 1,Socket
+1244,Power Plug 1,Socket
+1245,Power Plug 2,Socket
+1246,Unknown,Unknown
+1247,Unknown,Unknown
+1248,Unknown,Unknown
+1249,Power Plug 1,Socket
+1250,Unknown,Unknown
+1251,Unknown,Unknown
+1252,Coordinator,Coordinator
+1253,Unknown,Unknown
+1254,Power Plug 2,Socket
+1255,Unknown,Unknown
+1256,Power Plug 2,Socket
+1257,Unknown,Unknown
+1258,Coordinator,Coordinator
+1259,Unknown,Unknown
+1260,Philips Lamp 1,Bulb
+1261,Unknown,Unknown
+1262,Philips Lamp 1,Bulb
+1263,Unknown,Unknown
+1264,Power Plug 1,Socket
+1265,Unknown,Unknown
+1266,Coordinator,Coordinator
+1267,Unknown,Unknown
+1268,Philips Lamp 1,Bulb
+1269,Unknown,Unknown
+1270,Coordinator,Coordinator
+1271,Power Plug 1,Socket
+1272,Unknown,Unknown
+1273,Coordinator,Coordinator
+1274,Coordinator,Coordinator
+1275,Coordinator,Coordinator
+1276,Coordinator,Coordinator
+1277,Unknown,Unknown
+1278,Unknown,Unknown
+1279,Power Plug 1,Socket
+1280,Unknown,Unknown
+1281,Coordinator,Coordinator
+1282,Unknown,Unknown
+1283,Coordinator,Coordinator
+1284,Moes Bulb,Bulb
+1285,Philips Motion,Bulb
+1286,Ledvance Bulb,Bulb
+1287,Unknown,Unknown
+1288,Ledvance Bulb,Bulb
+1289,Unknown,Unknown
+1290,Smart Socket,Socket
+1291,Unknown,Unknown
+1292,Coordinator,Coordinator
+1293,Unknown,Unknown
+1294,Coordinator,Coordinator
+1295,Unknown,Unknown
+1296,Ledvance Bulb,Bulb
+1297,Unknown,Unknown
+1298,Coordinator,Coordinator
+1299,Unknown,Unknown
+1300,Smart Socket,Socket
+1301,Unknown,Unknown
+1302,Ledvance Bulb,Bulb
+1303,Unknown,Unknown
+1304,Power Plug 1,Socket
+1305,Smart Socket,Socket
+1306,Philips Lamp 1,Bulb
+1307,Ledvance Bulb,Bulb
+1308,Power Plug 2,Socket
+1309,Ledvance Smart+ Plug,Socket
+1310,Coordinator,Coordinator
+1311,Moes Bulb,Bulb
+1312,Philips Motion,Bulb
+1313,Smart Socket,Socket
+1314,Power Plug 1,Socket
+1315,Unknown,Unknown
+1316,Coordinator,Coordinator
+1317,Unknown,Unknown
+1318,Philips Lamp 1,Bulb
+1319,Unknown,Unknown
+1320,Power Plug 1,Socket
+1321,Unknown,Unknown
+1322,Ledvance Bulb,Bulb
+1323,Power Plug 2,Socket
+1324,Coordinator,Coordinator
+1325,Ledvance Smart+ Plug,Socket
+1326,Coordinator,Coordinator
+1327,Unknown,Unknown
+1328,Smart Socket,Socket
+1329,Unknown,Unknown
+1330,Coordinator,Coordinator
+1331,Unknown,Unknown
+1332,Philips Lamp 1,Bulb
+1333,Unknown,Unknown
+1334,Coordinator,Coordinator
+1335,Unknown,Unknown
+1336,Power Plug 1,Socket
+1337,Unknown,Unknown
+1338,Coordinator,Coordinator
+1339,Unknown,Unknown
+1340,Smart Socket,Socket
+1341,Unknown,Unknown
+1342,Coordinator,Coordinator
+1343,Unknown,Unknown
+1344,Philips Lamp 1,Bulb
+1345,Unknown,Unknown
+1346,Power Plug 1,Socket
+1347,Unknown,Unknown
+1348,Coordinator,Coordinator
+1349,Philips Lamp 1,Bulb
+1350,Unknown,Unknown
+1351,Coordinator,Coordinator
+1352,Coordinator,Coordinator
+1353,Unknown,Unknown
+1354,Coordinator,Coordinator
+1355,Unknown,Unknown
+1356,Coordinator,Coordinator
+1357,Unknown,Unknown
+1358,Philips Lamp 1,Bulb
+1359,Unknown,Unknown
+1360,Power Plug 1,Socket
+1361,Unknown,Unknown
+1362,Coordinator,Coordinator
+1363,Unknown,Unknown
+1364,Coordinator,Coordinator
+1365,Philips Lamp 1,Bulb
+1366,Philips Lamp 1,Bulb
+1367,Power Plug 1,Socket
+1368,Unknown,Unknown
+1369,Philips Lamp 1,Bulb
+1370,Power Plug 2,Socket
+1371,Unknown,Unknown
+1372,Power Plug 2,Socket
+1373,Unknown,Unknown
+1374,Power Plug 2,Socket
+1375,Unknown,Unknown
+1376,Coordinator,Coordinator
+1377,Unknown,Unknown
+1378,Philips Lamp 1,Bulb
+1379,Unknown,Unknown
+1380,Power Plug 1,Socket
+1381,Coordinator,Coordinator
+1382,Unknown,Unknown
+1383,Power Plug 1,Socket
+1384,Philips Lamp 1,Bulb
+1385,Power Plug 1,Socket
+1386,Unknown,Unknown
+1387,Philips Lamp 1,Bulb
+1388,Unknown,Unknown
+1389,Power Plug 1,Socket
+1390,Unknown,Unknown
+1391,Ledvance Z3 Plug,Socket
+1392,Moes Bulb,Bulb
+1393,Power Plug 2,Socket
+1394,Unknown,Unknown
+1395,Coordinator,Coordinator
+1396,Unknown,Unknown
+1397,Unknown,Unknown
+1398,Unknown,Unknown
+1399,Power Plug 1,Socket
+1400,Power Plug 1,Socket
+1401,Unknown,Unknown
+1402,Power Plug 2,Socket
+1403,Power Plug 2,Socket
+1404,Unknown,Unknown
+1405,Power Plug 1,Socket
+1406,Philips Motion,Bulb
+1407,Aqara Door 2,Door
+1408,Unknown,Unknown
+1409,Smart Socket,Socket
+1410,Smart Socket,Socket
+1411,Unknown,Unknown
+1412,Smart Socket,Socket
+1413,Aqara Door 2,Door
+1414,Unknown,Unknown
+1415,Ledvance Bulb,Bulb
+1416,Sonoff Temperature,Temperature
+1417,Unknown,Unknown
+1418,Power Plug 2,Socket
+1419,Unknown,Unknown
+1420,Power Plug 2,Socket
+1421,Philips Lamp 1,Bulb
+1422,Coordinator,Coordinator
+1423,Ledvance Smart+ Plug,Socket
+1424,Moes Bulb,Bulb
+1425,Ledvance Z3 Plug,Socket
+1426,Power Plug 1,Socket
+1427,Smart Socket,Socket
+1428,Philips Motion,Bulb
+1429,Power Plug 2,Socket
+1430,Philips Lamp 1,Bulb
+1431,Ledvance Bulb,Bulb
+1432,Coordinator,Coordinator
+1433,Ledvance Smart+ Plug,Socket
+1434,Coordinator,Coordinator
+1435,Unknown,Unknown
+1436,Smart Socket,Socket
+1437,Unknown,Unknown
+1438,Coordinator,Coordinator
+1439,Unknown,Unknown
+1440,Philips Lamp 1,Bulb
+1441,Unknown,Unknown
+1442,Coordinator,Coordinator
+1443,Unknown,Unknown
+1444,Power Plug 1,Socket
+1445,Power Plug 1,Socket
+1446,Unknown,Unknown
+1447,Coordinator,Coordinator
+1448,Unknown,Unknown
+1449,Smart Socket,Socket
+1450,Unknown,Unknown
+1451,Smart Socket,Socket
+1452,Unknown,Unknown
+1453,Coordinator,Coordinator
+1454,Unknown,Unknown
+1455,Philips Lamp 1,Bulb
+1456,Unknown,Unknown
+1457,Power Plug 1,Socket
+1458,Unknown,Unknown
+1459,Coordinator,Coordinator
+1460,Unknown,Unknown
+1461,Philips Lamp 1,Bulb
+1462,Unknown,Unknown
+1463,Coordinator,Coordinator
+1464,Unknown,Unknown
+1465,Philips Lamp 1,Bulb
+1466,Unknown,Unknown
+1467,Coordinator,Coordinator
+1468,Unknown,Unknown
+1469,Coordinator,Coordinator
+1470,Unknown,Unknown
+1471,Power Plug 2,Socket
+1472,Unknown,Unknown
+1473,Coordinator,Coordinator
+1474,Power Plug 2,Socket
+1475,Unknown,Unknown
+1476,Coordinator,Coordinator
+1477,Power Plug 2,Socket
+1478,Unknown,Unknown
+1479,Coordinator,Coordinator
+1480,Unknown,Unknown
+1481,Philips Lamp 1,Bulb
+1482,Unknown,Unknown
+1483,Philips Lamp 1,Bulb
+1484,Unknown,Unknown
+1485,Philips Lamp 1,Bulb
+1486,Philips Lamp 1,Bulb
+1487,Power Plug 1,Socket
+1488,Philips Lamp 1,Bulb
+1489,Coordinator,Coordinator
+1490,Philips Lamp 1,Bulb
+1491,Unknown,Unknown
+1492,Coordinator,Coordinator
+1493,Unknown,Unknown
+1494,Power Plug 1,Socket
+1495,Unknown,Unknown
+1496,Power Plug 2,Socket
+1497,Unknown,Unknown
+1498,Philips Lamp 1,Bulb
+1499,Power Plug 1,Socket
+1500,Philips Lamp 1,Bulb
+1501,Unknown,Unknown
+1502,Power Plug 2,Socket
+1503,Unknown,Unknown
+1504,Power Plug 1,Socket
+1505,Power Plug 1,Socket
+1506,Unknown,Unknown
+1507,Coordinator,Coordinator
+1508,Power Plug 2,Socket
+1509,Unknown,Unknown
+1510,Philips Lamp 1,Bulb
+1511,Unknown,Unknown
+1512,Philips Lamp 1,Bulb
+1513,Unknown,Unknown
+1514,Coordinator,Coordinator
+1515,Unknown,Unknown
+1516,Coordinator,Coordinator
+1517,Unknown,Unknown
+1518,Philips Lamp 1,Bulb
+1519,Unknown,Unknown
+1520,Power Plug 1,Socket
+1521,Unknown,Unknown
+1522,Moes Bulb,Bulb
+1523,Ledvance Z3 Plug,Socket
+1524,Aqara Door 2,Door
+1525,Unknown,Unknown
+1526,Smart Socket,Socket
+1527,Unknown,Unknown
+1528,Power Plug 1,Socket
+1529,Smart Socket,Socket
+1530,Philips Motion,Bulb
+1531,Power Plug 2,Socket
+1532,Power Plug 2,Socket
+1533,Unknown,Unknown
+1534,Coordinator,Coordinator
+1535,Unknown,Unknown
+1536,Philips Lamp 1,Bulb
+1537,Unknown,Unknown
+1538,Coordinator,Coordinator
+1539,Power Plug 1,Socket
+1540,Unknown,Unknown
+1541,Power Plug 1,Socket
+1542,Unknown,Unknown
+1543,Power Plug 2,Socket
+1544,Power Plug 2,Socket
+1545,Unknown,Unknown
+1546,Power Plug 2,Socket
+1547,Unknown,Unknown
+1548,Power Plug 2,Socket
+1549,Unknown,Unknown
+1550,Ledvance Smart+ Plug,Socket
+1551,Philips Lamp 1,Bulb
+1552,Ledvance Bulb,Bulb
+1553,Moes Bulb,Bulb
+1554,Ledvance Z3 Plug,Socket
+1555,Power Plug 2,Socket
+1556,Unknown,Unknown
+1557,Coordinator,Coordinator
+1558,Coordinator,Coordinator
+1559,Unknown,Unknown
+1560,Philips Lamp 1,Bulb
+1561,Unknown,Unknown
+1562,Power Plug 1,Socket
+1563,Unknown,Unknown
+1564,Power Plug 2,Socket
+1565,Unknown,Unknown
+1566,Power Plug 1,Socket
+1567,Smart Socket,Socket
+1568,Philips Motion,Bulb
+1569,Power Plug 2,Socket
+1570,Ledvance Smart+ Plug,Socket
+1571,Coordinator,Coordinator
+1572,Unknown,Unknown
+1573,Smart Socket,Socket
+1574,Smart Socket,Socket
+1575,Unknown,Unknown
+1576,Coordinator,Coordinator
+1577,Unknown,Unknown
+1578,Philips Lamp 1,Bulb
+1579,Unknown,Unknown
+1580,Power Plug 1,Socket
+1581,Unknown,Unknown
+1582,Aqara Door 2,Door
+1583,Unknown,Unknown
+1584,Smart Socket,Socket
+1585,Unknown,Unknown
+1586,Coordinator,Coordinator
+1587,Unknown,Unknown
+1588,Coordinator,Coordinator
+1589,Unknown,Unknown
+1590,Coordinator,Coordinator
+1591,Unknown,Unknown
+1592,Smart Socket,Socket
+1593,Unknown,Unknown
+1594,Coordinator,Coordinator
+1595,Unknown,Unknown
+1596,Philips Lamp 1,Bulb
+1597,Unknown,Unknown
+1598,Coordinator,Coordinator
+1599,Unknown,Unknown
+1600,Philips Lamp 1,Bulb
+1601,Unknown,Unknown
+1602,Coordinator,Coordinator
+1603,Coordinator,Coordinator
+1604,Power Plug 1,Socket
+1605,Unknown,Unknown
+1606,Philips Lamp 1,Bulb
+1607,Power Plug 1,Socket
+1608,Coordinator,Coordinator
+1609,Unknown,Unknown
+1610,Unknown,Unknown
+1611,Philips Lamp 1,Bulb
+1612,Philips Lamp 1,Bulb
+1613,Unknown,Unknown
+1614,Unknown,Unknown
+1615,Coordinator,Coordinator
+1616,Unknown,Unknown
+1617,Power Plug 1,Socket
+1618,Unknown,Unknown
+1619,Power Plug 1,Socket
+1620,Coordinator,Coordinator
+1621,Coordinator,Coordinator
+1622,Coordinator,Coordinator
+1623,Unknown,Unknown
+1624,Power Plug 2,Socket
+1625,Unknown,Unknown
+1626,Philips Lamp 1,Bulb
+1627,Unknown,Unknown
+1628,Power Plug 2,Socket
+1629,Unknown,Unknown
+1630,Coordinator,Coordinator
+1631,Unknown,Unknown
+1632,Power Plug 2,Socket
+1633,Unknown,Unknown
+1634,Philips Lamp 1,Bulb
+1635,Philips Lamp 1,Bulb
+1636,Unknown,Unknown
+1637,Power Plug 2,Socket
+1638,Coordinator,Coordinator
+1639,Power Plug 2,Socket
+1640,Philips Lamp 1,Bulb
+1641,Power Plug 2,Socket
+1642,Coordinator,Coordinator
+1643,Power Plug 2,Socket
+1644,Unknown,Unknown
+1645,Coordinator,Coordinator
+1646,Philips Lamp 1,Bulb
+1647,Unknown,Unknown
+1648,Coordinator,Coordinator
+1649,Unknown,Unknown
+1650,Power Plug 1,Socket
+1651,Unknown,Unknown
+1652,Coordinator,Coordinator
+1653,Coordinator,Coordinator
+1654,Power Plug 1,Socket
+1655,Unknown,Unknown
+1656,Philips Lamp 1,Bulb
+1657,Unknown,Unknown
+1658,Power Plug 1,Socket
+1659,Power Plug 1,Socket
+1660,Unknown,Unknown
+1661,Coordinator,Coordinator
+1662,Unknown,Unknown
+1663,Philips Lamp 1,Bulb
+1664,Unknown,Unknown
+1665,Power Plug 1,Socket
+1666,Unknown,Unknown
+1667,Coordinator,Coordinator
+1668,Moes Bulb,Bulb
+1669,Philips Lamp 1,Bulb
+1670,Ledvance Bulb,Bulb
+1671,Ledvance Z3 Plug,Socket
+1672,Power Plug 1,Socket
+1673,Smart Socket,Socket
+1674,Philips Motion,Bulb
+1675,Power Plug 2,Socket
+1676,Ledvance Smart+ Plug,Socket
+1677,Moes Bulb,Bulb
+1678,Coordinator,Coordinator
+1679,Philips Lamp 1,Bulb
+1680,Ledvance Z3 Plug,Socket
+1681,Ledvance Bulb,Bulb
+1682,Power Plug 1,Socket
+1683,Smart Socket,Socket
+1684,Power Plug 2,Socket
+1685,Unknown,Unknown
+1686,Power Plug 2,Socket
+1687,Power Plug 2,Socket
+1688,Unknown,Unknown
+1689,Coordinator,Coordinator
+1690,Unknown,Unknown
+1691,Philips Lamp 1,Bulb
+1692,Unknown,Unknown
+1693,Power Plug 1,Socket
+1694,Power Plug 1,Socket
+1695,Unknown,Unknown
+1696,Power Plug 2,Socket
+1697,Power Plug 2,Socket
+1698,Unknown,Unknown
+1699,Power Plug 2,Socket
+1700,Power Plug 2,Socket
+1701,Philips Motion,Bulb
+1702,Ledvance Smart+ Plug,Socket
+1703,Coordinator,Coordinator
+1704,Unknown,Unknown
+1705,Smart Socket,Socket
+1706,Smart Socket,Socket
+1707,Unknown,Unknown
+1708,Coordinator,Coordinator
+1709,Philips Lamp 1,Bulb
+1710,Unknown,Unknown
+1711,Coordinator,Coordinator
+1712,Unknown,Unknown
+1713,Power Plug 1,Socket
+1714,Unknown,Unknown
+1715,Coordinator,Coordinator
+1716,Unknown,Unknown
+1717,Coordinator,Coordinator
+1718,Unknown,Unknown
+1719,Smart Socket,Socket
+1720,Unknown,Unknown
+1721,Coordinator,Coordinator
+1722,Coordinator,Coordinator
+1723,Unknown,Unknown
+1724,Philips Lamp 1,Bulb
+1725,Unknown,Unknown
+1726,Coordinator,Coordinator
+1727,Power Plug 1,Socket
+1728,Unknown,Unknown
+1729,Coordinator,Coordinator
+1730,Unknown,Unknown
+1731,Unknown,Unknown
+1732,Coordinator,Coordinator
+1733,Unknown,Unknown
+1734,Philips Lamp 1,Bulb
+1735,Unknown,Unknown
+1736,Coordinator,Coordinator
+1737,Unknown,Unknown
+1738,Philips Lamp 1,Bulb
+1739,Philips Lamp 1,Bulb
+1740,Unknown,Unknown
+1741,Coordinator,Coordinator
+1742,Unknown,Unknown
+1743,Power Plug 1,Socket
+1744,Unknown,Unknown
+1745,Philips Lamp 1,Bulb
+1746,Unknown,Unknown
+1747,Power Plug 1,Socket
+1748,Power Plug 1,Socket
+1749,Coordinator,Coordinator
+1750,Power Plug 2,Socket
+1751,Coordinator,Coordinator
+1752,Power Plug 2,Socket
+1753,Unknown,Unknown
+1754,Coordinator,Coordinator
+1755,Unknown,Unknown
+1756,Philips Lamp 1,Bulb
+1757,Unknown,Unknown
+1758,Unknown,Unknown
+1759,Power Plug 2,Socket
+1760,Philips Lamp 1,Bulb
+1761,Unknown,Unknown
+1762,Power Plug 2,Socket
+1763,Power Plug 1,Socket
+1764,Unknown,Unknown
+1765,Power Plug 2,Socket
+1766,Unknown,Unknown
+1767,Power Plug 2,Socket
+1768,Power Plug 2,Socket
+1769,Unknown,Unknown
+1770,Coordinator,Coordinator
+1771,Unknown,Unknown
+1772,Power Plug 2,Socket
+1773,Power Plug 1,Socket
+1774,Power Plug 1,Socket
+1775,Unknown,Unknown
+1776,Moes Bulb,Bulb
+1777,Philips Lamp 1,Bulb
+1778,Coordinator,Coordinator
+1779,Ledvance Bulb,Bulb
+1780,Ledvance Z3 Plug,Socket
+1781,Power Plug 1,Socket
+1782,Smart Socket,Socket
+1783,Power Plug 2,Socket
+1784,Ledvance Smart+ Plug,Socket
+1785,Philips Motion,Bulb
+1786,Moes Bulb,Bulb
+1787,Ledvance Bulb,Bulb
+1788,Coordinator,Coordinator
+1789,Philips Lamp 1,Bulb
+1790,Ledvance Z3 Plug,Socket
+1791,Power Plug 1,Socket
+1792,Smart Socket,Socket
+1793,Aqara Motion,Motion
+1794,Unknown,Unknown
+1795,Power Plug 2,Socket
+1796,Ledvance Smart+ Plug,Socket
+1797,Sonoff Motion 2,Motion
+1798,Unknown,Unknown
+1799,Coordinator,Coordinator
+1800,Unknown,Unknown
+1801,Smart Socket,Socket
+1802,Unknown,Unknown
+1803,Coordinator,Coordinator
+1804,Unknown,Unknown
+1805,Philips Lamp 1,Bulb
+1806,Unknown,Unknown
+1807,Coordinator,Coordinator
+1808,Unknown,Unknown
+1809,Power Plug 1,Socket
+1810,Unknown,Unknown
+1811,Coordinator,Coordinator
+1812,Unknown,Unknown
+1813,Smart Socket,Socket
+1814,Unknown,Unknown
+1815,Coordinator,Coordinator
+1816,Unknown,Unknown
+1817,Philips Lamp 1,Bulb
+1818,Unknown,Unknown
+1819,Coordinator,Coordinator
+1820,Unknown,Unknown
+1821,Power Plug 1,Socket
+1822,Philips Lamp 1,Bulb
+1823,Coordinator,Coordinator
+1824,Coordinator,Coordinator
+1825,Coordinator,Coordinator
+1826,Coordinator,Coordinator
+1827,Power Plug 1,Socket
+1828,Power Plug 1,Socket
+1829,Coordinator,Coordinator
+1830,Unknown,Unknown
+1831,Coordinator,Coordinator
+1832,Coordinator,Coordinator
+1833,Unknown,Unknown
+1834,Philips Lamp 1,Bulb
+1835,Power Plug 1,Socket
+1836,Unknown,Unknown
+1837,Philips Lamp 1,Bulb
+1838,Power Plug 1,Socket
+1839,Philips Lamp 1,Bulb
+1840,Unknown,Unknown
+1841,Power Plug 1,Socket
+1842,Unknown,Unknown
+1843,Philips Lamp 1,Bulb
+1844,Power Plug 1,Socket
+1845,Unknown,Unknown
+1846,Philips Lamp 1,Bulb
+1847,Power Plug 1,Socket
+1848,Philips Lamp 1,Bulb
+1849,Philips Lamp 1,Bulb
+1850,Power Plug 1,Socket
+1851,Unknown,Unknown
+1852,Philips Lamp 1,Bulb
+1853,Unknown,Unknown
+1854,Unknown,Unknown
+1855,Coordinator,Coordinator
+1856,Unknown,Unknown
+1857,Philips Lamp 1,Bulb
+1858,Unknown,Unknown
+1859,Power Plug 2,Socket
+1860,Unknown,Unknown
+1861,Philips Lamp 1,Bulb
+1862,Unknown,Unknown
+1863,Power Plug 1,Socket
+1864,Power Plug 1,Socket
+1865,Unknown,Unknown
+1866,Coordinator,Coordinator
+1867,Unknown,Unknown
+1868,Philips Lamp 1,Bulb
+1869,Unknown,Unknown
+1870,Power Plug 2,Socket
+1871,Power Plug 1,Socket
+1872,Unknown,Unknown
+1873,Power Plug 2,Socket
+1874,Power Plug 2,Socket
+1875,Unknown,Unknown
+1876,Coordinator,Coordinator
+1877,Unknown,Unknown
+1878,Philips Lamp 1,Bulb
+1879,Unknown,Unknown
+1880,Power Plug 1,Socket
+1881,Sonoff Motion 2,Motion
+1882,Unknown,Unknown
+1883,Philips Motion,Bulb
+1884,Moes Bulb,Bulb
+1885,Power Plug 2,Socket
+1886,Unknown,Unknown
+1887,Coordinator,Coordinator
+1888,Unknown,Unknown
+1889,Philips Lamp 1,Bulb
+1890,Unknown,Unknown
+1891,Power Plug 1,Socket
+1892,Power Plug 1,Socket
+1893,Unknown,Unknown
+1894,Power Plug 2,Socket
+1895,Power Plug 2,Socket
+1896,Unknown,Unknown
+1897,Coordinator,Coordinator
+1898,Philips Lamp 1,Bulb
+1899,Ledvance Bulb,Bulb
+1900,Power Plug 1,Socket
+1901,Ledvance Z3 Plug,Socket
+1902,Smart Socket,Socket
+1903,Ledvance Smart+ Plug,Socket
+1904,Philips Motion,Bulb
+1905,Moes Bulb,Bulb
+1906,Coordinator,Coordinator
+1907,Unknown,Unknown
+1908,Philips Motion,Bulb
+1909,Unknown,Unknown
+1910,Philips Motion,Bulb
+1911,Unknown,Unknown
+1912,Coordinator,Coordinator
+1913,Unknown,Unknown
+1914,Philips Motion,Bulb
+1915,Unknown,Unknown
+1916,Philips Motion,Bulb
+1917,Unknown,Unknown
+1918,Philips Lamp 1,Bulb
+1919,Coordinator,Coordinator
+1920,Power Plug 1,Socket
+1921,Ledvance Bulb,Bulb
+1922,Smart Socket,Socket
+1923,Power Plug 2,Socket
+1924,Ledvance Smart+ Plug,Socket
+1925,Philips Motion,Bulb
+1926,Coordinator,Coordinator
+1927,Unknown,Unknown
+1928,Smart Socket,Socket
+1929,Unknown,Unknown
+1930,Coordinator,Coordinator
+1931,Coordinator,Coordinator
+1932,Unknown,Unknown
+1933,Philips Lamp 1,Bulb
+1934,Power Plug 1,Socket
+1935,Unknown,Unknown
+1936,Power Plug 1,Socket
+1937,Unknown,Unknown
+1938,Coordinator,Coordinator
+1939,Unknown,Unknown
+1940,Coordinator,Coordinator
+1941,Unknown,Unknown
+1942,Smart Socket,Socket
+1943,Unknown,Unknown
+1944,Coordinator,Coordinator
+1945,Unknown,Unknown
+1946,Philips Lamp 1,Bulb
+1947,Unknown,Unknown
+1948,Unknown,Unknown
+1949,Coordinator,Coordinator
+1950,Coordinator,Coordinator
+1951,Unknown,Unknown
+1952,Coordinator,Coordinator
+1953,Unknown,Unknown
+1954,Power Plug 1,Socket
+1955,Philips Lamp 1,Bulb
+1956,Unknown,Unknown
+1957,Power Plug 1,Socket
+1958,Power Plug 1,Socket
+1959,Unknown,Unknown
+1960,Power Plug 1,Socket
+1961,Unknown,Unknown
+1962,Coordinator,Coordinator
+1963,Unknown,Unknown
+1964,Power Plug 2,Socket
+1965,Unknown,Unknown
+1966,Power Plug 2,Socket
+1967,Unknown,Unknown
+1968,Coordinator,Coordinator
+1969,Coordinator,Coordinator
+1970,Unknown,Unknown
+1971,Philips Lamp 1,Bulb
+1972,Unknown,Unknown
+1973,Power Plug 1,Socket
+1974,Unknown,Unknown
+1975,Power Plug 2,Socket
+1976,Unknown,Unknown
+1977,Power Plug 2,Socket
+1978,Unknown,Unknown
+1979,Coordinator,Coordinator
+1980,Unknown,Unknown
+1981,Philips Lamp 1,Bulb
+1982,Unknown,Unknown
+1983,Coordinator,Coordinator
+1984,Unknown,Unknown
+1985,Philips Lamp 1,Bulb
+1986,Unknown,Unknown
+1987,Power Plug 1,Socket
+1988,Unknown,Unknown
+1989,Coordinator,Coordinator
+1990,Unknown,Unknown
+1991,Philips Lamp 1,Bulb
+1992,Unknown,Unknown
+1993,Power Plug 1,Socket
+1994,Unknown,Unknown
+1995,Moes Bulb,Bulb
+1996,Power Plug 2,Socket
+1997,Power Plug 2,Socket
+1998,Unknown,Unknown
+1999,Coordinator,Coordinator
+2000,Unknown,Unknown
+2001,Unknown,Unknown
+2002,Power Plug 1,Socket
+2003,Unknown,Unknown
+2004,Coordinator,Coordinator
+2005,Unknown,Unknown
+2006,Philips Lamp 1,Bulb
+2007,Unknown,Unknown
+2008,Power Plug 1,Socket
+2009,Power Plug 1,Socket
+2010,Unknown,Unknown
+2011,Power Plug 2,Socket
+2012,Unknown,Unknown
+2013,Power Plug 2,Socket
+2014,Unknown,Unknown
+2015,Smart Socket,Socket
+2016,Unknown,Unknown
+2017,Coordinator,Coordinator
+2018,Unknown,Unknown
+2019,Smart Socket,Socket
+2020,Unknown,Unknown
+2021,Philips Lamp 1,Bulb
+2022,Coordinator,Coordinator
+2023,Power Plug 1,Socket
+2024,Smart Socket,Socket
+2025,Ledvance Bulb,Bulb
+2026,Unknown,Unknown
+2027,Ledvance Bulb,Bulb
+2028,Ledvance Bulb,Bulb
+2029,Unknown,Unknown
+2030,Coordinator,Coordinator
+2031,Unknown,Unknown
+2032,Coordinator,Coordinator
+2033,Unknown,Unknown
+2034,Ledvance Bulb,Bulb
+2035,Unknown,Unknown
+2036,Ledvance Bulb,Bulb
+2037,Unknown,Unknown
+2038,Ledvance Z3 Plug,Socket
+2039,Power Plug 2,Socket
+2040,Ledvance Smart+ Plug,Socket
+2041,Ledvance Bulb,Bulb
+2042,Unknown,Unknown
+2043,Ledvance Bulb,Bulb
+2044,Unknown,Unknown
+2045,Coordinator,Coordinator
+2046,Unknown,Unknown
+2047,Coordinator,Coordinator
+2048,Unknown,Unknown
+2049,Ledvance Bulb,Bulb
+2050,Unknown,Unknown
+2051,Ledvance Bulb,Bulb
+2052,Unknown,Unknown
+2053,Ledvance Bulb,Bulb
+2054,Unknown,Unknown
+2055,Ledvance Bulb,Bulb
+2056,Unknown,Unknown
+2057,Coordinator,Coordinator
+2058,Unknown,Unknown
+2059,Coordinator,Coordinator
+2060,Unknown,Unknown
+2061,Ledvance Bulb,Bulb
+2062,Unknown,Unknown
+2063,Ledvance Bulb,Bulb
+2064,Unknown,Unknown
+2065,Moes Bulb,Bulb
+2066,Philips Motion,Bulb
+2067,Power Plug 2,Socket
+2068,Power Plug 2,Socket
+2069,Power Plug 2,Socket
+2070,Unknown,Unknown
+2071,Coordinator,Coordinator
+2072,Unknown,Unknown
+2073,Philips Lamp 1,Bulb
+2074,Unknown,Unknown
+2075,Power Plug 1,Socket
+2076,Unknown,Unknown
+2077,Power Plug 2,Socket
+2078,Unknown,Unknown
+2079,Power Plug 1,Socket
+2080,Unknown,Unknown
+2081,Coordinator,Coordinator
+2082,Unknown,Unknown
+2083,Philips Lamp 1,Bulb
+2084,Unknown,Unknown
+2085,Power Plug 1,Socket
+2086,Power Plug 1,Socket
+2087,Power Plug 1,Socket
+2088,Unknown,Unknown
+2089,Power Plug 1,Socket
+2090,Unknown,Unknown
+2091,Coordinator,Coordinator
+2092,Unknown,Unknown
+2093,Philips Lamp 1,Bulb
+2094,Unknown,Unknown
+2095,Unknown,Unknown
+2096,Power Plug 1,Socket
+2097,Unknown,Unknown
+2098,Coordinator,Coordinator
+2099,Ledvance Z3 Plug,Socket
+2100,Ledvance Bulb,Bulb
+2101,Philips Lamp 1,Bulb
+2102,Smart Socket,Socket
+2103,Power Plug 1,Socket
+2104,Philips Motion,Bulb
+2105,Moes Bulb,Bulb
+2106,Ledvance Z3 Plug,Socket
+2107,Ledvance Bulb,Bulb
+2108,Smart Socket,Socket
+2109,Power Plug 1,Socket
+2110,Coordinator,Coordinator
+2111,Moes Bulb,Bulb
+2112,Power Plug 2,Socket
+2113,Philips Lamp 1,Bulb
+2114,Philips Motion,Bulb
+2115,Smart Socket,Socket
+2116,Ledvance Bulb,Bulb
+2117,Moes Bulb,Bulb
+2118,Power Plug 2,Socket
+2119,Coordinator,Coordinator
+2120,Philips Motion,Bulb
+2121,Philips Lamp 1,Bulb
+2122,Coordinator,Coordinator
+2123,Sonoff Motion 1,Motion
+2124,Unknown,Unknown
+2125,Sonoff Motion 1,Motion
+2126,Unknown,Unknown
+2127,Coordinator,Coordinator
+2128,Power Plug 1,Socket
+2129,Smart Socket,Socket
+2130,Philips Lamp 1,Bulb
+2131,Power Plug 1,Socket
+2132,Power Plug 1,Socket
+2133,Unknown,Unknown
+2134,Coordinator,Coordinator
+2135,Unknown,Unknown
+2136,Philips Lamp 1,Bulb
+2137,Unknown,Unknown
+2138,Unknown,Unknown
+2139,Power Plug 1,Socket
+2140,Unknown,Unknown
+2141,Ledvance Bulb,Bulb
+2142,Power Plug 2,Socket
+2143,Ledvance Z3 Plug,Socket
+2144,Ledvance Smart+ Plug,Socket
+2145,Coordinator,Coordinator
+2146,Unknown,Unknown
+2147,Smart Socket,Socket
+2148,Unknown,Unknown
+2149,Coordinator,Coordinator
+2150,Unknown,Unknown
+2151,Philips Lamp 1,Bulb
+2152,Unknown,Unknown
+2153,Coordinator,Coordinator
+2154,Unknown,Unknown
+2155,Power Plug 1,Socket
+2156,Unknown,Unknown
+2157,Coordinator,Coordinator
+2158,Unknown,Unknown
+2159,Smart Socket,Socket
+2160,Unknown,Unknown
+2161,Coordinator,Coordinator
+2162,Unknown,Unknown
+2163,Coordinator,Coordinator
+2164,Unknown,Unknown
+2165,Philips Lamp 1,Bulb
+2166,Coordinator,Coordinator
+2167,Philips Lamp 1,Bulb
+2168,Unknown,Unknown
+2169,Coordinator,Coordinator
+2170,Coordinator,Coordinator
+2171,Coordinator,Coordinator
+2172,Power Plug 1,Socket
+2173,Philips Lamp 1,Bulb
+2174,Coordinator,Coordinator
+2175,Unknown,Unknown
+2176,Power Plug 1,Socket
+2177,Unknown,Unknown
+2178,Coordinator,Coordinator
+2179,Unknown,Unknown
+2180,Philips Lamp 1,Bulb
+2181,Unknown,Unknown
+2182,Power Plug 1,Socket
+2183,Philips Lamp 1,Bulb
+2184,Unknown,Unknown
+2185,Coordinator,Coordinator
+2186,Coordinator,Coordinator
+2187,Unknown,Unknown
+2188,Unknown,Unknown
+2189,Unknown,Unknown
+2190,Power Plug 1,Socket
+2191,Philips Lamp 1,Bulb
+2192,Unknown,Unknown
+2193,Power Plug 2,Socket
+2194,Unknown,Unknown
+2195,Coordinator,Coordinator
+2196,Unknown,Unknown
+2197,Philips Lamp 1,Bulb
+2198,Unknown,Unknown
+2199,Power Plug 1,Socket
+2200,Unknown,Unknown
+2201,Moes Bulb,Bulb
+2202,Philips Motion,Bulb
+2203,Sonoff Motion 2,Motion
+2204,Unknown,Unknown
+2205,Sonoff Motion 2,Motion
+2206,Unknown,Unknown
+2207,Coordinator,Coordinator
+2208,Power Plug 1,Socket
+2209,Smart Socket,Socket
+2210,Philips Lamp 1,Bulb
+2211,Power Plug 2,Socket
+2212,Ledvance Bulb,Bulb
+2213,Ledvance Z3 Plug,Socket
+2214,Ledvance Smart+ Plug,Socket
+2215,Moes Bulb,Bulb
+2216,Sonoff Door 1,Door
+2217,Unknown,Unknown
+2218,Sonoff Door 1,Door
+2219,Unknown,Unknown
+2220,Philips Motion,Bulb
+2221,Coordinator,Coordinator
+2222,Power Plug 1,Socket
+2223,Smart Socket,Socket
+2224,Sonoff Motion 1,Motion
+2225,Unknown,Unknown
+2226,Unknown,Unknown
+2227,Philips Lamp 1,Bulb
+2228,Ledvance Bulb,Bulb
+2229,Power Plug 2,Socket
+2230,Ledvance Smart+ Plug,Socket
+2231,Ledvance Z3 Plug,Socket
+2232,Coordinator,Coordinator
+2233,Unknown,Unknown
+2234,Smart Socket,Socket
+2235,Unknown,Unknown
+2236,Coordinator,Coordinator
+2237,Unknown,Unknown
+2238,Philips Lamp 1,Bulb
+2239,Unknown,Unknown
+2240,Coordinator,Coordinator
+2241,Unknown,Unknown
+2242,Power Plug 1,Socket
+2243,Unknown,Unknown
+2244,Coordinator,Coordinator
+2245,Unknown,Unknown
+2246,Smart Socket,Socket
+2247,Unknown,Unknown
+2248,Smart Socket,Socket
+2249,Unknown,Unknown
+2250,Coordinator,Coordinator
+2251,Philips Lamp 1,Bulb
+2252,Coordinator,Coordinator
+2253,Coordinator,Coordinator
+2254,Unknown,Unknown
+2255,Power Plug 1,Socket
+2256,Power Plug 1,Socket
+2257,Unknown,Unknown
+2258,Coordinator,Coordinator
+2259,Unknown,Unknown
+2260,Philips Lamp 1,Bulb
+2261,Unknown,Unknown
+2262,Coordinator,Coordinator
+2263,Unknown,Unknown
+2264,Philips Lamp 1,Bulb
+2265,Unknown,Unknown
+2266,Power Plug 1,Socket
+2267,Unknown,Unknown
+2268,Coordinator,Coordinator
+2269,Unknown,Unknown
+2270,Unknown,Unknown
+2271,Coordinator,Coordinator
+2272,Power Plug 2,Socket
+2273,Philips Lamp 1,Bulb
+2274,Unknown,Unknown
+2275,Power Plug 2,Socket
+2276,Unknown,Unknown
+2277,Power Plug 1,Socket
+2278,Unknown,Unknown
+2279,Power Plug 1,Socket
+2280,Unknown,Unknown
+2281,Coordinator,Coordinator
+2282,Unknown,Unknown
+2283,Power Plug 2,Socket
+2284,Philips Lamp 1,Bulb
+2285,Coordinator,Coordinator
+2286,Unknown,Unknown
+2287,Philips Lamp 1,Bulb
+2288,Unknown,Unknown
+2289,Power Plug 1,Socket
+2290,Unknown,Unknown
+2291,Power Plug 2,Socket
+2292,Unknown,Unknown
+2293,Coordinator,Coordinator
+2294,Unknown,Unknown
+2295,Philips Lamp 1,Bulb
+2296,Unknown,Unknown
+2297,Power Plug 1,Socket
+2298,Unknown,Unknown
+2299,Moes Bulb,Bulb
+2300,Philips Motion,Bulb
+2301,Power Plug 1,Socket
+2302,Smart Socket,Socket
+2303,Coordinator,Coordinator
+2304,Ledvance Bulb,Bulb
+2305,Power Plug 2,Socket
+2306,Philips Lamp 1,Bulb
+2307,Ledvance Smart+ Plug,Socket
+2308,Ledvance Z3 Plug,Socket
+2309,Smart Socket,Socket
+2310,Unknown,Unknown
+2311,Coordinator,Coordinator
+2312,Unknown,Unknown
+2313,Smart Socket,Socket
+2314,Unknown,Unknown
+2315,Smart Socket,Socket
+2316,Unknown,Unknown
+2317,Coordinator,Coordinator
+2318,Unknown,Unknown
+2319,Smart Socket,Socket
+2320,Unknown,Unknown
+2321,Smart Socket,Socket
+2322,Unknown,Unknown
+2323,Moes Bulb,Bulb
+2324,Power Plug 2,Socket
+2325,Unknown,Unknown
+2326,Coordinator,Coordinator
+2327,Unknown,Unknown
+2328,Philips Lamp 1,Bulb
+2329,Unknown,Unknown
+2330,Power Plug 1,Socket
+2331,Unknown,Unknown
+2332,Power Plug 2,Socket
+2333,Unknown,Unknown
+2334,Power Plug 1,Socket
+2335,Philips Motion,Bulb
+2336,Smart Socket,Socket
+2337,Power Plug 2,Socket
+2338,Coordinator,Coordinator
+2339,Ledvance Smart+ Plug,Socket
+2340,Ledvance Bulb,Bulb
+2341,Philips Lamp 1,Bulb
+2342,Coordinator,Coordinator
+2343,Coordinator,Coordinator
+2344,Unknown,Unknown
+2345,Smart Socket,Socket
+2346,Smart Socket,Socket
+2347,Unknown,Unknown
+2348,Coordinator,Coordinator
+2349,Unknown,Unknown
+2350,Philips Lamp 1,Bulb
+2351,Unknown,Unknown
+2352,Power Plug 1,Socket
+2353,Unknown,Unknown
+2354,Coordinator,Coordinator
+2355,Unknown,Unknown
+2356,Smart Socket,Socket
+2357,Unknown,Unknown
+2358,Smart Socket,Socket
+2359,Coordinator,Coordinator
+2360,Smart Socket,Socket
+2361,Smart Socket,Socket
+2362,Coordinator,Coordinator
+2363,Unknown,Unknown
+2364,Smart Socket,Socket
+2365,Coordinator,Coordinator
+2366,Philips Lamp 1,Bulb
+2367,Unknown,Unknown
+2368,Smart Socket,Socket
+2369,Smart Socket,Socket
+2370,Coordinator,Coordinator
+2371,Smart Socket,Socket
+2372,Coordinator,Coordinator
+2373,Smart Socket,Socket
+2374,Coordinator,Coordinator
+2375,Smart Socket,Socket
+2376,Coordinator,Coordinator
+2377,Coordinator,Coordinator
+2378,Unknown,Unknown
+2379,Smart Socket,Socket
+2380,Unknown,Unknown
+2381,Unknown,Unknown
+2382,Philips Lamp 1,Bulb
+2383,Smart Socket,Socket
+2384,Philips Lamp 1,Bulb
+2385,Philips Lamp 1,Bulb
+2386,Power Plug 1,Socket
+2387,Unknown,Unknown
+2388,Coordinator,Coordinator
+2389,Philips Lamp 1,Bulb
+2390,Unknown,Unknown
+2391,Power Plug 1,Socket
+2392,Unknown,Unknown
+2393,Coordinator,Coordinator
+2394,Power Plug 1,Socket
+2395,Unknown,Unknown
+2396,Power Plug 1,Socket
+2397,Coordinator,Coordinator
+2398,Coordinator,Coordinator
+2399,Unknown,Unknown
+2400,Philips Lamp 1,Bulb
+2401,Power Plug 2,Socket
+2402,Coordinator,Coordinator
+2403,Unknown,Unknown
+2404,Power Plug 2,Socket
+2405,Unknown,Unknown
+2406,Coordinator,Coordinator
+2407,Power Plug 2,Socket
+2408,Unknown,Unknown
+2409,Philips Lamp 1,Bulb
+2410,Unknown,Unknown
+2411,Power Plug 1,Socket
+2412,Unknown,Unknown
+2413,Coordinator,Coordinator
+2414,Unknown,Unknown
+2415,Power Plug 2,Socket
+2416,Unknown,Unknown
+2417,Coordinator,Coordinator
+2418,Coordinator,Coordinator
+2419,Unknown,Unknown
+2420,Coordinator,Coordinator
+2421,Unknown,Unknown
+2422,Coordinator,Coordinator
+2423,Unknown,Unknown
+2424,Philips Lamp 1,Bulb
+2425,Coordinator,Coordinator
+2426,Unknown,Unknown
+2427,Philips Lamp 1,Bulb
+2428,Unknown,Unknown
+2429,Coordinator,Coordinator
+2430,Coordinator,Coordinator
+2431,Unknown,Unknown
+2432,Coordinator,Coordinator
+2433,Unknown,Unknown
+2434,Coordinator,Coordinator
+2435,Coordinator,Coordinator
+2436,Unknown,Unknown
+2437,Coordinator,Coordinator
+2438,Unknown,Unknown
+2439,Power Plug 1,Socket
+2440,Unknown,Unknown
+2441,Unknown,Unknown
+2442,Philips Lamp 1,Bulb
+2443,Unknown,Unknown
+2444,Coordinator,Coordinator
+2445,Unknown,Unknown
+2446,Coordinator,Coordinator
+2447,Unknown,Unknown
+2448,Philips Lamp 1,Bulb
+2449,Unknown,Unknown
+2450,Moes Bulb,Bulb
+2451,Ledvance Z3 Plug,Socket
+2452,Coordinator,Coordinator
+2453,Unknown,Unknown
+2454,Philips Lamp 1,Bulb
+2455,Unknown,Unknown
+2456,Philips Lamp 1,Bulb
+2457,Unknown,Unknown
+2458,Coordinator,Coordinator
+2459,Unknown,Unknown
+2460,Philips Lamp 1,Bulb
+2461,Unknown,Unknown
+2462,Philips Lamp 1,Bulb
+2463,Unknown,Unknown
+2464,Power Plug 1,Socket
+2465,Smart Socket,Socket
+2466,Power Plug 2,Socket
+2467,Unknown,Unknown
+2468,Coordinator,Coordinator
+2469,Unknown,Unknown
+2470,Philips Lamp 1,Bulb
+2471,Unknown,Unknown
+2472,Power Plug 1,Socket
+2473,Unknown,Unknown
+2474,Power Plug 2,Socket
+2475,Unknown,Unknown
+2476,Philips Motion,Bulb
+2477,Power Plug 2,Socket
+2478,Ledvance Smart+ Plug,Socket
+2479,Philips Lamp 1,Bulb
+2480,Ledvance Bulb,Bulb
+2481,Moes Bulb,Bulb
+2482,Coordinator,Coordinator
+2483,Sonoff Motion 2,Motion
+2484,Unknown,Unknown
+2485,Ledvance Z3 Plug,Socket
+2486,Sonoff Motion 2,Motion
+2487,Unknown,Unknown
+2488,Power Plug 1,Socket
+2489,Smart Socket,Socket
+2490,Power Plug 2,Socket
+2491,Ledvance Smart+ Plug,Socket
+2492,Philips Motion,Bulb
+2493,Coordinator,Coordinator
+2494,Coordinator,Coordinator
+2495,Unknown,Unknown
+2496,Smart Socket,Socket
+2497,Unknown,Unknown
+2498,Coordinator,Coordinator
+2499,Unknown,Unknown
+2500,Unknown,Unknown
+2501,Power Plug 1,Socket
+2502,Unknown,Unknown
+2503,Coordinator,Coordinator
+2504,Unknown,Unknown
+2505,Coordinator,Coordinator
+2506,Unknown,Unknown
+2507,Smart Socket,Socket
+2508,Unknown,Unknown
+2509,Coordinator,Coordinator
+2510,Unknown,Unknown
+2511,Philips Lamp 1,Bulb
+2512,Unknown,Unknown
+2513,Power Plug 1,Socket
+2514,Unknown,Unknown
+2515,Coordinator,Coordinator
+2516,Unknown,Unknown
+2517,Philips Lamp 1,Bulb
+2518,Unknown,Unknown
+2519,Coordinator,Coordinator
+2520,Unknown,Unknown
+2521,Philips Lamp 1,Bulb
+2522,Unknown,Unknown
+2523,Power Plug 1,Socket
+2524,Unknown,Unknown
+2525,Coordinator,Coordinator
+2526,Philips Lamp 1,Bulb
+2527,Unknown,Unknown
+2528,Power Plug 2,Socket
+2529,Power Plug 1,Socket
+2530,Power Plug 2,Socket
+2531,Unknown,Unknown
+2532,Power Plug 1,Socket
+2533,Coordinator,Coordinator
+2534,Unknown,Unknown
+2535,Power Plug 1,Socket
+2536,Coordinator,Coordinator
+2537,Coordinator,Coordinator
+2538,Philips Lamp 1,Bulb
+2539,Coordinator,Coordinator
+2540,Power Plug 2,Socket
+2541,Unknown,Unknown
+2542,Philips Lamp 1,Bulb
+2543,Philips Lamp 1,Bulb
+2544,Philips Lamp 1,Bulb
+2545,Coordinator,Coordinator
+2546,Coordinator,Coordinator
+2547,Power Plug 1,Socket
+2548,Unknown,Unknown
+2549,Power Plug 2,Socket
+2550,Coordinator,Coordinator
+2551,Coordinator,Coordinator
+2552,Philips Lamp 1,Bulb
+2553,Philips Lamp 1,Bulb
+2554,Unknown,Unknown
+2555,Power Plug 2,Socket
+2556,Power Plug 1,Socket
+2557,Unknown,Unknown
+2558,Power Plug 2,Socket
+2559,Power Plug 2,Socket
+2560,Philips Lamp 1,Bulb
+2561,Power Plug 2,Socket
+2562,Unknown,Unknown
+2563,Power Plug 2,Socket
+2564,Unknown,Unknown
+2565,Power Plug 2,Socket
+2566,Unknown,Unknown
+2567,Philips Lamp 1,Bulb
+2568,Unknown,Unknown
+2569,Coordinator,Coordinator
+2570,Unknown,Unknown
+2571,Coordinator,Coordinator
+2572,Unknown,Unknown
+2573,Philips Lamp 1,Bulb
+2574,Unknown,Unknown
+2575,Coordinator,Coordinator
+2576,Unknown,Unknown
+2577,Unknown,Unknown
+2578,Philips Lamp 1,Bulb
+2579,Unknown,Unknown
+2580,Power Plug 1,Socket
+2581,Unknown,Unknown
+2582,Philips Lamp 1,Bulb
+2583,Moes Bulb,Bulb
+2584,Ledvance Bulb,Bulb
+2585,Coordinator,Coordinator
+2586,Ledvance Z3 Plug,Socket
+2587,Ledvance Bulb,Bulb
+2588,Unknown,Unknown
+2589,Ledvance Bulb,Bulb
+2590,Unknown,Unknown
+2591,Coordinator,Coordinator
+2592,Unknown,Unknown
+2593,Coordinator,Coordinator
+2594,Unknown,Unknown
+2595,Ledvance Bulb,Bulb
+2596,Unknown,Unknown
+2597,Ledvance Bulb,Bulb
+2598,Unknown,Unknown
+2599,Power Plug 1,Socket
+2600,Smart Socket,Socket
+2601,Power Plug 2,Socket
+2602,Ledvance Smart+ Plug,Socket
+2603,Moes Bulb,Bulb
+2604,Ledvance Bulb,Bulb
+2605,Philips Lamp 1,Bulb
+2606,Philips Motion,Bulb
+2607,Coordinator,Coordinator
+2608,Ledvance Z3 Plug,Socket
+2609,Power Plug 1,Socket
+2610,Smart Socket,Socket
+2611,Power Plug 2,Socket
+2612,Ledvance Smart+ Plug,Socket
+2613,Coordinator,Coordinator
+2614,Unknown,Unknown
+2615,Smart Socket,Socket
+2616,Unknown,Unknown
+2617,Coordinator,Coordinator
+2618,Unknown,Unknown
+2619,Philips Lamp 1,Bulb
+2620,Unknown,Unknown
+2621,Coordinator,Coordinator
+2622,Unknown,Unknown
+2623,Power Plug 1,Socket
+2624,Unknown,Unknown
+2625,Coordinator,Coordinator
+2626,Unknown,Unknown
+2627,Smart Socket,Socket
+2628,Unknown,Unknown
+2629,Coordinator,Coordinator
+2630,Unknown,Unknown
+2631,Philips Lamp 1,Bulb
+2632,Unknown,Unknown
+2633,Coordinator,Coordinator
+2634,Coordinator,Coordinator
+2635,Coordinator,Coordinator
+2636,Coordinator,Coordinator
+2637,Coordinator,Coordinator
+2638,Coordinator,Coordinator
+2639,Coordinator,Coordinator
+2640,Coordinator,Coordinator
+2641,Power Plug 1,Socket
+2642,Philips Lamp 1,Bulb
+2643,Unknown,Unknown
+2644,Power Plug 1,Socket
+2645,Unknown,Unknown
+2646,Coordinator,Coordinator
+2647,Power Plug 2,Socket
+2648,Unknown,Unknown
+2649,Coordinator,Coordinator
+2650,Unknown,Unknown
+2651,Coordinator,Coordinator
+2652,Unknown,Unknown
+2653,Philips Lamp 1,Bulb
+2654,Unknown,Unknown
+2655,Coordinator,Coordinator
+2656,Coordinator,Coordinator
+2657,Coordinator,Coordinator
+2658,Unknown,Unknown
+2659,Power Plug 1,Socket
+2660,Unknown,Unknown
+2661,Philips Lamp 1,Bulb
+2662,Philips Lamp 1,Bulb
+2663,Power Plug 2,Socket
+2664,Unknown,Unknown
+2665,Philips Lamp 1,Bulb
+2666,Unknown,Unknown
+2667,Coordinator,Coordinator
+2668,Unknown,Unknown
+2669,Philips Lamp 1,Bulb
+2670,Unknown,Unknown
+2671,Coordinator,Coordinator
+2672,Unknown,Unknown
+2673,Unknown,Unknown
+2674,Coordinator,Coordinator
+2675,Unknown,Unknown
+2676,Power Plug 1,Socket
+2677,Unknown,Unknown
+2678,Philips Lamp 1,Bulb
+2679,Philips Lamp 1,Bulb
+2680,Philips Lamp 1,Bulb
+2681,Unknown,Unknown
+2682,Power Plug 1,Socket
+2683,Unknown,Unknown
+2684,Power Plug 1,Socket
+2685,Unknown,Unknown
+2686,Moes Bulb,Bulb
+2687,Philips Lamp 1,Bulb
+2688,Ledvance Bulb,Bulb
+2689,Coordinator,Coordinator
+2690,Smart Socket,Socket
+2691,Unknown,Unknown
+2692,Coordinator,Coordinator
+2693,Unknown,Unknown
+2694,Coordinator,Coordinator
+2695,Coordinator,Coordinator
+2696,Coordinator,Coordinator
+2697,Smart Socket,Socket
+2698,Coordinator,Coordinator
+2699,Coordinator,Coordinator
+2700,Unknown,Unknown
+2701,Smart Socket,Socket
+2702,Unknown,Unknown
+2703,Philips Motion,Bulb
+2704,Power Plug 1,Socket
+2705,Smart Socket,Socket
+2706,Power Plug 2,Socket
+2707,Ledvance Smart+ Plug,Socket
+2708,Moes Bulb,Bulb
+2709,Philips Lamp 1,Bulb
+2710,Coordinator,Coordinator
+2711,Ledvance Z3 Plug,Socket
+2712,Ledvance Bulb,Bulb
+2713,Philips Motion,Bulb
+2714,Power Plug 1,Socket
+2715,Smart Socket,Socket
+2716,Power Plug 2,Socket
+2717,Ledvance Smart+ Plug,Socket
+2718,Coordinator,Coordinator
+2719,Unknown,Unknown
+2720,Smart Socket,Socket
+2721,Unknown,Unknown
+2722,Coordinator,Coordinator
+2723,Unknown,Unknown
+2724,Philips Lamp 1,Bulb
+2725,Unknown,Unknown
+2726,Coordinator,Coordinator
+2727,Coordinator,Coordinator
+2728,Unknown,Unknown
+2729,Power Plug 1,Socket
+2730,Unknown,Unknown
+2731,Coordinator,Coordinator
+2732,Power Plug 1,Socket
+2733,Unknown,Unknown
+2734,Power Plug 1,Socket
+2735,Unknown,Unknown
+2736,Coordinator,Coordinator
+2737,Unknown,Unknown
+2738,Philips Lamp 1,Bulb
+2739,Unknown,Unknown
+2740,Power Plug 1,Socket
+2741,Unknown,Unknown
+2742,Coordinator,Coordinator
+2743,Unknown,Unknown
+2744,Philips Lamp 1,Bulb
+2745,Unknown,Unknown
+2746,Coordinator,Coordinator
+2747,Unknown,Unknown
+2748,Philips Lamp 1,Bulb
+2749,Unknown,Unknown
+2750,Power Plug 1,Socket
+2751,Unknown,Unknown
+2752,Coordinator,Coordinator
+2753,Unknown,Unknown
+2754,Power Plug 2,Socket
+2755,Unknown,Unknown
+2756,Philips Lamp 1,Bulb
+2757,Unknown,Unknown
+2758,Coordinator,Coordinator
+2759,Unknown,Unknown
+2760,Philips Lamp 1,Bulb
+2761,Unknown,Unknown
+2762,Power Plug 1,Socket
+2763,Unknown,Unknown
+2764,Coordinator,Coordinator
+2765,Philips Lamp 1,Bulb
+2766,Power Plug 2,Socket
+2767,Coordinator,Coordinator
+2768,Unknown,Unknown
+2769,Power Plug 2,Socket
+2770,Unknown,Unknown
+2771,Smart Socket,Socket
+2772,Unknown,Unknown
+2773,Coordinator,Coordinator
+2774,Unknown,Unknown
+2775,Philips Lamp 1,Bulb
+2776,Unknown,Unknown
+2777,Power Plug 1,Socket
+2778,Unknown,Unknown
+2779,Coordinator,Coordinator
+2780,Unknown,Unknown
+2781,Philips Lamp 1,Bulb
+2782,Unknown,Unknown
+2783,Coordinator,Coordinator
+2784,Unknown,Unknown
+2785,Power Plug 1,Socket
+2786,Unknown,Unknown
+2787,Moes Bulb,Bulb
+2788,Philips Lamp 1,Bulb
+2789,Coordinator,Coordinator
+2790,Ledvance Z3 Plug,Socket
+2791,Ledvance Bulb,Bulb
+2792,Philips Motion,Bulb
+2793,Power Plug 1,Socket
+2794,Smart Socket,Socket
+2795,Power Plug 1,Socket
+2796,Unknown,Unknown
+2797,Coordinator,Coordinator
+2798,Unknown,Unknown
+2799,Philips Lamp 1,Bulb
+2800,Unknown,Unknown
+2801,Power Plug 1,Socket
+2802,Unknown,Unknown
+2803,Power Plug 2,Socket
+2804,Ledvance Smart+ Plug,Socket
+2805,Moes Bulb,Bulb
+2806,Coordinator,Coordinator
+2807,Philips Lamp 1,Bulb
+2808,Ledvance Z3 Plug,Socket
+2809,Philips Motion,Bulb
+2810,Ledvance Bulb,Bulb
+2811,Power Plug 1,Socket
+2812,Ledvance Smart+ Plug,Socket
+2813,Unknown,Unknown
+2814,Smart Socket,Socket
+2815,Sonoff Temperature,Temperature
+2816,Unknown,Unknown
+2817,Power Plug 2,Socket
+2818,Unknown,Unknown
+2819,Power Plug 2,Socket
+2820,Ledvance Smart+ Plug,Socket
+2821,Coordinator,Coordinator
+2822,Unknown,Unknown
+2823,Smart Socket,Socket
+2824,Unknown,Unknown
+2825,Coordinator,Coordinator
+2826,Unknown,Unknown
+2827,Coordinator,Coordinator
+2828,Unknown,Unknown
+2829,Philips Lamp 1,Bulb
+2830,Unknown,Unknown
+2831,Coordinator,Coordinator
+2832,Unknown,Unknown
+2833,Power Plug 1,Socket
+2834,Unknown,Unknown
+2835,Smart Socket,Socket
+2836,Unknown,Unknown
+2837,Coordinator,Coordinator
+2838,Unknown,Unknown
+2839,Philips Lamp 1,Bulb
+2840,Unknown,Unknown
+2841,Power Plug 1,Socket
+2842,Unknown,Unknown
+2843,Coordinator,Coordinator
+2844,Unknown,Unknown
+2845,Philips Lamp 1,Bulb
+2846,Unknown,Unknown
+2847,Coordinator,Coordinator
+2848,Unknown,Unknown
+2849,Philips Lamp 1,Bulb
+2850,Unknown,Unknown
+2851,Power Plug 1,Socket
+2852,Unknown,Unknown
+2853,Power Plug 2,Socket
+2854,Unknown,Unknown
+2855,Coordinator,Coordinator
+2856,Unknown,Unknown
+2857,Coordinator,Coordinator
+2858,Unknown,Unknown
+2859,Philips Lamp 1,Bulb
+2860,Unknown,Unknown
+2861,Power Plug 1,Socket
+2862,Unknown,Unknown
+2863,Coordinator,Coordinator
+2864,Power Plug 2,Socket
+2865,Unknown,Unknown
+2866,Coordinator,Coordinator
+2867,Coordinator,Coordinator
+2868,Power Plug 2,Socket
+2869,Unknown,Unknown
+2870,Coordinator,Coordinator
+2871,Power Plug 2,Socket
+2872,Power Plug 2,Socket
+2873,Unknown,Unknown
+2874,Coordinator,Coordinator
+2875,Power Plug 2,Socket
+2876,Power Plug 2,Socket
+2877,Unknown,Unknown
+2878,Coordinator,Coordinator
+2879,Unknown,Unknown
+2880,Philips Lamp 1,Bulb
+2881,Unknown,Unknown
+2882,Power Plug 1,Socket
+2883,Unknown,Unknown
+2884,Coordinator,Coordinator
+2885,Unknown,Unknown
+2886,Philips Lamp 1,Bulb
+2887,Unknown,Unknown
+2888,Power Plug 1,Socket
+2889,Unknown,Unknown
+2890,Moes Bulb,Bulb
+2891,Unknown,Unknown
+2892,Moes Bulb,Bulb
+2893,Unknown,Unknown
+2894,Coordinator,Coordinator
+2895,Unknown,Unknown
+2896,Philips Motion,Bulb
+2897,Unknown,Unknown
+2898,Coordinator,Coordinator
+2899,Unknown,Unknown
+2900,Philips Motion,Bulb
+2901,Unknown,Unknown
+2902,Moes Bulb,Bulb
+2903,Moes Bulb,Bulb
+2904,Unknown,Unknown
+2905,Coordinator,Coordinator
+2906,Unknown,Unknown
+2907,Philips Motion,Bulb
+2908,Unknown,Unknown
+2909,Power Plug 2,Socket
+2910,Unknown,Unknown
+2911,Power Plug 2,Socket
+2912,Unknown,Unknown
+2913,Coordinator,Coordinator
+2914,Unknown,Unknown
+2915,Philips Lamp 1,Bulb
+2916,Unknown,Unknown
+2917,Power Plug 1,Socket
+2918,Unknown,Unknown
+2919,Ledvance Z3 Plug,Socket
+2920,Philips Motion,Bulb
+2921,Philips Lamp 1,Bulb
+2922,Coordinator,Coordinator
+2923,Power Plug 1,Socket
+2924,Ledvance Bulb,Bulb
+2925,Smart Socket,Socket
+2926,Power Plug 2,Socket
+2927,Ledvance Smart+ Plug,Socket
+2928,Moes Bulb,Bulb
+2929,Coordinator,Coordinator
+2930,Smart Socket,Socket
+2931,Ledvance Smart+ Plug,Socket
+2932,Ledvance Bulb,Bulb
+2933,Ledvance Z3 Plug,Socket
+2934,Moes Bulb,Bulb
+2935,Philips Motion,Bulb
+2936,Philips Lamp 1,Bulb
+2937,Power Plug 1,Socket
+2938,Smart Socket,Socket
+2939,Ledvance Smart+ Plug,Socket
+2940,Moes Bulb,Bulb
+2941,Coordinator,Coordinator
+2942,Ledvance Z3 Plug,Socket
+2943,Ledvance Bulb,Bulb
+2944,Philips Lamp 1,Bulb
+2945,Smart Socket,Socket
+2946,Moes Bulb,Bulb
+2947,Ledvance Z3 Plug,Socket
+2948,Ledvance Bulb,Bulb
+2949,Coordinator,Coordinator
+2950,Power Plug 1,Socket
+2951,Philips Motion,Bulb
+2952,Philips Lamp 1,Bulb
+2953,Coordinator,Coordinator
+2954,Philips Motion,Bulb
+2955,Ledvance Z3 Plug,Socket
+2956,Coordinator,Coordinator
+2957,Power Plug 1,Socket
+2958,Philips Lamp 1,Bulb
+2959,Smart Socket,Socket
+2960,Ledvance Bulb,Bulb
+2961,Power Plug 1,Socket
+2962,Unknown,Unknown
+2963,Coordinator,Coordinator
+2964,Unknown,Unknown
+2965,Philips Lamp 1,Bulb
+2966,Unknown,Unknown
+2967,Power Plug 1,Socket
+2968,Unknown,Unknown
+2969,Power Plug 2,Socket
+2970,Ledvance Smart+ Plug,Socket
+2971,Coordinator,Coordinator
+2972,Unknown,Unknown
+2973,Smart Socket,Socket
+2974,Unknown,Unknown
+2975,Coordinator,Coordinator
+2976,Unknown,Unknown
+2977,Philips Lamp 1,Bulb
+2978,Unknown,Unknown
+2979,Coordinator,Coordinator
+2980,Unknown,Unknown
+2981,Power Plug 1,Socket
+2982,Unknown,Unknown
+2983,Coordinator,Coordinator
+2984,Unknown,Unknown
+2985,Smart Socket,Socket
+2986,Unknown,Unknown
+2987,Coordinator,Coordinator
+2988,Unknown,Unknown
+2989,Philips Lamp 1,Bulb
+2990,Unknown,Unknown
+2991,Power Plug 1,Socket
+2992,Unknown,Unknown
+2993,Coordinator,Coordinator
+2994,Unknown,Unknown
+2995,Philips Lamp 1,Bulb
+2996,Unknown,Unknown
+2997,Coordinator,Coordinator
+2998,Unknown,Unknown
+2999,Philips Lamp 1,Bulb
+3000,Unknown,Unknown
+3001,Power Plug 1,Socket
+3002,Unknown,Unknown
+3003,Coordinator,Coordinator
+3004,Unknown,Unknown
+3005,Coordinator,Coordinator
+3006,Coordinator,Coordinator
+3007,Power Plug 2,Socket
+3008,Unknown,Unknown
+3009,Unknown,Unknown
+3010,Power Plug 1,Socket
+3011,Power Plug 2,Socket
+3012,Unknown,Unknown
+3013,Unknown,Unknown
+3014,Coordinator,Coordinator
+3015,Power Plug 2,Socket
+3016,Unknown,Unknown
+3017,Power Plug 2,Socket
+3018,Coordinator,Coordinator
+3019,Philips Lamp 1,Bulb
+3020,Coordinator,Coordinator
+3021,Power Plug 1,Socket
+3022,Power Plug 2,Socket
+3023,Philips Lamp 1,Bulb
+3024,Power Plug 2,Socket
+3025,Unknown,Unknown
+3026,Unknown,Unknown
+3027,Power Plug 1,Socket
+3028,Philips Lamp 1,Bulb
+3029,Coordinator,Coordinator
+3030,Power Plug 2,Socket
+3031,Unknown,Unknown
+3032,Power Plug 2,Socket
+3033,Unknown,Unknown
+3034,Power Plug 2,Socket
+3035,Unknown,Unknown
+3036,Power Plug 2,Socket
+3037,Unknown,Unknown
+3038,Power Plug 2,Socket
+3039,Unknown,Unknown
+3040,Power Plug 2,Socket
+3041,Unknown,Unknown
+3042,Power Plug 2,Socket
+3043,Unknown,Unknown
+3044,Power Plug 2,Socket
+3045,Unknown,Unknown
+3046,Power Plug 2,Socket
+3047,Unknown,Unknown
+3048,Coordinator,Coordinator
+3049,Philips Lamp 1,Bulb
+3050,Unknown,Unknown
+3051,Power Plug 2,Socket
+3052,Power Plug 1,Socket
+3053,Unknown,Unknown
+3054,Power Plug 2,Socket
+3055,Unknown,Unknown
+3056,Coordinator,Coordinator
+3057,Philips Lamp 1,Bulb
+3058,Power Plug 1,Socket
+3059,Coordinator,Coordinator
+3060,Coordinator,Coordinator
+3061,Coordinator,Coordinator
+3062,Coordinator,Coordinator
+3063,Unknown,Unknown
+3064,Power Plug 2,Socket
+3065,Unknown,Unknown
+3066,Philips Lamp 1,Bulb
+3067,Unknown,Unknown
+3068,Coordinator,Coordinator
+3069,Unknown,Unknown
+3070,Coordinator,Coordinator
+3071,Unknown,Unknown
+3072,Coordinator,Coordinator
+3073,Unknown,Unknown
+3074,Philips Lamp 1,Bulb
+3075,Unknown,Unknown
+3076,Coordinator,Coordinator
+3077,Unknown,Unknown
+3078,Coordinator,Coordinator
+3079,Coordinator,Coordinator
+3080,Unknown,Unknown
+3081,Power Plug 1,Socket
+3082,Unknown,Unknown
+3083,Philips Lamp 1,Bulb
+3084,Unknown,Unknown
+3085,Coordinator,Coordinator
+3086,Unknown,Unknown
+3087,Power Plug 1,Socket
+3088,Unknown,Unknown
+3089,Power Plug 1,Socket
+3090,Unknown,Unknown
+3091,Philips Lamp 1,Bulb
+3092,Unknown,Unknown
+3093,Power Plug 1,Socket
+3094,Unknown,Unknown
+3095,Moes Bulb,Bulb
+3096,Unknown,Unknown
+3097,Moes Bulb,Bulb
+3098,Unknown,Unknown
+3099,Moes Bulb,Bulb
+3100,Unknown,Unknown
+3101,Coordinator,Coordinator
+3102,Unknown,Unknown
+3103,Philips Motion,Bulb
+3104,Unknown,Unknown
+3105,Coordinator,Coordinator
+3106,Unknown,Unknown
+3107,Philips Motion,Bulb
+3108,Unknown,Unknown
+3109,Coordinator,Coordinator
+3110,Unknown,Unknown
+3111,Philips Motion,Bulb
+3112,Unknown,Unknown
+3113,Moes Bulb,Bulb
+3114,Philips Motion,Bulb
+3115,Ledvance Z3 Plug,Socket
+3116,Power Plug 1,Socket
+3117,Coordinator,Coordinator
+3118,Philips Lamp 1,Bulb
+3119,Smart Socket,Socket
+3120,Moes Bulb,Bulb
+3121,Unknown,Unknown
+3122,Coordinator,Coordinator
+3123,Unknown,Unknown
+3124,Philips Motion,Bulb
+3125,Unknown,Unknown
+3126,Power Plug 2,Socket
+3127,Unknown,Unknown
+3128,Power Plug 2,Socket
+3129,Unknown,Unknown
+3130,Power Plug 2,Socket
+3131,Unknown,Unknown
+3132,Coordinator,Coordinator
+3133,Unknown,Unknown
+3134,Philips Lamp 1,Bulb
+3135,Unknown,Unknown
+3136,Power Plug 1,Socket
+3137,Unknown,Unknown
+3138,Power Plug 2,Socket
+3139,Unknown,Unknown
+3140,Power Plug 2,Socket
+3141,Ledvance Bulb,Bulb
+3142,Ledvance Smart+ Plug,Socket
+3143,Unknown,Unknown
+3144,Unknown,Unknown
+3145,Sonoff Motion 1,Motion
+3146,Unknown,Unknown
+3147,Moes Bulb,Bulb
+3148,Philips Motion,Bulb
+3149,Power Plug 1,Socket
+3150,Smart Socket,Socket
+3151,Ledvance Z3 Plug,Socket
+3152,Coordinator,Coordinator
+3153,Philips Lamp 1,Bulb
+3154,Power Plug 2,Socket
+3155,Ledvance Bulb,Bulb
+3156,Ledvance Smart+ Plug,Socket
+3157,Coordinator,Coordinator
+3158,Unknown,Unknown
+3159,Smart Socket,Socket
+3160,Unknown,Unknown
+3161,Coordinator,Coordinator
+3162,Unknown,Unknown
+3163,Philips Lamp 1,Bulb
+3164,Unknown,Unknown
+3165,Power Plug 1,Socket
+3166,Unknown,Unknown
+3167,Coordinator,Coordinator
+3168,Unknown,Unknown
+3169,Coordinator,Coordinator
+3170,Unknown,Unknown
+3171,Smart Socket,Socket
+3172,Unknown,Unknown
+3173,Coordinator,Coordinator
+3174,Unknown,Unknown
+3175,Philips Lamp 1,Bulb
+3176,Unknown,Unknown
+3177,Coordinator,Coordinator
+3178,Unknown,Unknown
+3179,Philips Lamp 1,Bulb
+3180,Unknown,Unknown
+3181,Coordinator,Coordinator
+3182,Unknown,Unknown
+3183,Philips Lamp 1,Bulb
+3184,Unknown,Unknown
+3185,Philips Lamp 1,Bulb
+3186,Unknown,Unknown
+3187,Power Plug 1,Socket
+3188,Unknown,Unknown
+3189,Philips Lamp 1,Bulb
+3190,Unknown,Unknown
+3191,Philips Lamp 1,Bulb
+3192,Philips Lamp 1,Bulb
+3193,Coordinator,Coordinator
+3194,Coordinator,Coordinator
+3195,Coordinator,Coordinator
+3196,Unknown,Unknown
+3197,Philips Lamp 1,Bulb
+3198,Unknown,Unknown
+3199,Unknown,Unknown
+3200,Unknown,Unknown
+3201,Philips Lamp 1,Bulb
+3202,Unknown,Unknown
+3203,Power Plug 2,Socket
+3204,Power Plug 2,Socket
+3205,Power Plug 2,Socket
+3206,Power Plug 2,Socket
+3207,Unknown,Unknown
+3208,Coordinator,Coordinator
+3209,Unknown,Unknown
+3210,Philips Lamp 1,Bulb
+3211,Unknown,Unknown
+3212,Power Plug 1,Socket
+3213,Unknown,Unknown
+3214,Moes Bulb,Bulb
+3215,Philips Motion,Bulb
+3216,Power Plug 1,Socket
+3217,Smart Socket,Socket
+3218,Coordinator,Coordinator
+3219,Coordinator,Coordinator
+3220,Unknown,Unknown
+3221,Philips Motion,Bulb
+3222,Unknown,Unknown
+3223,Philips Motion,Bulb
+3224,Unknown,Unknown
+3225,Coordinator,Coordinator
+3226,Unknown,Unknown
+3227,Philips Motion,Bulb
+3228,Unknown,Unknown
+3229,Power Plug 2,Socket
+3230,Philips Motion,Bulb
+3231,Unknown,Unknown
+3232,Ledvance Z3 Plug,Socket
+3233,Ledvance Smart+ Plug,Socket
+3234,Philips Lamp 1,Bulb
+3235,Ledvance Bulb,Bulb
+3236,Moes Bulb,Bulb
+3237,Power Plug 1,Socket
+3238,Smart Socket,Socket
+3239,Philips Motion,Bulb
+3240,Coordinator,Coordinator
+3241,Power Plug 2,Socket
+3242,Ledvance Smart+ Plug,Socket
+3243,Ledvance Z3 Plug,Socket
+3244,Coordinator,Coordinator
+3245,Unknown,Unknown
+3246,Smart Socket,Socket
+3247,Unknown,Unknown
+3248,Coordinator,Coordinator
+3249,Unknown,Unknown
+3250,Philips Lamp 1,Bulb
+3251,Unknown,Unknown
+3252,Coordinator,Coordinator
+3253,Unknown,Unknown
+3254,Power Plug 1,Socket
+3255,Unknown,Unknown
+3256,Coordinator,Coordinator
+3257,Unknown,Unknown
+3258,Smart Socket,Socket
+3259,Unknown,Unknown
+3260,Coordinator,Coordinator
+3261,Unknown,Unknown
+3262,Philips Lamp 1,Bulb
+3263,Unknown,Unknown
+3264,Coordinator,Coordinator
+3265,Power Plug 1,Socket
+3266,Philips Lamp 1,Bulb
+3267,Philips Lamp 1,Bulb
+3268,Power Plug 1,Socket
+3269,Unknown,Unknown
+3270,Philips Lamp 1,Bulb
+3271,Unknown,Unknown
+3272,Coordinator,Coordinator
+3273,Unknown,Unknown
+3274,Philips Lamp 1,Bulb
+3275,Unknown,Unknown
+3276,Power Plug 1,Socket
+3277,Unknown,Unknown
+3278,Coordinator,Coordinator
+3279,Unknown,Unknown
+3280,Coordinator,Coordinator
+3281,Unknown,Unknown
+3282,Power Plug 2,Socket
+3283,Coordinator,Coordinator
+3284,Coordinator,Coordinator
+3285,Unknown,Unknown
+3286,Coordinator,Coordinator
+3287,Philips Lamp 1,Bulb
+3288,Unknown,Unknown
+3289,Power Plug 2,Socket
+3290,Unknown,Unknown
+3291,Power Plug 2,Socket
+3292,Unknown,Unknown
+3293,Power Plug 2,Socket
+3294,Power Plug 2,Socket
+3295,Unknown,Unknown
+3296,Coordinator,Coordinator
+3297,Philips Lamp 1,Bulb
+3298,Unknown,Unknown
+3299,Power Plug 2,Socket
+3300,Unknown,Unknown
+3301,Unknown,Unknown
+3302,Unknown,Unknown
+3303,Coordinator,Coordinator
+3304,Unknown,Unknown
+3305,Coordinator,Coordinator
+3306,Unknown,Unknown
+3307,Power Plug 2,Socket
+3308,Unknown,Unknown
+3309,Philips Lamp 1,Bulb
+3310,Power Plug 1,Socket
+3311,Power Plug 1,Socket
+3312,Power Plug 1,Socket
+3313,Unknown,Unknown
+3314,Power Plug 2,Socket
+3315,Unknown,Unknown
+3316,Power Plug 2,Socket
+3317,Unknown,Unknown
+3318,Coordinator,Coordinator
+3319,Power Plug 2,Socket
+3320,Philips Lamp 1,Bulb
+3321,Power Plug 1,Socket
+3322,Power Plug 1,Socket
+3323,Power Plug 2,Socket
+3324,Unknown,Unknown
+3325,Unknown,Unknown
+3326,Coordinator,Coordinator
+3327,Power Plug 2,Socket
+3328,Power Plug 1,Socket
+3329,Coordinator,Coordinator
+3330,Coordinator,Coordinator
+3331,Power Plug 2,Socket
+3332,Unknown,Unknown
+3333,Coordinator,Coordinator
+3334,Power Plug 2,Socket
+3335,Unknown,Unknown
+3336,Power Plug 2,Socket
+3337,Unknown,Unknown
+3338,Philips Lamp 1,Bulb
+3339,Unknown,Unknown
+3340,Power Plug 1,Socket
+3341,Unknown,Unknown
+3342,Philips Lamp 1,Bulb
+3343,Unknown,Unknown
+3344,Power Plug 1,Socket
+3345,Unknown,Unknown
+3346,Coordinator,Coordinator
+3347,Unknown,Unknown
+3348,Philips Lamp 1,Bulb
+3349,Unknown,Unknown
+3350,Power Plug 1,Socket
+3351,Unknown,Unknown
+3352,Moes Bulb,Bulb
+3353,Ledvance Bulb,Bulb
+3354,Philips Lamp 1,Bulb
+3355,Philips Lamp 1,Bulb
+3356,Unknown,Unknown
+3357,Philips Lamp 1,Bulb
+3358,Unknown,Unknown
+3359,Philips Motion,Bulb
+3360,Unknown,Unknown
+3361,Philips Motion,Bulb
+3362,Unknown,Unknown
+3363,Philips Lamp 1,Bulb
+3364,Unknown,Unknown
+3365,Philips Lamp 1,Bulb
+3366,Unknown,Unknown
+3367,Philips Motion,Bulb
+3368,Unknown,Unknown
+3369,Philips Motion,Bulb
+3370,Unknown,Unknown
+3371,Power Plug 1,Socket
+3372,Smart Socket,Socket
+3373,Coordinator,Coordinator
+3374,Power Plug 2,Socket
+3375,Philips Motion,Bulb
+3376,Ledvance Smart+ Plug,Socket
+3377,Moes Bulb,Bulb
+3378,Ledvance Z3 Plug,Socket
+3379,Philips Lamp 1,Bulb
+3380,Ledvance Bulb,Bulb
+3381,Smart Socket,Socket
+3382,Unknown,Unknown
+3383,Coordinator,Coordinator
+3384,Unknown,Unknown
+3385,Smart Socket,Socket
+3386,Unknown,Unknown
+3387,Power Plug 1,Socket
+3388,Smart Socket,Socket
+3389,Coordinator,Coordinator
+3390,Power Plug 2,Socket
+3391,Philips Motion,Bulb
+3392,Ledvance Smart+ Plug,Socket
+3393,Coordinator,Coordinator
+3394,Unknown,Unknown
+3395,Smart Socket,Socket
+3396,Unknown,Unknown
+3397,Coordinator,Coordinator
+3398,Unknown,Unknown
+3399,Philips Lamp 1,Bulb
+3400,Unknown,Unknown
+3401,Coordinator,Coordinator
+3402,Unknown,Unknown
+3403,Power Plug 1,Socket
+3404,Unknown,Unknown
+3405,Coordinator,Coordinator
+3406,Unknown,Unknown
+3407,Smart Socket,Socket
+3408,Unknown,Unknown
+3409,Coordinator,Coordinator
+3410,Unknown,Unknown
+3411,Philips Lamp 1,Bulb
+3412,Unknown,Unknown
+3413,Coordinator,Coordinator
+3414,Coordinator,Coordinator
+3415,Coordinator,Coordinator
+3416,Coordinator,Coordinator
+3417,Coordinator,Coordinator
+3418,Coordinator,Coordinator
+3419,Coordinator,Coordinator
+3420,Coordinator,Coordinator
+3421,Coordinator,Coordinator
+3422,Coordinator,Coordinator
+3423,Unknown,Unknown
+3424,Unknown,Unknown
+3425,Coordinator,Coordinator
+3426,Coordinator,Coordinator
+3427,Unknown,Unknown
+3428,Power Plug 1,Socket
+3429,Unknown,Unknown
+3430,Philips Lamp 1,Bulb
+3431,Unknown,Unknown
+3432,Power Plug 1,Socket
+3433,Unknown,Unknown
+3434,Coordinator,Coordinator
+3435,Philips Lamp 1,Bulb
+3436,Coordinator,Coordinator
+3437,Philips Lamp 1,Bulb
+3438,Philips Lamp 1,Bulb
+3439,Coordinator,Coordinator
+3440,Unknown,Unknown
+3441,Unknown,Unknown
+3442,Philips Lamp 1,Bulb
+3443,Philips Lamp 1,Bulb
+3444,Unknown,Unknown
+3445,Power Plug 2,Socket
+3446,Unknown,Unknown
+3447,Power Plug 1,Socket
+3448,Unknown,Unknown
+3449,Coordinator,Coordinator
+3450,Unknown,Unknown
+3451,Philips Lamp 1,Bulb
+3452,Unknown,Unknown
+3453,Power Plug 1,Socket
+3454,Unknown,Unknown
+3455,Coordinator,Coordinator
+3456,Unknown,Unknown
+3457,Philips Lamp 1,Bulb
+3458,Unknown,Unknown
+3459,Power Plug 1,Socket
+3460,Unknown,Unknown
+3461,Power Plug 1,Socket
+3462,Unknown,Unknown
+3463,Coordinator,Coordinator
+3464,Unknown,Unknown
+3465,Philips Lamp 1,Bulb
+3466,Unknown,Unknown
+3467,Power Plug 1,Socket
+3468,Unknown,Unknown
+3469,Moes Bulb,Bulb
+3470,Ledvance Z3 Plug,Socket
+3471,Philips Lamp 1,Bulb
+3472,Ledvance Bulb,Bulb
+3473,Power Plug 1,Socket
+3474,Smart Socket,Socket
+3475,Power Plug 2,Socket
+3476,Coordinator,Coordinator
+3477,Ledvance Smart+ Plug,Socket
+3478,Philips Motion,Bulb
+3479,Moes Bulb,Bulb
+3480,Power Plug 1,Socket
+3481,Unknown,Unknown
+3482,Coordinator,Coordinator
+3483,Unknown,Unknown
+3484,Philips Lamp 1,Bulb
+3485,Unknown,Unknown
+3486,Power Plug 1,Socket
+3487,Unknown,Unknown
+3488,Ledvance Z3 Plug,Socket
+3489,Philips Lamp 1,Bulb
+3490,Power Plug 1,Socket
+3491,Ledvance Bulb,Bulb
+3492,Smart Socket,Socket
+3493,Power Plug 2,Socket
+3494,Coordinator,Coordinator
+3495,Ledvance Smart+ Plug,Socket
+3496,Coordinator,Coordinator
+3497,Unknown,Unknown
+3498,Smart Socket,Socket
+3499,Unknown,Unknown
+3500,Coordinator,Coordinator
+3501,Unknown,Unknown
+3502,Philips Lamp 1,Bulb
+3503,Philips Lamp 1,Bulb
+3504,Unknown,Unknown
+3505,Power Plug 1,Socket
+3506,Unknown,Unknown
+3507,Coordinator,Coordinator
+3508,Unknown,Unknown
+3509,Smart Socket,Socket
+3510,Unknown,Unknown
+3511,Coordinator,Coordinator
+3512,Unknown,Unknown
+3513,Coordinator,Coordinator
+3514,Unknown,Unknown
+3515,Philips Lamp 1,Bulb
+3516,Unknown,Unknown
+3517,Coordinator,Coordinator
+3518,Unknown,Unknown
+3519,Power Plug 1,Socket
+3520,Unknown,Unknown
+3521,Philips Lamp 1,Bulb
+3522,Unknown,Unknown
+3523,Coordinator,Coordinator
+3524,Unknown,Unknown
+3525,Philips Lamp 1,Bulb
+3526,Unknown,Unknown
+3527,Coordinator,Coordinator
+3528,Coordinator,Coordinator
+3529,Coordinator,Coordinator
+3530,Unknown,Unknown
+3531,Unknown,Unknown
+3532,Coordinator,Coordinator
+3533,Unknown,Unknown
+3534,Power Plug 2,Socket
+3535,Unknown,Unknown
+3536,Philips Lamp 1,Bulb
+3537,Unknown,Unknown
+3538,Power Plug 1,Socket
+3539,Unknown,Unknown
+3540,Coordinator,Coordinator
+3541,Coordinator,Coordinator
+3542,Philips Lamp 1,Bulb
+3543,Coordinator,Coordinator
+3544,Unknown,Unknown
+3545,Power Plug 2,Socket
+3546,Unknown,Unknown
+3547,Philips Lamp 1,Bulb
+3548,Unknown,Unknown
+3549,Power Plug 1,Socket
+3550,Unknown,Unknown
+3551,Coordinator,Coordinator
+3552,Unknown,Unknown
+3553,Philips Lamp 1,Bulb
+3554,Unknown,Unknown
+3555,Power Plug 1,Socket
+3556,Power Plug 1,Socket
+3557,Unknown,Unknown
+3558,Philips Motion,Bulb
+3559,Moes Bulb,Bulb
+3560,Ledvance Z3 Plug,Socket
+3561,Philips Lamp 1,Bulb
+3562,Power Plug 1,Socket
+3563,Ledvance Bulb,Bulb
+3564,Smart Socket,Socket
+3565,Power Plug 2,Socket
+3566,Ledvance Smart+ Plug,Socket
+3567,Coordinator,Coordinator
+3568,Moes Bulb,Bulb
+3569,Philips Motion,Bulb
+3570,Coordinator,Coordinator
+3571,Unknown,Unknown
+3572,Philips Lamp 1,Bulb
+3573,Unknown,Unknown
+3574,Philips Lamp 1,Bulb
+3575,Unknown,Unknown
+3576,Coordinator,Coordinator
+3577,Unknown,Unknown
+3578,Philips Lamp 1,Bulb
+3579,Unknown,Unknown
+3580,Philips Lamp 1,Bulb
+3581,Unknown,Unknown
+3582,Ledvance Z3 Plug,Socket
+3583,Philips Lamp 1,Bulb
+3584,Power Plug 1,Socket
+3585,Smart Socket,Socket
+3586,Ledvance Bulb,Bulb
+3587,Power Plug 2,Socket
+3588,Ledvance Smart+ Plug,Socket
+3589,Coordinator,Coordinator
+3590,Unknown,Unknown
+3591,Coordinator,Coordinator
+3592,Coordinator,Coordinator
+3593,Smart Socket,Socket
+3594,Unknown,Unknown
+3595,Coordinator,Coordinator
+3596,Coordinator,Coordinator
+3597,Unknown,Unknown
+3598,Philips Lamp 1,Bulb
+3599,Unknown,Unknown
+3600,Coordinator,Coordinator
+3601,Coordinator,Coordinator
+3602,Unknown,Unknown
+3603,Power Plug 1,Socket
+3604,Unknown,Unknown
+3605,Coordinator,Coordinator
+3606,Power Plug 1,Socket
+3607,Unknown,Unknown
+3608,Power Plug 1,Socket
+3609,Unknown,Unknown
+3610,Coordinator,Coordinator
+3611,Unknown,Unknown
+3612,Smart Socket,Socket
+3613,Unknown,Unknown
+3614,Coordinator,Coordinator
+3615,Unknown,Unknown
+3616,Philips Lamp 1,Bulb
+3617,Unknown,Unknown
+3618,Power Plug 1,Socket
+3619,Unknown,Unknown
+3620,Coordinator,Coordinator
+3621,Unknown,Unknown
+3622,Philips Lamp 1,Bulb
+3623,Unknown,Unknown
+3624,Power Plug 1,Socket
+3625,Unknown,Unknown
+3626,Coordinator,Coordinator
+3627,Unknown,Unknown
+3628,Power Plug 2,Socket
+3629,Unknown,Unknown
+3630,Smart Socket,Socket
+3631,Unknown,Unknown
+3632,Coordinator,Coordinator
+3633,Unknown,Unknown
+3634,Philips Lamp 1,Bulb
+3635,Unknown,Unknown
+3636,Coordinator,Coordinator
+3637,Unknown,Unknown
+3638,Coordinator,Coordinator
+3639,Unknown,Unknown
+3640,Coordinator,Coordinator
+3641,Unknown,Unknown
+3642,Philips Lamp 1,Bulb
+3643,Unknown,Unknown
+3644,Power Plug 1,Socket
+3645,Unknown,Unknown
+3646,Coordinator,Coordinator
+3647,Unknown,Unknown
+3648,Unknown,Unknown
+3649,Power Plug 2,Socket
+3650,Unknown,Unknown
+3651,Power Plug 2,Socket
+3652,Power Plug 2,Socket
+3653,Unknown,Unknown
+3654,Coordinator,Coordinator
+3655,Unknown,Unknown
+3656,Power Plug 2,Socket
+3657,Coordinator,Coordinator
+3658,Unknown,Unknown
+3659,Power Plug 2,Socket
+3660,Unknown,Unknown
+3661,Coordinator,Coordinator
+3662,Power Plug 2,Socket
+3663,Philips Lamp 1,Bulb
+3664,Power Plug 1,Socket
+3665,Power Plug 1,Socket
+3666,Power Plug 2,Socket
+3667,Unknown,Unknown
+3668,Power Plug 1,Socket
+3669,Unknown,Unknown
+3670,Coordinator,Coordinator
+3671,Power Plug 1,Socket
+3672,Unknown,Unknown
+3673,Unknown,Unknown
+3674,Coordinator,Coordinator
+3675,Coordinator,Coordinator
+3676,Coordinator,Coordinator
+3677,Unknown,Unknown
+3678,Power Plug 1,Socket
+3679,Unknown,Unknown
+3680,Philips Lamp 1,Bulb
+3681,Unknown,Unknown
+3682,Power Plug 1,Socket
+3683,Unknown,Unknown
+3684,Coordinator,Coordinator
+3685,Unknown,Unknown
+3686,Philips Lamp 1,Bulb
+3687,Unknown,Unknown
+3688,Power Plug 1,Socket
+3689,Unknown,Unknown
+3690,Coordinator,Coordinator
+3691,Moes Bulb,Bulb
+3692,Philips Motion,Bulb
+3693,Ledvance Z3 Plug,Socket
+3694,Philips Lamp 1,Bulb
+3695,Power Plug 1,Socket
+3696,Smart Socket,Socket
+3697,Smart Socket,Socket
+3698,Unknown,Unknown
+3699,Coordinator,Coordinator
+3700,Unknown,Unknown
+3701,Smart Socket,Socket
+3702,Unknown,Unknown
+3703,Smart Socket,Socket
+3704,Unknown,Unknown
+3705,Coordinator,Coordinator
+3706,Unknown,Unknown
+3707,Smart Socket,Socket
+3708,Unknown,Unknown
+3709,Ledvance Bulb,Bulb
+3710,Power Plug 2,Socket
+3711,Ledvance Smart+ Plug,Socket
+3712,Moes Bulb,Bulb
+3713,Coordinator,Coordinator
+3714,Philips Motion,Bulb
+3715,Ledvance Z3 Plug,Socket
+3716,Power Plug 1,Socket
+3717,Smart Socket,Socket
+3718,Philips Lamp 1,Bulb
+3719,Power Plug 2,Socket
+3720,Power Plug 2,Socket
+3721,Unknown,Unknown
+3722,Coordinator,Coordinator
+3723,Coordinator,Coordinator
+3724,Unknown,Unknown
+3725,Philips Lamp 1,Bulb
+3726,Unknown,Unknown
+3727,Power Plug 1,Socket
+3728,Unknown,Unknown
+3729,Power Plug 2,Socket
+3730,Unknown,Unknown
+3731,Power Plug 2,Socket
+3732,Unknown,Unknown
+3733,Power Plug 2,Socket
+3734,Unknown,Unknown
+3735,Power Plug 2,Socket
+3736,Unknown,Unknown
+3737,Ledvance Bulb,Bulb
+3738,Power Plug 2,Socket
+3739,Ledvance Smart+ Plug,Socket
+3740,Coordinator,Coordinator
+3741,Unknown,Unknown
+3742,Smart Socket,Socket
+3743,Unknown,Unknown
+3744,Coordinator,Coordinator
+3745,Unknown,Unknown
+3746,Philips Lamp 1,Bulb
+3747,Unknown,Unknown
+3748,Coordinator,Coordinator
+3749,Unknown,Unknown
+3750,Power Plug 1,Socket
+3751,Unknown,Unknown
+3752,Coordinator,Coordinator
+3753,Unknown,Unknown
+3754,Smart Socket,Socket
+3755,Unknown,Unknown
+3756,Coordinator,Coordinator
+3757,Unknown,Unknown
+3758,Philips Lamp 1,Bulb
+3759,Unknown,Unknown
+3760,Power Plug 1,Socket
+3761,Unknown,Unknown
+3762,Coordinator,Coordinator
+3763,Philips Lamp 1,Bulb
+3764,Unknown,Unknown
+3765,Coordinator,Coordinator
+3766,Unknown,Unknown
+3767,Coordinator,Coordinator
+3768,Unknown,Unknown
+3769,Philips Lamp 1,Bulb
+3770,Unknown,Unknown
+3771,Power Plug 1,Socket
+3772,Unknown,Unknown
+3773,Coordinator,Coordinator
+3774,Unknown,Unknown
+3775,Power Plug 2,Socket
+3776,Unknown,Unknown
+3777,Coordinator,Coordinator
+3778,Unknown,Unknown
+3779,Power Plug 2,Socket
+3780,Unknown,Unknown
+3781,Power Plug 2,Socket
+3782,Unknown,Unknown
+3783,Coordinator,Coordinator
+3784,Power Plug 2,Socket
+3785,Unknown,Unknown
+3786,Power Plug 2,Socket
+3787,Unknown,Unknown
+3788,Power Plug 2,Socket
+3789,Unknown,Unknown
+3790,Coordinator,Coordinator
+3791,Philips Lamp 1,Bulb
+3792,Unknown,Unknown
+3793,Power Plug 2,Socket
+3794,Power Plug 2,Socket
+3795,Power Plug 2,Socket
+3796,Unknown,Unknown
+3797,Coordinator,Coordinator
+3798,Power Plug 2,Socket
+3799,Unknown,Unknown
+3800,Power Plug 2,Socket
+3801,Power Plug 1,Socket
+3802,Unknown,Unknown
+3803,Philips Lamp 1,Bulb
+3804,Unknown,Unknown
+3805,Unknown,Unknown
+3806,Coordinator,Coordinator
+3807,Philips Lamp 1,Bulb
+3808,Coordinator,Coordinator
+3809,Unknown,Unknown
+3810,Coordinator,Coordinator
+3811,Unknown,Unknown
+3812,Philips Lamp 1,Bulb
+3813,Power Plug 1,Socket
+3814,Power Plug 1,Socket
+3815,Power Plug 1,Socket
+3816,Power Plug 2,Socket
+3817,Unknown,Unknown
+3818,Power Plug 1,Socket
+3819,Unknown,Unknown
+3820,Coordinator,Coordinator
+3821,Unknown,Unknown
+3822,Power Plug 2,Socket
+3823,Unknown,Unknown
+3824,Philips Lamp 1,Bulb
+3825,Power Plug 1,Socket
+3826,Power Plug 1,Socket
+3827,Power Plug 2,Socket
+3828,Coordinator,Coordinator
+3829,Unknown,Unknown
+3830,Power Plug 2,Socket
+3831,Coordinator,Coordinator
+3832,Philips Lamp 1,Bulb
+3833,Unknown,Unknown
+3834,Power Plug 1,Socket
+3835,Power Plug 2,Socket
+3836,Power Plug 2,Socket
+3837,Coordinator,Coordinator
+3838,Unknown,Unknown
+3839,Power Plug 2,Socket
+3840,Unknown,Unknown
+3841,Philips Lamp 1,Bulb
+3842,Power Plug 1,Socket
+3843,Power Plug 1,Socket
+3844,Unknown,Unknown
+3845,Coordinator,Coordinator
+3846,Unknown,Unknown
+3847,Power Plug 1,Socket
+3848,Unknown,Unknown
+3849,Moes Bulb,Bulb
+3850,Philips Motion,Bulb
+3851,Power Plug 2,Socket
+3852,Unknown,Unknown
+3853,Power Plug 2,Socket
+3854,Unknown,Unknown
+3855,Power Plug 2,Socket
+3856,Unknown,Unknown
+3857,Power Plug 2,Socket
+3858,Unknown,Unknown
+3859,Coordinator,Coordinator
+3860,Unknown,Unknown
+3861,Philips Lamp 1,Bulb
+3862,Unknown,Unknown
+3863,Power Plug 1,Socket
+3864,Unknown,Unknown
+3865,Power Plug 1,Socket
+3866,Unknown,Unknown
+3867,Power Plug 2,Socket
+3868,Unknown,Unknown
+3869,Power Plug 2,Socket
+3870,Unknown,Unknown
+3871,Power Plug 2,Socket
+3872,Unknown,Unknown
+3873,Power Plug 2,Socket
+3874,Unknown,Unknown
+3875,Power Plug 2,Socket
+3876,Unknown,Unknown
+3877,Power Plug 2,Socket
+3878,Unknown,Unknown
+3879,Power Plug 2,Socket
+3880,Unknown,Unknown
+3881,Power Plug 2,Socket
+3882,Unknown,Unknown
+3883,Power Plug 2,Socket
+3884,Unknown,Unknown
+3885,Power Plug 2,Socket
+3886,Unknown,Unknown
+3887,Power Plug 2,Socket
+3888,Unknown,Unknown
+3889,Power Plug 2,Socket
+3890,Unknown,Unknown
+3891,Coordinator,Coordinator
+3892,Unknown,Unknown
+3893,Philips Lamp 1,Bulb
+3894,Unknown,Unknown
+3895,Unknown,Unknown
+3896,Power Plug 2,Socket
+3897,Power Plug 2,Socket
+3898,Unknown,Unknown
+3899,Power Plug 2,Socket
+3900,Unknown,Unknown
+3901,Power Plug 2,Socket
+3902,Unknown,Unknown
+3903,Coordinator,Coordinator
+3904,Ledvance Bulb,Bulb
+3905,Unknown,Unknown
+3906,Ledvance Bulb,Bulb
+3907,Unknown,Unknown
+3908,Coordinator,Coordinator
+3909,Unknown,Unknown
+3910,Coordinator,Coordinator
+3911,Unknown,Unknown
+3912,Ledvance Bulb,Bulb
+3913,Unknown,Unknown
+3914,Ledvance Bulb,Bulb
+3915,Unknown,Unknown
+3916,Ledvance Z3 Plug,Socket
+3917,Power Plug 1,Socket
+3918,Smart Socket,Socket
+3919,Unknown,Unknown
+3920,Ledvance Bulb,Bulb
+3921,Coordinator,Coordinator
+3922,Ledvance Smart+ Plug,Socket
+3923,Philips Motion,Bulb
+3924,Ledvance Bulb,Bulb
+3925,Philips Lamp 1,Bulb
+3926,Smart Socket,Socket
+3927,Power Plug 1,Socket
+3928,Unknown,Unknown
+3929,Moes Bulb,Bulb
+3930,Coordinator,Coordinator
+3931,Ledvance Smart+ Plug,Socket
+3932,Philips Lamp 1,Bulb
+3933,Smart Socket,Socket
+3934,Power Plug 1,Socket
+3935,Ledvance Z3 Plug,Socket
+3936,Power Plug 2,Socket
+3937,Philips Lamp 1,Bulb
+3938,Philips Motion,Bulb
+3939,Moes Bulb,Bulb
+3940,Ledvance Bulb,Bulb
+3941,Coordinator,Coordinator
+3942,Smart Socket,Socket
+3943,Power Plug 1,Socket
+3944,Power Plug 2,Socket
+3945,Ledvance Z3 Plug,Socket
+3946,Moes Bulb,Bulb
+3947,Philips Motion,Bulb
+3948,Philips Lamp 1,Bulb
+3949,Ledvance Bulb,Bulb
+3950,Coordinator,Coordinator
+3951,Moes Bulb,Bulb
+3952,Philips Motion,Bulb
+3953,Sonoff Motion 1,Motion
+3954,Unknown,Unknown
+3955,Sonoff Motion 1,Motion
+3956,Unknown,Unknown
+3957,Coordinator,Coordinator
+3958,Unknown,Unknown
+3959,Power Plug 1,Socket
+3960,Smart Socket,Socket
+3961,Power Plug 2,Socket
+3962,Ledvance Smart+ Plug,Socket
+3963,Ledvance Bulb,Bulb
+3964,Coordinator,Coordinator
+3965,Unknown,Unknown
+3966,Smart Socket,Socket
+3967,Unknown,Unknown
+3968,Coordinator,Coordinator
+3969,Unknown,Unknown
+3970,Coordinator,Coordinator
+3971,Coordinator,Coordinator
+3972,Unknown,Unknown
+3973,Philips Lamp 1,Bulb
+3974,Unknown,Unknown
+3975,Power Plug 1,Socket
+3976,Unknown,Unknown
+3977,Coordinator,Coordinator
+3978,Unknown,Unknown
+3979,Coordinator,Coordinator
+3980,Unknown,Unknown
+3981,Smart Socket,Socket
+3982,Unknown,Unknown
+3983,Coordinator,Coordinator
+3984,Unknown,Unknown
+3985,Philips Lamp 1,Bulb
+3986,Unknown,Unknown
+3987,Coordinator,Coordinator
+3988,Coordinator,Coordinator
+3989,Coordinator,Coordinator
+3990,Coordinator,Coordinator
+3991,Unknown,Unknown
+3992,Power Plug 1,Socket
+3993,Coordinator,Coordinator
+3994,Power Plug 1,Socket
+3995,Unknown,Unknown
+3996,Coordinator,Coordinator
+3997,Unknown,Unknown
+3998,Philips Lamp 1,Bulb
+3999,Unknown,Unknown
+4000,Power Plug 1,Socket
+4001,Unknown,Unknown
+4002,Coordinator,Coordinator
+4003,Power Plug 2,Socket
+4004,Philips Lamp 1,Bulb
+4005,Unknown,Unknown
+4006,Power Plug 2,Socket
+4007,Power Plug 1,Socket
+4008,Unknown,Unknown
+4009,Power Plug 2,Socket
+4010,Unknown,Unknown
+4011,Coordinator,Coordinator
+4012,Unknown,Unknown
+4013,Power Plug 2,Socket
+4014,Unknown,Unknown
+4015,Power Plug 2,Socket
+4016,Coordinator,Coordinator
+4017,Power Plug 2,Socket
+4018,Coordinator,Coordinator
+4019,Power Plug 2,Socket
+4020,Unknown,Unknown
+4021,Power Plug 2,Socket
+4022,Unknown,Unknown
+4023,Power Plug 2,Socket
+4024,Philips Lamp 1,Bulb
+4025,Unknown,Unknown
+4026,Power Plug 2,Socket
+4027,Unknown,Unknown
+4028,Philips Lamp 1,Bulb
+4029,Unknown,Unknown
+4030,Power Plug 1,Socket
+4031,Power Plug 1,Socket
+4032,Power Plug 2,Socket
+4033,Coordinator,Coordinator
+4034,Coordinator,Coordinator
+4035,Power Plug 2,Socket
+4036,Power Plug 2,Socket
+4037,Power Plug 2,Socket
+4038,Power Plug 2,Socket
+4039,Unknown,Unknown
+4040,Philips Lamp 1,Bulb
+4041,Philips Lamp 1,Bulb
+4042,Power Plug 1,Socket
+4043,Power Plug 1,Socket
+4044,Power Plug 2,Socket
+4045,Power Plug 1,Socket
+4046,Power Plug 2,Socket
+4047,Power Plug 2,Socket
+4048,Power Plug 2,Socket
+4049,Unknown,Unknown
+4050,Coordinator,Coordinator
+4051,Power Plug 2,Socket
+4052,Power Plug 2,Socket
+4053,Philips Lamp 1,Bulb
+4054,Unknown,Unknown
+4055,Unknown,Unknown
+4056,Unknown,Unknown
+4057,Unknown,Unknown
+4058,Coordinator,Coordinator
+4059,Unknown,Unknown
+4060,Philips Lamp 1,Bulb
+4061,Unknown,Unknown
+4062,Power Plug 1,Socket
+4063,Unknown,Unknown
+4064,Moes Bulb,Bulb
+4065,Philips Motion,Bulb
+4066,Power Plug 1,Socket
+4067,Ledvance Z3 Plug,Socket
+4068,Coordinator,Coordinator
+4069,Smart Socket,Socket
+4070,Power Plug 2,Socket
+4071,Ledvance Smart+ Plug,Socket
+4072,Ledvance Bulb,Bulb
+4073,Moes Bulb,Bulb
+4074,Philips Lamp 1,Bulb
+4075,Ledvance Z3 Plug,Socket
+4076,Coordinator,Coordinator
+4077,Power Plug 1,Socket
+4078,Smart Socket,Socket
+4079,Power Plug 2,Socket
+4080,Ledvance Smart+ Plug,Socket
+4081,Ledvance Bulb,Bulb
+4082,Coordinator,Coordinator
+4083,Coordinator,Coordinator
+4084,Coordinator,Coordinator
+4085,Unknown,Unknown
+4086,Smart Socket,Socket
+4087,Unknown,Unknown
+4088,Coordinator,Coordinator
+4089,Unknown,Unknown
+4090,Philips Lamp 1,Bulb
+4091,Unknown,Unknown
+4092,Coordinator,Coordinator
+4093,Unknown,Unknown
+4094,Power Plug 1,Socket
+4095,Unknown,Unknown
+4096,Coordinator,Coordinator
+4097,Smart Socket,Socket
+4098,Smart Socket,Socket
+4099,Unknown,Unknown
+4100,Coordinator,Coordinator
+4101,Unknown,Unknown
+4102,Coordinator,Coordinator
+4103,Unknown,Unknown
+4104,Unknown,Unknown
+4105,Philips Lamp 1,Bulb
+4106,Unknown,Unknown
+4107,Coordinator,Coordinator
+4108,Unknown,Unknown
+4109,Coordinator,Coordinator
+4110,Coordinator,Coordinator
+4111,Power Plug 1,Socket
+4112,Unknown,Unknown
+4113,Coordinator,Coordinator
+4114,Unknown,Unknown
+4115,Philips Lamp 1,Bulb
+4116,Unknown,Unknown
+4117,Power Plug 1,Socket
+4118,Unknown,Unknown
+4119,Coordinator,Coordinator
+4120,Unknown,Unknown
+4121,Philips Lamp 1,Bulb
+4122,Coordinator,Coordinator
+4123,Power Plug 2,Socket
+4124,Unknown,Unknown
+4125,Unknown,Unknown
+4126,Power Plug 2,Socket
+4127,Unknown,Unknown
+4128,Coordinator,Coordinator
+4129,Unknown,Unknown
+4130,Philips Lamp 1,Bulb
+4131,Unknown,Unknown
+4132,Power Plug 1,Socket
+4133,Unknown,Unknown
+4134,Coordinator,Coordinator
+4135,Unknown,Unknown
+4136,Power Plug 2,Socket
+4137,Unknown,Unknown
+4138,Coordinator,Coordinator
+4139,Unknown,Unknown
+4140,Philips Lamp 1,Bulb
+4141,Unknown,Unknown
+4142,Coordinator,Coordinator
+4143,Unknown,Unknown
+4144,Philips Lamp 1,Bulb
+4145,Unknown,Unknown
+4146,Coordinator,Coordinator
+4147,Unknown,Unknown
+4148,Power Plug 1,Socket
+4149,Unknown,Unknown
+4150,Philips Lamp 1,Bulb
+4151,Unknown,Unknown
+4152,Coordinator,Coordinator
+4153,Unknown,Unknown
+4154,Power Plug 1,Socket
+4155,Unknown,Unknown
+4156,Philips Lamp 1,Bulb
+4157,Unknown,Unknown
+4158,Power Plug 1,Socket
+4159,Unknown,Unknown
+4160,Moes Bulb,Bulb
+4161,Philips Lamp 1,Bulb
+4162,Smart Socket,Socket
+4163,Unknown,Unknown
+4164,Coordinator,Coordinator
+4165,Coordinator,Coordinator
+4166,Unknown,Unknown
+4167,Smart Socket,Socket
+4168,Unknown,Unknown
+4169,Smart Socket,Socket
+4170,Unknown,Unknown
+4171,Power Plug 1,Socket
+4172,Philips Motion,Bulb
+4173,Smart Socket,Socket
+4174,Ledvance Z3 Plug,Socket
+4175,Coordinator,Coordinator
+4176,Power Plug 2,Socket
+4177,Ledvance Smart+ Plug,Socket
+4178,Moes Bulb,Bulb
+4179,Ledvance Bulb,Bulb
+4180,Philips Lamp 1,Bulb
+4181,Power Plug 1,Socket
+4182,Unknown,Unknown
+4183,Coordinator,Coordinator
+4184,Unknown,Unknown
+4185,Philips Lamp 1,Bulb
+4186,Unknown,Unknown
+4187,Power Plug 1,Socket
+4188,Unknown,Unknown
+4189,Power Plug 1,Socket
+4190,Smart Socket,Socket
+4191,Coordinator,Coordinator
+4192,Philips Motion,Bulb
+4193,Ledvance Z3 Plug,Socket
+4194,Power Plug 2,Socket
+4195,Ledvance Smart+ Plug,Socket
+4196,Coordinator,Coordinator
+4197,Unknown,Unknown
+4198,Smart Socket,Socket
+4199,Unknown,Unknown
+4200,Smart Socket,Socket
+4201,Unknown,Unknown
+4202,Coordinator,Coordinator
+4203,Unknown,Unknown
+4204,Philips Lamp 1,Bulb
+4205,Unknown,Unknown
+4206,Coordinator,Coordinator
+4207,Unknown,Unknown
+4208,Power Plug 1,Socket
+4209,Unknown,Unknown
+4210,Coordinator,Coordinator
+4211,Unknown,Unknown
+4212,Smart Socket,Socket
+4213,Unknown,Unknown
+4214,Coordinator,Coordinator
+4215,Unknown,Unknown
+4216,Philips Lamp 1,Bulb
+4217,Unknown,Unknown
+4218,Coordinator,Coordinator
+4219,Coordinator,Coordinator
+4220,Coordinator,Coordinator
+4221,Unknown,Unknown
+4222,Power Plug 1,Socket
+4223,Unknown,Unknown
+4224,Unknown,Unknown
+4225,Coordinator,Coordinator
+4226,Unknown,Unknown
+4227,Power Plug 1,Socket
+4228,Unknown,Unknown
+4229,Philips Lamp 1,Bulb
+4230,Unknown,Unknown
+4231,Philips Lamp 1,Bulb
+4232,Unknown,Unknown
+4233,Power Plug 1,Socket
+4234,Unknown,Unknown
+4235,Coordinator,Coordinator
+4236,Unknown,Unknown
+4237,Power Plug 2,Socket
+4238,Power Plug 2,Socket
+4239,Unknown,Unknown
+4240,Power Plug 2,Socket
+4241,Unknown,Unknown
+4242,Coordinator,Coordinator
+4243,Unknown,Unknown
+4244,Philips Lamp 1,Bulb
+4245,Unknown,Unknown
+4246,Power Plug 1,Socket
+4247,Unknown,Unknown
+4248,Coordinator,Coordinator
+4249,Unknown,Unknown
+4250,Power Plug 2,Socket
+4251,Unknown,Unknown
+4252,Philips Lamp 1,Bulb
+4253,Unknown,Unknown
+4254,Coordinator,Coordinator
+4255,Unknown,Unknown
+4256,Coordinator,Coordinator
+4257,Unknown,Unknown
+4258,Coordinator,Coordinator
+4259,Unknown,Unknown
+4260,Philips Lamp 1,Bulb
+4261,Unknown,Unknown
+4262,Philips Lamp 1,Bulb
+4263,Unknown,Unknown
+4264,Coordinator,Coordinator
+4265,Coordinator,Coordinator
+4266,Coordinator,Coordinator
+4267,Coordinator,Coordinator
+4268,Unknown,Unknown
+4269,Power Plug 1,Socket
+4270,Unknown,Unknown
+4271,Philips Lamp 1,Bulb
+4272,Unknown,Unknown
+4273,Power Plug 1,Socket
+4274,Unknown,Unknown
+4275,Moes Bulb,Bulb
+4276,Ledvance Bulb,Bulb
+4277,Philips Lamp 1,Bulb
+4278,Power Plug 1,Socket
+4279,Smart Socket,Socket
+4280,Sonoff Motion 1,Motion
+4281,Unknown,Unknown
+4282,Sonoff Motion 1,Motion
+4283,Unknown,Unknown
+4284,Philips Motion,Bulb
+4285,Coordinator,Coordinator
+4286,Power Plug 2,Socket
+4287,Ledvance Smart+ Plug,Socket
+4288,Ledvance Z3 Plug,Socket
+4289,Moes Bulb,Bulb
+4290,Ledvance Bulb,Bulb
+4291,Philips Lamp 1,Bulb
+4292,Power Plug 1,Socket
+4293,Smart Socket,Socket
+4294,Philips Motion,Bulb
+4295,Power Plug 2,Socket
+4296,Coordinator,Coordinator
+4297,Ledvance Smart+ Plug,Socket
+4298,Coordinator,Coordinator
+4299,Unknown,Unknown
+4300,Smart Socket,Socket
+4301,Unknown,Unknown
+4302,Smart Socket,Socket
+4303,Unknown,Unknown
+4304,Coordinator,Coordinator
+4305,Unknown,Unknown
+4306,Philips Lamp 1,Bulb
+4307,Unknown,Unknown
+4308,Coordinator,Coordinator
+4309,Unknown,Unknown
+4310,Power Plug 1,Socket
+4311,Unknown,Unknown
+4312,Coordinator,Coordinator
+4313,Unknown,Unknown
+4314,Smart Socket,Socket
+4315,Unknown,Unknown
+4316,Coordinator,Coordinator
+4317,Unknown,Unknown
+4318,Philips Lamp 1,Bulb
+4319,Unknown,Unknown
+4320,Coordinator,Coordinator
+4321,Coordinator,Coordinator
+4322,Coordinator,Coordinator
+4323,Unknown,Unknown
+4324,Power Plug 1,Socket
+4325,Philips Lamp 1,Bulb
+4326,Power Plug 1,Socket
+4327,Unknown,Unknown
+4328,Unknown,Unknown
+4329,Power Plug 1,Socket
+4330,Unknown,Unknown
+4331,Power Plug 1,Socket
+4332,Unknown,Unknown
+4333,Coordinator,Coordinator
+4334,Unknown,Unknown
+4335,Power Plug 2,Socket
+4336,Coordinator,Coordinator
+4337,Philips Lamp 1,Bulb
+4338,Unknown,Unknown
+4339,Unknown,Unknown
+4340,Power Plug 1,Socket
+4341,Unknown,Unknown
+4342,Power Plug 1,Socket
+4343,Unknown,Unknown
+4344,Coordinator,Coordinator
+4345,Coordinator,Coordinator
+4346,Unknown,Unknown
+4347,Power Plug 2,Socket
+4348,Unknown,Unknown
+4349,Coordinator,Coordinator
+4350,Unknown,Unknown
+4351,Philips Lamp 1,Bulb
+4352,Unknown,Unknown
+4353,Coordinator,Coordinator
+4354,Unknown,Unknown
+4355,Philips Lamp 1,Bulb
+4356,Unknown,Unknown
+4357,Unknown,Unknown
+4358,Ledvance Z3 Plug,Socket
+4359,Moes Bulb,Bulb
+4360,Ledvance Bulb,Bulb
+4361,Power Plug 1,Socket
+4362,Philips Lamp 1,Bulb
+4363,Smart Socket,Socket
+4364,Philips Motion,Bulb
+4365,Power Plug 2,Socket
+4366,Coordinator,Coordinator
+4367,Ledvance Smart+ Plug,Socket
+4368,Moes Bulb,Bulb
+4369,Ledvance Z3 Plug,Socket
+4370,Ledvance Bulb,Bulb
+4371,Power Plug 1,Socket
+4372,Smart Socket,Socket
+4373,Philips Lamp 1,Bulb
+4374,Power Plug 2,Socket
+4375,Philips Motion,Bulb
+4376,Ledvance Smart+ Plug,Socket
+4377,Coordinator,Coordinator
+4378,Unknown,Unknown
+4379,Smart Socket,Socket
+4380,Unknown,Unknown
+4381,Smart Socket,Socket
+4382,Unknown,Unknown
+4383,Coordinator,Coordinator
+4384,Unknown,Unknown
+4385,Philips Lamp 1,Bulb
+4386,Unknown,Unknown
+4387,Coordinator,Coordinator
+4388,Unknown,Unknown
+4389,Power Plug 1,Socket
+4390,Unknown,Unknown
+4391,Coordinator,Coordinator
+4392,Unknown,Unknown
+4393,Smart Socket,Socket
+4394,Unknown,Unknown
+4395,Coordinator,Coordinator
+4396,Unknown,Unknown
+4397,Philips Lamp 1,Bulb
+4398,Unknown,Unknown
+4399,Power Plug 1,Socket
+4400,Unknown,Unknown
+4401,Coordinator,Coordinator
+4402,Philips Lamp 1,Bulb
+4403,Unknown,Unknown
+4404,Coordinator,Coordinator
+4405,Unknown,Unknown
+4406,Philips Lamp 1,Bulb
+4407,Unknown,Unknown
+4408,Power Plug 1,Socket
+4409,Unknown,Unknown
+4410,Coordinator,Coordinator
+4411,Unknown,Unknown
+4412,Power Plug 2,Socket
+4413,Unknown,Unknown
+4414,Power Plug 2,Socket
+4415,Unknown,Unknown
+4416,Coordinator,Coordinator
+4417,Unknown,Unknown
+4418,Philips Lamp 1,Bulb
+4419,Unknown,Unknown
+4420,Coordinator,Coordinator
+4421,Unknown,Unknown
+4422,Coordinator,Coordinator
+4423,Unknown,Unknown
+4424,Philips Lamp 1,Bulb
+4425,Unknown,Unknown
+4426,Unknown,Unknown
+4427,Power Plug 2,Socket
+4428,Unknown,Unknown
+4429,Philips Lamp 1,Bulb
+4430,Unknown,Unknown
+4431,Unknown,Unknown
+4432,Coordinator,Coordinator
+4433,Unknown,Unknown
+4434,Philips Lamp 1,Bulb
+4435,Unknown,Unknown
+4436,Power Plug 1,Socket
+4437,Unknown,Unknown
+4438,Coordinator,Coordinator
+4439,Moes Bulb,Bulb
+4440,Ledvance Z3 Plug,Socket
+4441,Ledvance Bulb,Bulb
+4442,Power Plug 2,Socket
+4443,Unknown,Unknown
+4444,Coordinator,Coordinator
+4445,Unknown,Unknown
+4446,Philips Lamp 1,Bulb
+4447,Unknown,Unknown
+4448,Power Plug 1,Socket
+4449,Unknown,Unknown
+4450,Power Plug 2,Socket
+4451,Unknown,Unknown
+4452,Coordinator,Coordinator
+4453,Unknown,Unknown
+4454,Philips Motion,Bulb
+4455,Unknown,Unknown
+4456,Power Plug 1,Socket
+4457,Philips Motion,Bulb
+4458,Unknown,Unknown
+4459,Coordinator,Coordinator
+4460,Philips Motion,Bulb
+4461,Unknown,Unknown
+4462,Philips Motion,Bulb
+4463,Unknown,Unknown
+4464,Smart Socket,Socket
+4465,Philips Lamp 1,Bulb
+4466,Philips Motion,Bulb
+4467,Power Plug 2,Socket
+4468,Ledvance Smart+ Plug,Socket
+4469,Ledvance Z3 Plug,Socket
+4470,Moes Bulb,Bulb
+4471,Ledvance Bulb,Bulb
+4472,Coordinator,Coordinator
+4473,Power Plug 1,Socket
+4474,Smart Socket,Socket
+4475,Philips Lamp 1,Bulb
+4476,Philips Motion,Bulb
+4477,Power Plug 2,Socket
+4478,Ledvance Smart+ Plug,Socket
+4479,Ledvance Z3 Plug,Socket
+4480,Coordinator,Coordinator
+4481,Unknown,Unknown
+4482,Smart Socket,Socket
+4483,Unknown,Unknown
+4484,Coordinator,Coordinator
+4485,Unknown,Unknown
+4486,Philips Lamp 1,Bulb
+4487,Unknown,Unknown
+4488,Coordinator,Coordinator
+4489,Unknown,Unknown
+4490,Power Plug 1,Socket
+4491,Unknown,Unknown
+4492,Coordinator,Coordinator
+4493,Unknown,Unknown
+4494,Smart Socket,Socket
+4495,Unknown,Unknown
+4496,Coordinator,Coordinator
+4497,Unknown,Unknown
+4498,Philips Lamp 1,Bulb
+4499,Unknown,Unknown
+4500,Coordinator,Coordinator
+4501,Unknown,Unknown
+4502,Power Plug 1,Socket
+4503,Unknown,Unknown
+4504,Philips Lamp 1,Bulb
+4505,Unknown,Unknown
+4506,Coordinator,Coordinator
+4507,Unknown,Unknown
+4508,Philips Lamp 1,Bulb
+4509,Unknown,Unknown
+4510,Power Plug 1,Socket
+4511,Unknown,Unknown
+4512,Coordinator,Coordinator
+4513,Unknown,Unknown
+4514,Power Plug 2,Socket
+4515,Unknown,Unknown
+4516,Coordinator,Coordinator
+4517,Philips Lamp 1,Bulb
+4518,Power Plug 1,Socket
+4519,Power Plug 1,Socket
+4520,Unknown,Unknown
+4521,Coordinator,Coordinator
+4522,Unknown,Unknown
+4523,Power Plug 2,Socket
+4524,Unknown,Unknown
+4525,Philips Lamp 1,Bulb
+4526,Unknown,Unknown
+4527,Unknown,Unknown
+4528,Power Plug 2,Socket
+4529,Unknown,Unknown
+4530,Power Plug 2,Socket
+4531,Unknown,Unknown
+4532,Coordinator,Coordinator
+4533,Philips Lamp 1,Bulb
+4534,Unknown,Unknown
+4535,Power Plug 2,Socket
+4536,Unknown,Unknown
+4537,Coordinator,Coordinator
+4538,Power Plug 1,Socket
+4539,Coordinator,Coordinator
+4540,Power Plug 1,Socket
+4541,Power Plug 2,Socket
+4542,Coordinator,Coordinator
+4543,Philips Lamp 1,Bulb
+4544,Coordinator,Coordinator
+4545,Coordinator,Coordinator
+4546,Coordinator,Coordinator
+4547,Coordinator,Coordinator
+4548,Power Plug 1,Socket
+4549,Unknown,Unknown
+4550,Coordinator,Coordinator
+4551,Unknown,Unknown
+4552,Coordinator,Coordinator
+4553,Unknown,Unknown
+4554,Philips Lamp 1,Bulb
+4555,Unknown,Unknown
+4556,Power Plug 1,Socket
+4557,Unknown,Unknown
+4558,Moes Bulb,Bulb
+4559,Coordinator,Coordinator
+4560,Ledvance Bulb,Bulb
+4561,Aqara Motion,Motion
+4562,Unknown,Unknown
+4563,Power Plug 1,Socket
+4564,Smart Socket,Socket
+4565,Sonoff Motion 1,Motion
+4566,Unknown,Unknown
+4567,Sonoff Motion 1,Motion
+4568,Unknown,Unknown
+4569,Philips Motion,Bulb
+4570,Power Plug 2,Socket
+4571,Philips Lamp 1,Bulb
+4572,Ledvance Smart+ Plug,Socket
+4573,Moes Bulb,Bulb
+4574,Ledvance Z3 Plug,Socket
+4575,Ledvance Bulb,Bulb
+4576,Coordinator,Coordinator
+4577,Power Plug 1,Socket
+4578,Smart Socket,Socket
+4579,Philips Motion,Bulb
+4580,Power Plug 2,Socket
+4581,Ledvance Smart+ Plug,Socket
+4582,Philips Lamp 1,Bulb
+4583,Coordinator,Coordinator
+4584,Unknown,Unknown
+4585,Smart Socket,Socket
+4586,Unknown,Unknown
+4587,Coordinator,Coordinator
+4588,Coordinator,Coordinator
+4589,Unknown,Unknown
+4590,Philips Lamp 1,Bulb
+4591,Unknown,Unknown
+4592,Coordinator,Coordinator
+4593,Unknown,Unknown
+4594,Power Plug 1,Socket
+4595,Unknown,Unknown
+4596,Coordinator,Coordinator
+4597,Unknown,Unknown
+4598,Smart Socket,Socket
+4599,Unknown,Unknown
+4600,Coordinator,Coordinator
+4601,Unknown,Unknown
+4602,Philips Lamp 1,Bulb
+4603,Unknown,Unknown
+4604,Coordinator,Coordinator
+4605,Unknown,Unknown
+4606,Philips Lamp 1,Bulb
+4607,Unknown,Unknown
+4608,Power Plug 1,Socket
+4609,Unknown,Unknown
+4610,Coordinator,Coordinator
+4611,Unknown,Unknown
+4612,Philips Lamp 1,Bulb
+4613,Unknown,Unknown
+4614,Power Plug 1,Socket
+4615,Unknown,Unknown
+4616,Coordinator,Coordinator
+4617,Unknown,Unknown
+4618,Philips Lamp 1,Bulb
+4619,Coordinator,Coordinator
+4620,Coordinator,Coordinator
+4621,Power Plug 1,Socket
+4622,Power Plug 1,Socket
+4623,Coordinator,Coordinator
+4624,Unknown,Unknown
+4625,Coordinator,Coordinator
+4626,Unknown,Unknown
+4627,Unknown,Unknown
+4628,Philips Lamp 1,Bulb
+4629,Unknown,Unknown
+4630,Power Plug 2,Socket
+4631,Unknown,Unknown
+4632,Power Plug 2,Socket
+4633,Power Plug 2,Socket
+4634,Unknown,Unknown
+4635,Coordinator,Coordinator
+4636,Unknown,Unknown
+4637,Philips Lamp 1,Bulb
+4638,Power Plug 1,Socket
+4639,Unknown,Unknown
+4640,Moes Bulb,Bulb
+4641,Ledvance Z3 Plug,Socket
+4642,Ledvance Bulb,Bulb
+4643,Coordinator,Coordinator
+4644,Power Plug 1,Socket
+4645,Smart Socket,Socket
+4646,Coordinator,Coordinator
+4647,Smart Socket,Socket
+4648,Ledvance Smart+ Plug,Socket
+4649,Moes Bulb,Bulb
+4650,Ledvance Z3 Plug,Socket
+4651,Philips Motion,Bulb
+4652,Ledvance Bulb,Bulb
+4653,Power Plug 1,Socket
+4654,Philips Lamp 1,Bulb
+4655,Power Plug 2,Socket
+4656,Power Plug 1,Socket
+4657,Unknown,Unknown
+4658,Smart Socket,Socket
+4659,Moes Bulb,Bulb
+4660,Coordinator,Coordinator
+4661,Coordinator,Coordinator
+4662,Unknown,Unknown
+4663,Philips Lamp 1,Bulb
+4664,Unknown,Unknown
+4665,Unknown,Unknown
+4666,Ledvance Smart+ Plug,Socket
+4667,Coordinator,Coordinator
+4668,Unknown,Unknown
+4669,Power Plug 1,Socket
+4670,Unknown,Unknown
+4671,Coordinator,Coordinator
+4672,Unknown,Unknown
+4673,Philips Lamp 1,Bulb
+4674,Unknown,Unknown
+4675,Power Plug 1,Socket
+4676,Power Plug 1,Socket
+4677,Unknown,Unknown
+4678,Ledvance Z3 Plug,Socket
+4679,Philips Motion,Bulb
+4680,Ledvance Bulb,Bulb
+4681,Power Plug 2,Socket
+4682,Philips Lamp 1,Bulb
+4683,Smart Socket,Socket
+4684,Unknown,Unknown
+4685,Smart Socket,Socket
+4686,Moes Bulb,Bulb
+4687,Coordinator,Coordinator
+4688,Unknown,Unknown
+4689,Smart Socket,Socket
+4690,Unknown,Unknown
+4691,Power Plug 1,Socket
+4692,Coordinator,Coordinator
+4693,Philips Motion,Bulb
+4694,Ledvance Z3 Plug,Socket
+4695,Power Plug 2,Socket
+4696,Philips Lamp 1,Bulb
+4697,Ledvance Bulb,Bulb
+4698,Coordinator,Coordinator
+4699,Philips Motion,Bulb
+4700,Power Plug 2,Socket
+4701,Ledvance Smart+ Plug,Socket
+4702,Moes Bulb,Bulb
+4703,Philips Lamp 1,Bulb
+4704,Ledvance Bulb,Bulb
+4705,Ledvance Z3 Plug,Socket
+4706,Power Plug 1,Socket
+4707,Coordinator,Coordinator
+4708,Smart Socket,Socket
+4709,Philips Motion,Bulb
+4710,Ledvance Z3 Plug,Socket
+4711,Unknown,Unknown
+4712,Ledvance Z3 Plug,Socket
+4713,Unknown,Unknown
+4714,Coordinator,Coordinator
+4715,Unknown,Unknown
+4716,Coordinator,Coordinator
+4717,Unknown,Unknown
+4718,Ledvance Z3 Plug,Socket
+4719,Unknown,Unknown
+4720,Ledvance Z3 Plug,Socket
+4721,Unknown,Unknown
+4722,Power Plug 2,Socket
+4723,Ledvance Smart+ Plug,Socket
+4724,Coordinator,Coordinator
+4725,Unknown,Unknown
+4726,Smart Socket,Socket
+4727,Unknown,Unknown
+4728,Coordinator,Coordinator
+4729,Unknown,Unknown
+4730,Philips Lamp 1,Bulb
+4731,Unknown,Unknown
+4732,Coordinator,Coordinator
+4733,Unknown,Unknown
+4734,Power Plug 1,Socket
+4735,Unknown,Unknown
+4736,Coordinator,Coordinator
+4737,Unknown,Unknown
+4738,Smart Socket,Socket
+4739,Unknown,Unknown
+4740,Coordinator,Coordinator
+4741,Unknown,Unknown
+4742,Philips Lamp 1,Bulb
+4743,Unknown,Unknown
+4744,Power Plug 1,Socket
+4745,Unknown,Unknown
+4746,Coordinator,Coordinator
+4747,Unknown,Unknown
+4748,Philips Lamp 1,Bulb
+4749,Unknown,Unknown
+4750,Coordinator,Coordinator
+4751,Unknown,Unknown
+4752,Philips Lamp 1,Bulb
+4753,Unknown,Unknown
+4754,Coordinator,Coordinator
+4755,Coordinator,Coordinator
+4756,Coordinator,Coordinator
+4757,Unknown,Unknown
+4758,Power Plug 1,Socket
+4759,Unknown,Unknown
+4760,Coordinator,Coordinator
+4761,Unknown,Unknown
+4762,Power Plug 2,Socket
+4763,Unknown,Unknown
+4764,Philips Lamp 1,Bulb
+4765,Unknown,Unknown
+4766,Power Plug 1,Socket
+4767,Unknown,Unknown
+4768,Unknown,Unknown
+4769,Unknown,Unknown
+4770,Power Plug 2,Socket
+4771,Unknown,Unknown
+4772,Coordinator,Coordinator
+4773,Unknown,Unknown
+4774,Philips Lamp 1,Bulb
+4775,Unknown,Unknown
+4776,Coordinator,Coordinator
+4777,Unknown,Unknown
+4778,Coordinator,Coordinator
+4779,Unknown,Unknown
+4780,Philips Lamp 1,Bulb
+4781,Power Plug 1,Socket
+4782,Unknown,Unknown
+4783,Philips Lamp 1,Bulb
+4784,Unknown,Unknown
+4785,Power Plug 1,Socket
+4786,Unknown,Unknown
+4787,Moes Bulb,Bulb
+4788,Philips Lamp 1,Bulb
+4789,Coordinator,Coordinator
+4790,Unknown,Unknown
+4791,Philips Lamp 1,Bulb
+4792,Unknown,Unknown
+4793,Philips Lamp 1,Bulb
+4794,Unknown,Unknown
+4795,Coordinator,Coordinator
+4796,Unknown,Unknown
+4797,Philips Lamp 1,Bulb
+4798,Unknown,Unknown
+4799,Philips Lamp 1,Bulb
+4800,Unknown,Unknown
+4801,Ledvance Bulb,Bulb
+4802,Ledvance Z3 Plug,Socket
+4803,Unknown,Unknown
+4804,Smart Socket,Socket
+4805,Coordinator,Coordinator
+4806,Philips Motion,Bulb
+4807,Power Plug 2,Socket
+4808,Ledvance Smart+ Plug,Socket
+4809,Power Plug 1,Socket
+4810,Unknown,Unknown
+4811,Coordinator,Coordinator
+4812,Coordinator,Coordinator
+4813,Unknown,Unknown
+4814,Philips Lamp 1,Bulb
+4815,Unknown,Unknown
+4816,Power Plug 1,Socket
+4817,Unknown,Unknown
+4818,Moes Bulb,Bulb
+4819,Philips Lamp 1,Bulb
+4820,Power Plug 1,Socket
+4821,Ledvance Bulb,Bulb
+4822,Ledvance Z3 Plug,Socket
+4823,Smart Socket,Socket
+4824,Coordinator,Coordinator
+4825,Philips Motion,Bulb
+4826,Power Plug 2,Socket
+4827,Ledvance Smart+ Plug,Socket
+4828,Coordinator,Coordinator
+4829,Unknown,Unknown
+4830,Smart Socket,Socket
+4831,Unknown,Unknown
+4832,Coordinator,Coordinator
+4833,Unknown,Unknown
+4834,Philips Lamp 1,Bulb
+4835,Coordinator,Coordinator
+4836,Unknown,Unknown
+4837,Power Plug 1,Socket
+4838,Unknown,Unknown
+4839,Coordinator,Coordinator
+4840,Unknown,Unknown
+4841,Smart Socket,Socket
+4842,Unknown,Unknown
+4843,Coordinator,Coordinator
+4844,Unknown,Unknown
+4845,Philips Lamp 1,Bulb
+4846,Unknown,Unknown
+4847,Coordinator,Coordinator
+4848,Unknown,Unknown
+4849,Philips Lamp 1,Bulb
+4850,Unknown,Unknown
+4851,Coordinator,Coordinator
+4852,Coordinator,Coordinator
+4853,Coordinator,Coordinator
+4854,Unknown,Unknown
+4855,Coordinator,Coordinator
+4856,Unknown,Unknown
+4857,Power Plug 1,Socket
+4858,Unknown,Unknown
+4859,Coordinator,Coordinator
+4860,Unknown,Unknown
+4861,Philips Lamp 1,Bulb
+4862,Unknown,Unknown
+4863,Power Plug 1,Socket
+4864,Unknown,Unknown
+4865,Coordinator,Coordinator
+4866,Coordinator,Coordinator
+4867,Coordinator,Coordinator
+4868,Unknown,Unknown
+4869,Power Plug 2,Socket
+4870,Philips Lamp 1,Bulb
+4871,Unknown,Unknown
+4872,Power Plug 1,Socket
+4873,Power Plug 1,Socket
+4874,Power Plug 2,Socket
+4875,Coordinator,Coordinator
+4876,Coordinator,Coordinator
+4877,Unknown,Unknown
+4878,Power Plug 2,Socket
+4879,Unknown,Unknown
+4880,Philips Lamp 1,Bulb
+4881,Unknown,Unknown
+4882,Coordinator,Coordinator
+4883,Unknown,Unknown
+4884,Philips Lamp 1,Bulb
+4885,Power Plug 1,Socket
+4886,Unknown,Unknown
+4887,Moes Bulb,Bulb
+4888,Philips Lamp 1,Bulb
+4889,Power Plug 1,Socket
+4890,Ledvance Z3 Plug,Socket
+4891,Smart Socket,Socket
+4892,Ledvance Bulb,Bulb
+4893,Philips Motion,Bulb
+4894,Power Plug 2,Socket
+4895,Ledvance Smart+ Plug,Socket
+4896,Coordinator,Coordinator
+4897,Moes Bulb,Bulb
+4898,Philips Lamp 1,Bulb
+4899,Power Plug 1,Socket
+4900,Smart Socket,Socket
+4901,Ledvance Z3 Plug,Socket
+4902,Ledvance Bulb,Bulb
+4903,Philips Motion,Bulb
+4904,Power Plug 2,Socket
+4905,Ledvance Smart+ Plug,Socket
+4906,Coordinator,Coordinator
+4907,Unknown,Unknown
+4908,Smart Socket,Socket
+4909,Unknown,Unknown
+4910,Coordinator,Coordinator
+4911,Unknown,Unknown
+4912,Philips Lamp 1,Bulb
+4913,Unknown,Unknown
+4914,Coordinator,Coordinator
+4915,Unknown,Unknown
+4916,Power Plug 1,Socket
+4917,Unknown,Unknown
+4918,Coordinator,Coordinator
+4919,Unknown,Unknown
+4920,Smart Socket,Socket
+4921,Unknown,Unknown
+4922,Coordinator,Coordinator
+4923,Unknown,Unknown
+4924,Philips Lamp 1,Bulb
+4925,Unknown,Unknown
+4926,Power Plug 1,Socket
+4927,Unknown,Unknown
+4928,Coordinator,Coordinator
+4929,Unknown,Unknown
+4930,Philips Lamp 1,Bulb
+4931,Coordinator,Coordinator
+4932,Unknown,Unknown
+4933,Philips Lamp 1,Bulb
+4934,Unknown,Unknown
+4935,Power Plug 1,Socket
+4936,Unknown,Unknown
+4937,Coordinator,Coordinator
+4938,Unknown,Unknown
+4939,Coordinator,Coordinator
+4940,Philips Lamp 1,Bulb
+4941,Power Plug 2,Socket
+4942,Power Plug 1,Socket
+4943,Coordinator,Coordinator
+4944,Power Plug 2,Socket
+4945,Unknown,Unknown
+4946,Unknown,Unknown
+4947,Coordinator,Coordinator
+4948,Coordinator,Coordinator
+4949,Unknown,Unknown
+4950,Power Plug 2,Socket
+4951,Coordinator,Coordinator
+4952,Philips Lamp 1,Bulb
+4953,Coordinator,Coordinator
+4954,Unknown,Unknown
+4955,Philips Lamp 1,Bulb
+4956,Power Plug 1,Socket
+4957,Power Plug 1,Socket
+4958,Power Plug 2,Socket
+4959,Power Plug 2,Socket
+4960,Power Plug 2,Socket
+4961,Unknown,Unknown
+4962,Coordinator,Coordinator
+4963,Unknown,Unknown
+4964,Philips Lamp 1,Bulb
+4965,Unknown,Unknown
+4966,Power Plug 1,Socket
+4967,Unknown,Unknown
+4968,Moes Bulb,Bulb
+4969,Coordinator,Coordinator
+4970,Ledvance Bulb,Bulb
+4971,Unknown,Unknown
+4972,Ledvance Bulb,Bulb
+4973,Unknown,Unknown
+4974,Coordinator,Coordinator
+4975,Unknown,Unknown
+4976,Coordinator,Coordinator
+4977,Unknown,Unknown
+4978,Ledvance Bulb,Bulb
+4979,Unknown,Unknown
+4980,Ledvance Bulb,Bulb
+4981,Unknown,Unknown
+4982,Smart Socket,Socket
+4983,Unknown,Unknown
+4984,Coordinator,Coordinator
+4985,Unknown,Unknown
+4986,Smart Socket,Socket
+4987,Unknown,Unknown
+4988,Smart Socket,Socket
+4989,Unknown,Unknown
+4990,Coordinator,Coordinator
+4991,Unknown,Unknown
+4992,Smart Socket,Socket
+4993,Unknown,Unknown
+4994,Philips Lamp 1,Bulb
+4995,Power Plug 1,Socket
+4996,Smart Socket,Socket
+4997,Ledvance Bulb,Bulb
+4998,Ledvance Z3 Plug,Socket
+4999,Philips Motion,Bulb
+5000,Power Plug 2,Socket
+5001,Ledvance Smart+ Plug,Socket
+5002,Moes Bulb,Bulb
+5003,Coordinator,Coordinator
+5004,Power Plug 2,Socket
+5005,Unknown,Unknown
+5006,Coordinator,Coordinator
+5007,Unknown,Unknown
+5008,Philips Lamp 1,Bulb
+5009,Unknown,Unknown
+5010,Power Plug 1,Socket
+5011,Unknown,Unknown
+5012,Power Plug 2,Socket
+5013,Unknown,Unknown
+5014,Power Plug 2,Socket
+5015,Unknown,Unknown
+5016,Coordinator,Coordinator
+5017,Unknown,Unknown
+5018,Philips Lamp 1,Bulb
+5019,Unknown,Unknown
+5020,Power Plug 1,Socket
+5021,Unknown,Unknown
+5022,Power Plug 2,Socket
+5023,Unknown,Unknown
+5024,Power Plug 2,Socket
+5025,Unknown,Unknown
+5026,Coordinator,Coordinator
+5027,Unknown,Unknown
+5028,Philips Lamp 1,Bulb
+5029,Unknown,Unknown
+5030,Power Plug 1,Socket
+5031,Unknown,Unknown
+5032,Power Plug 2,Socket
+5033,Unknown,Unknown
+5034,Power Plug 1,Socket
+5035,Philips Lamp 1,Bulb
+5036,Smart Socket,Socket
+5037,Power Plug 2,Socket
+5038,Ledvance Bulb,Bulb
+5039,Ledvance Smart+ Plug,Socket
+5040,Ledvance Z3 Plug,Socket
+5041,Coordinator,Coordinator
+5042,Unknown,Unknown
+5043,Smart Socket,Socket
+5044,Unknown,Unknown
+5045,Coordinator,Coordinator
+5046,Unknown,Unknown
+5047,Philips Lamp 1,Bulb
+5048,Unknown,Unknown
+5049,Coordinator,Coordinator
+5050,Unknown,Unknown
+5051,Power Plug 1,Socket
+5052,Unknown,Unknown
+5053,Coordinator,Coordinator
+5054,Unknown,Unknown
+5055,Smart Socket,Socket
+5056,Unknown,Unknown
+5057,Coordinator,Coordinator
+5058,Unknown,Unknown
+5059,Philips Lamp 1,Bulb
+5060,Unknown,Unknown
+5061,Coordinator,Coordinator
+5062,Coordinator,Coordinator
+5063,Unknown,Unknown
+5064,Philips Lamp 1,Bulb
+5065,Unknown,Unknown
+5066,Power Plug 1,Socket
+5067,Coordinator,Coordinator
+5068,Power Plug 1,Socket
+5069,Coordinator,Coordinator
+5070,Unknown,Unknown
+5071,Power Plug 1,Socket
+5072,Unknown,Unknown
+5073,Philips Lamp 1,Bulb
+5074,Unknown,Unknown
+5075,Power Plug 1,Socket
+5076,Unknown,Unknown
+5077,Coordinator,Coordinator
+5078,Unknown,Unknown
+5079,Power Plug 2,Socket
+5080,Unknown,Unknown
+5081,Power Plug 2,Socket
+5082,Unknown,Unknown
+5083,Coordinator,Coordinator
+5084,Unknown,Unknown
+5085,Philips Lamp 1,Bulb
+5086,Unknown,Unknown
+5087,Power Plug 1,Socket
+5088,Unknown,Unknown
+5089,Coordinator,Coordinator
+5090,Unknown,Unknown
+5091,Philips Lamp 1,Bulb
+5092,Power Plug 2,Socket
+5093,Unknown,Unknown
+5094,Power Plug 2,Socket
+5095,Unknown,Unknown
+5096,Coordinator,Coordinator
+5097,Unknown,Unknown
+5098,Philips Lamp 1,Bulb
+5099,Unknown,Unknown
+5100,Coordinator,Coordinator
+5101,Coordinator,Coordinator
+5102,Power Plug 1,Socket
+5103,Unknown,Unknown
+5104,Power Plug 1,Socket
+5105,Unknown,Unknown
+5106,Coordinator,Coordinator
+5107,Unknown,Unknown
+5108,Philips Lamp 1,Bulb
+5109,Unknown,Unknown
+5110,Power Plug 1,Socket
+5111,Unknown,Unknown
+5112,Philips Motion,Bulb
+5113,Moes Bulb,Bulb
+5114,Coordinator,Coordinator
+5115,Sonoff Temperature,Temperature
+5116,Unknown,Unknown
+5117,Power Plug 2,Socket
+5118,Unknown,Unknown
+5119,Power Plug 1,Socket
+5120,Smart Socket,Socket
+5121,Philips Lamp 1,Bulb
+5122,Power Plug 2,Socket
+5123,Ledvance Z3 Plug,Socket
+5124,Ledvance Smart+ Plug,Socket
+5125,Moes Bulb,Bulb
+5126,Ledvance Bulb,Bulb
+5127,Philips Motion,Bulb
+5128,Coordinator,Coordinator
+5129,Power Plug 1,Socket
+5130,Smart Socket,Socket
+5131,Ledvance Z3 Plug,Socket
+5132,Philips Lamp 1,Bulb
+5133,Power Plug 2,Socket
+5134,Ledvance Smart+ Plug,Socket
+5135,Coordinator,Coordinator
+5136,Unknown,Unknown
+5137,Smart Socket,Socket
+5138,Unknown,Unknown
+5139,Coordinator,Coordinator
+5140,Unknown,Unknown
+5141,Philips Lamp 1,Bulb
+5142,Unknown,Unknown
+5143,Coordinator,Coordinator
+5144,Unknown,Unknown
+5145,Power Plug 1,Socket
+5146,Unknown,Unknown
+5147,Coordinator,Coordinator
+5148,Unknown,Unknown
+5149,Smart Socket,Socket
+5150,Unknown,Unknown
+5151,Coordinator,Coordinator
+5152,Unknown,Unknown
+5153,Philips Lamp 1,Bulb
+5154,Unknown,Unknown
+5155,Power Plug 1,Socket
+5156,Unknown,Unknown
+5157,Coordinator,Coordinator
+5158,Unknown,Unknown
+5159,Philips Lamp 1,Bulb
+5160,Unknown,Unknown
+5161,Coordinator,Coordinator
+5162,Unknown,Unknown
+5163,Philips Lamp 1,Bulb
+5164,Unknown,Unknown
+5165,Power Plug 1,Socket
+5166,Unknown,Unknown
+5167,Coordinator,Coordinator
+5168,Unknown,Unknown
+5169,Power Plug 2,Socket
+5170,Unknown,Unknown
+5171,Power Plug 2,Socket
+5172,Unknown,Unknown
+5173,Coordinator,Coordinator
+5174,Unknown,Unknown
+5175,Philips Lamp 1,Bulb
+5176,Unknown,Unknown
+5177,Power Plug 1,Socket
+5178,Unknown,Unknown
+5179,Coordinator,Coordinator
+5180,Unknown,Unknown
+5181,Power Plug 2,Socket
+5182,Unknown,Unknown
+5183,Coordinator,Coordinator
+5184,Unknown,Unknown
+5185,Coordinator,Coordinator
+5186,Coordinator,Coordinator
+5187,Unknown,Unknown
+5188,Philips Lamp 1,Bulb
+5189,Unknown,Unknown
+5190,Power Plug 1,Socket
+5191,Unknown,Unknown
+5192,Coordinator,Coordinator
+5193,Unknown,Unknown
+5194,Philips Lamp 1,Bulb
+5195,Unknown,Unknown
+5196,Power Plug 1,Socket
+5197,Unknown,Unknown
+5198,Moes Bulb,Bulb
+5199,Ledvance Bulb,Bulb
+5200,Philips Motion,Bulb
+5201,Coordinator,Coordinator
+5202,Power Plug 1,Socket
+5203,Smart Socket,Socket
+5204,Ledvance Z3 Plug,Socket
+5205,Power Plug 2,Socket
+5206,Smart Socket,Socket
+5207,Unknown,Unknown
+5208,Coordinator,Coordinator
+5209,Unknown,Unknown
+5210,Smart Socket,Socket
+5211,Unknown,Unknown
+5212,Philips Lamp 1,Bulb
+5213,Ledvance Smart+ Plug,Socket
+5214,Moes Bulb,Bulb
+5215,Ledvance Bulb,Bulb
+5216,Aqara Vibration,Vibration
+5217,Unknown,Unknown
+5218,Philips Motion,Bulb
+5219,Coordinator,Coordinator
+5220,Power Plug 1,Socket
+5221,Smart Socket,Socket
+5222,Power Plug 2,Socket
+5223,Ledvance Smart+ Plug,Socket
+5224,Coordinator,Coordinator
+5225,Unknown,Unknown
+5226,Smart Socket,Socket
+5227,Unknown,Unknown
+5228,Coordinator,Coordinator
+5229,Unknown,Unknown
+5230,Unknown,Unknown
+5231,Philips Lamp 1,Bulb
+5232,Unknown,Unknown
+5233,Coordinator,Coordinator
+5234,Unknown,Unknown
+5235,Power Plug 1,Socket
+5236,Unknown,Unknown
+5237,Coordinator,Coordinator
+5238,Unknown,Unknown
+5239,Smart Socket,Socket
+5240,Unknown,Unknown
+5241,Ledvance Z3 Plug,Socket
+5242,Coordinator,Coordinator
+5243,Unknown,Unknown
+5244,Philips Lamp 1,Bulb
+5245,Unknown,Unknown
+5246,Power Plug 1,Socket
+5247,Unknown,Unknown
+5248,Coordinator,Coordinator
+5249,Unknown,Unknown
+5250,Philips Lamp 1,Bulb
+5251,Unknown,Unknown
+5252,Coordinator,Coordinator
+5253,Unknown,Unknown
+5254,Philips Lamp 1,Bulb
+5255,Unknown,Unknown
+5256,Power Plug 1,Socket
+5257,Unknown,Unknown
+5258,Coordinator,Coordinator
+5259,Unknown,Unknown
+5260,Power Plug 2,Socket
+5261,Unknown,Unknown
+5262,Power Plug 2,Socket
+5263,Unknown,Unknown
+5264,Coordinator,Coordinator
+5265,Unknown,Unknown
+5266,Philips Lamp 1,Bulb
+5267,Power Plug 1,Socket
+5268,Unknown,Unknown
+5269,Coordinator,Coordinator
+5270,Unknown,Unknown
+5271,Unknown,Unknown
+5272,Philips Lamp 1,Bulb
+5273,Power Plug 2,Socket
+5274,Unknown,Unknown
+5275,Coordinator,Coordinator
+5276,Philips Lamp 1,Bulb
+5277,Unknown,Unknown
+5278,Power Plug 2,Socket
+5279,Unknown,Unknown
+5280,Unknown,Unknown
+5281,Power Plug 1,Socket
+5282,Power Plug 1,Socket
+5283,Power Plug 1,Socket
+5284,Unknown,Unknown
+5285,Power Plug 2,Socket
+5286,Unknown,Unknown
+5287,Coordinator,Coordinator
+5288,Unknown,Unknown
+5289,Philips Lamp 1,Bulb
+5290,Unknown,Unknown
+5291,Coordinator,Coordinator
+5292,Coordinator,Coordinator
+5293,Coordinator,Coordinator
+5294,Coordinator,Coordinator
+5295,Unknown,Unknown
+5296,Power Plug 1,Socket
+5297,Unknown,Unknown
+5298,Philips Lamp 1,Bulb
+5299,Unknown,Unknown
+5300,Power Plug 1,Socket
+5301,Unknown,Unknown
+5302,Moes Bulb,Bulb
+5303,Philips Lamp 1,Bulb
+5304,Ledvance Bulb,Bulb
+5305,Philips Motion,Bulb
+5306,Coordinator,Coordinator
+5307,Power Plug 1,Socket
+5308,Smart Socket,Socket
+5309,Power Plug 2,Socket
+5310,Ledvance Smart+ Plug,Socket
+5311,Sonoff Temperature,Temperature
+5312,Unknown,Unknown
+5313,Power Plug 2,Socket
+5314,Unknown,Unknown
+5315,Ledvance Z3 Plug,Socket
+5316,Moes Bulb,Bulb
+5317,Philips Lamp 1,Bulb
+5318,Philips Motion,Bulb
+5319,Ledvance Bulb,Bulb
+5320,Power Plug 1,Socket
+5321,Smart Socket,Socket
+5322,Coordinator,Coordinator
+5323,Power Plug 2,Socket
+5324,Ledvance Smart+ Plug,Socket
+5325,Ledvance Z3 Plug,Socket
+5326,Coordinator,Coordinator
+5327,Unknown,Unknown
+5328,Smart Socket,Socket
+5329,Unknown,Unknown
+5330,Coordinator,Coordinator
+5331,Unknown,Unknown
+5332,Philips Lamp 1,Bulb
+5333,Unknown,Unknown
+5334,Coordinator,Coordinator
+5335,Power Plug 1,Socket
+5336,Unknown,Unknown
+5337,Coordinator,Coordinator
+5338,Unknown,Unknown
+5339,Coordinator,Coordinator
+5340,Unknown,Unknown
+5341,Smart Socket,Socket
+5342,Unknown,Unknown
+5343,Coordinator,Coordinator
+5344,Unknown,Unknown
+5345,Philips Lamp 1,Bulb
+5346,Unknown,Unknown
+5347,Power Plug 1,Socket
+5348,Unknown,Unknown
+5349,Coordinator,Coordinator
+5350,Unknown,Unknown
+5351,Philips Lamp 1,Bulb
+5352,Unknown,Unknown
+5353,Coordinator,Coordinator
+5354,Unknown,Unknown
+5355,Philips Lamp 1,Bulb
+5356,Philips Lamp 1,Bulb
+5357,Unknown,Unknown
+5358,Coordinator,Coordinator
+5359,Power Plug 1,Socket
+5360,Unknown,Unknown
+5361,Coordinator,Coordinator
+5362,Unknown,Unknown
+5363,Power Plug 2,Socket
+5364,Unknown,Unknown
+5365,Philips Lamp 1,Bulb
+5366,Unknown,Unknown
+5367,Power Plug 1,Socket
+5368,Unknown,Unknown
+5369,Coordinator,Coordinator
+5370,Unknown,Unknown
+5371,Power Plug 2,Socket
+5372,Unknown,Unknown
+5373,Coordinator,Coordinator
+5374,Unknown,Unknown
+5375,Philips Lamp 1,Bulb
+5376,Unknown,Unknown
+5377,Coordinator,Coordinator
+5378,Unknown,Unknown
+5379,Philips Lamp 1,Bulb
+5380,Coordinator,Coordinator
+5381,Power Plug 1,Socket
+5382,Unknown,Unknown
+5383,Coordinator,Coordinator
+5384,Unknown,Unknown
+5385,Philips Lamp 1,Bulb
+5386,Unknown,Unknown
+5387,Unknown,Unknown
+5388,Moes Bulb,Bulb
+5389,Philips Lamp 1,Bulb
+5390,Coordinator,Coordinator
+5391,Ledvance Bulb,Bulb
+5392,Ledvance Smart+ Plug,Socket
+5393,Ledvance Z3 Plug,Socket
+5394,Philips Motion,Bulb
+5395,Philips Lamp 1,Bulb
+5396,Moes Bulb,Bulb
+5397,Smart Socket,Socket
+5398,Power Plug 1,Socket
+5399,Power Plug 2,Socket
+5400,Ledvance Smart+ Plug,Socket
+5401,Ledvance Bulb,Bulb
+5402,Ledvance Bulb,Bulb
+5403,Ledvance Z3 Plug,Socket
+5404,Philips Motion,Bulb
+5405,Coordinator,Coordinator
+5406,Philips Lamp 1,Bulb
+5407,Moes Bulb,Bulb
+5408,Smart Socket,Socket
+5409,Power Plug 1,Socket
+5410,Power Plug 2,Socket
+5411,Ledvance Z3 Plug,Socket
+5412,Ledvance Bulb,Bulb
+5413,Philips Motion,Bulb
+5414,Coordinator,Coordinator
+5415,Moes Bulb,Bulb
+5416,Smart Socket,Socket
+5417,Philips Lamp 1,Bulb
+5418,Power Plug 1,Socket
+5419,Philips Motion,Bulb
+5420,Power Plug 2,Socket
+5421,Coordinator,Coordinator
+5422,Power Plug 1,Socket
+5423,Unknown,Unknown
+5424,Coordinator,Coordinator
+5425,Unknown,Unknown
+5426,Philips Lamp 1,Bulb
+5427,Unknown,Unknown
+5428,Power Plug 1,Socket
+5429,Power Plug 1,Socket
+5430,Unknown,Unknown
+5431,Power Plug 1,Socket
+5432,Smart Socket,Socket
+5433,Coordinator,Coordinator
+5434,Power Plug 2,Socket
+5435,Ledvance Smart+ Plug,Socket
+5436,Ledvance Z3 Plug,Socket
+5437,Moes Bulb,Bulb
+5438,Ledvance Bulb,Bulb
+5439,Philips Lamp 1,Bulb
+5440,Power Plug 1,Socket
+5441,Aqara Motion,Motion
+5442,Unknown,Unknown
+5443,Philips Motion,Bulb
+5444,Smart Socket,Socket
+5445,Coordinator,Coordinator
+5446,Power Plug 2,Socket
+5447,Ledvance Smart+ Plug,Socket
+5448,Coordinator,Coordinator
+5449,Unknown,Unknown
+5450,Smart Socket,Socket
+5451,Unknown,Unknown
+5452,Coordinator,Coordinator
+5453,Unknown,Unknown
+5454,Philips Lamp 1,Bulb
+5455,Unknown,Unknown
+5456,Power Plug 1,Socket
+5457,Unknown,Unknown
+5458,Coordinator,Coordinator
+5459,Unknown,Unknown
+5460,Coordinator,Coordinator
+5461,Unknown,Unknown
+5462,Smart Socket,Socket
+5463,Unknown,Unknown
+5464,Coordinator,Coordinator
+5465,Unknown,Unknown
+5466,Philips Lamp 1,Bulb
+5467,Unknown,Unknown
+5468,Power Plug 1,Socket
+5469,Unknown,Unknown
+5470,Coordinator,Coordinator
+5471,Unknown,Unknown
+5472,Philips Lamp 1,Bulb
+5473,Unknown,Unknown
+5474,Coordinator,Coordinator
+5475,Unknown,Unknown
+5476,Philips Lamp 1,Bulb
+5477,Unknown,Unknown
+5478,Power Plug 1,Socket
+5479,Unknown,Unknown
+5480,Coordinator,Coordinator
+5481,Unknown,Unknown
+5482,Unknown,Unknown
+5483,Philips Lamp 1,Bulb
+5484,Power Plug 2,Socket
+5485,Unknown,Unknown
+5486,Power Plug 1,Socket
+5487,Coordinator,Coordinator
+5488,Unknown,Unknown
+5489,Power Plug 2,Socket
+5490,Power Plug 1,Socket
+5491,Philips Lamp 1,Bulb
+5492,Unknown,Unknown
+5493,Power Plug 2,Socket
+5494,Unknown,Unknown
+5495,Power Plug 1,Socket
+5496,Unknown,Unknown
+5497,Power Plug 2,Socket
+5498,Unknown,Unknown
+5499,Coordinator,Coordinator
+5500,Unknown,Unknown
+5501,Philips Lamp 1,Bulb
+5502,Coordinator,Coordinator
+5503,Unknown,Unknown
+5504,Coordinator,Coordinator
+5505,Unknown,Unknown
+5506,Philips Lamp 1,Bulb
+5507,Unknown,Unknown
+5508,Power Plug 1,Socket
+5509,Unknown,Unknown
+5510,Moes Bulb,Bulb
+5511,Ledvance Z3 Plug,Socket
+5512,Coordinator,Coordinator
+5513,Unknown,Unknown
+5514,Philips Motion,Bulb
+5515,Unknown,Unknown
+5516,Philips Motion,Bulb
+5517,Unknown,Unknown
+5518,Coordinator,Coordinator
+5519,Unknown,Unknown
+5520,Philips Motion,Bulb
+5521,Unknown,Unknown
+5522,Philips Motion,Bulb
+5523,Unknown,Unknown
+5524,Ledvance Bulb,Bulb
+5525,Power Plug 1,Socket
+5526,Smart Socket,Socket
+5527,Philips Motion,Bulb
+5528,Philips Lamp 1,Bulb
+5529,Power Plug 2,Socket
+5530,Coordinator,Coordinator
+5531,Ledvance Smart+ Plug,Socket
+5532,Moes Bulb,Bulb
+5533,Ledvance Z3 Plug,Socket
+5534,Ledvance Bulb,Bulb
+5535,Power Plug 1,Socket
+5536,Philips Motion,Bulb
+5537,Smart Socket,Socket
+5538,Philips Lamp 1,Bulb
+5539,Power Plug 2,Socket
+5540,Ledvance Smart+ Plug,Socket
+5541,Coordinator,Coordinator
+5542,Coordinator,Coordinator
+5543,Unknown,Unknown
+5544,Smart Socket,Socket
+5545,Unknown,Unknown
+5546,Coordinator,Coordinator
+5547,Unknown,Unknown
+5548,Philips Lamp 1,Bulb
+5549,Unknown,Unknown
+5550,Coordinator,Coordinator
+5551,Unknown,Unknown
+5552,Power Plug 1,Socket
+5553,Unknown,Unknown
+5554,Coordinator,Coordinator
+5555,Unknown,Unknown
+5556,Smart Socket,Socket
+5557,Unknown,Unknown
+5558,Coordinator,Coordinator
+5559,Unknown,Unknown
+5560,Philips Lamp 1,Bulb
+5561,Unknown,Unknown
+5562,Coordinator,Coordinator
+5563,Unknown,Unknown
+5564,Philips Lamp 1,Bulb
+5565,Unknown,Unknown
+5566,Coordinator,Coordinator
+5567,Unknown,Unknown
+5568,Unknown,Unknown
+5569,Philips Lamp 1,Bulb
+5570,Unknown,Unknown
+5571,Power Plug 1,Socket
+5572,Unknown,Unknown
+5573,Coordinator,Coordinator
+5574,Coordinator,Coordinator
+5575,Power Plug 2,Socket
+5576,Unknown,Unknown
+5577,Power Plug 2,Socket
+5578,Unknown,Unknown
+5579,Coordinator,Coordinator
+5580,Unknown,Unknown
+5581,Coordinator,Coordinator
+5582,Unknown,Unknown
+5583,Philips Lamp 1,Bulb
+5584,Unknown,Unknown
+5585,Coordinator,Coordinator
+5586,Unknown,Unknown
+5587,Unknown,Unknown
+5588,Coordinator,Coordinator
+5589,Coordinator,Coordinator
+5590,Unknown,Unknown
+5591,Unknown,Unknown
+5592,Philips Lamp 1,Bulb
+5593,Power Plug 2,Socket
+5594,Philips Lamp 1,Bulb
+5595,Power Plug 2,Socket
+5596,Unknown,Unknown
+5597,Coordinator,Coordinator
+5598,Unknown,Unknown
+5599,Philips Lamp 1,Bulb
+5600,Unknown,Unknown
+5601,Philips Lamp 1,Bulb
+5602,Unknown,Unknown
+5603,Power Plug 1,Socket
+5604,Unknown,Unknown
+5605,Coordinator,Coordinator
+5606,Unknown,Unknown
+5607,Philips Lamp 1,Bulb
+5608,Unknown,Unknown
+5609,Power Plug 1,Socket
+5610,Unknown,Unknown
+5611,Moes Bulb,Bulb
+5612,Power Plug 2,Socket
+5613,Unknown,Unknown
+5614,Coordinator,Coordinator
+5615,Unknown,Unknown
+5616,Philips Lamp 1,Bulb
+5617,Unknown,Unknown
+5618,Power Plug 1,Socket
+5619,Unknown,Unknown
+5620,Power Plug 2,Socket
+5621,Unknown,Unknown
+5622,Ledvance Z3 Plug,Socket
+5623,Ledvance Bulb,Bulb
+5624,Unknown,Unknown
+5625,Ledvance Bulb,Bulb
+5626,Unknown,Unknown
+5627,Coordinator,Coordinator
+5628,Unknown,Unknown
+5629,Coordinator,Coordinator
+5630,Unknown,Unknown
+5631,Ledvance Bulb,Bulb
+5632,Unknown,Unknown
+5633,Ledvance Bulb,Bulb
+5634,Unknown,Unknown
+5635,Ledvance Bulb,Bulb
+5636,Power Plug 1,Socket
+5637,Smart Socket,Socket
+5638,Philips Motion,Bulb
+5639,Ledvance Bulb,Bulb
+5640,Unknown,Unknown
+5641,Ledvance Bulb,Bulb
+5642,Unknown,Unknown
+5643,Coordinator,Coordinator
+5644,Unknown,Unknown
+5645,Coordinator,Coordinator
+5646,Unknown,Unknown
+5647,Ledvance Bulb,Bulb
+5648,Unknown,Unknown
+5649,Ledvance Bulb,Bulb
+5650,Unknown,Unknown
+5651,Ledvance Bulb,Bulb
+5652,Unknown,Unknown
+5653,Ledvance Bulb,Bulb
+5654,Unknown,Unknown
+5655,Coordinator,Coordinator
+5656,Unknown,Unknown
+5657,Coordinator,Coordinator
+5658,Unknown,Unknown
+5659,Ledvance Bulb,Bulb
+5660,Unknown,Unknown
+5661,Ledvance Bulb,Bulb
+5662,Unknown,Unknown
+5663,Power Plug 2,Socket
+5664,Ledvance Smart+ Plug,Socket
+5665,Sonoff Temperature,Temperature
+5666,Unknown,Unknown
+5667,Unknown,Unknown
+5668,Power Plug 2,Socket
+5669,Unknown,Unknown
+5670,Philips Lamp 1,Bulb
+5671,Moes Bulb,Bulb
+5672,Coordinator,Coordinator
+5673,Sonoff Door 1,Door
+5674,Unknown,Unknown
+5675,Ledvance Z3 Plug,Socket
+5676,Sonoff Door 1,Door
+5677,Unknown,Unknown
+5678,Sonoff Motion 2,Motion
+5679,Unknown,Unknown
+5680,Ledvance Bulb,Bulb
+5681,Sonoff Motion 2,Motion
+5682,Unknown,Unknown
+5683,Power Plug 1,Socket
+5684,Smart Socket,Socket
+5685,Philips Motion,Bulb
+5686,Power Plug 2,Socket
+5687,Ledvance Smart+ Plug,Socket
+5688,Coordinator,Coordinator
+5689,Unknown,Unknown
+5690,Smart Socket,Socket
+5691,Unknown,Unknown
+5692,Coordinator,Coordinator
+5693,Unknown,Unknown
+5694,Philips Lamp 1,Bulb
+5695,Unknown,Unknown
+5696,Coordinator,Coordinator
+5697,Unknown,Unknown
+5698,Power Plug 1,Socket
+5699,Unknown,Unknown
+5700,Coordinator,Coordinator
+5701,Unknown,Unknown
+5702,Smart Socket,Socket
+5703,Unknown,Unknown
+5704,Coordinator,Coordinator
+5705,Unknown,Unknown
+5706,Philips Lamp 1,Bulb
+5707,Unknown,Unknown
+5708,Coordinator,Coordinator
+5709,Power Plug 1,Socket
+5710,Unknown,Unknown
+5711,Philips Lamp 1,Bulb
+5712,Unknown,Unknown
+5713,Power Plug 1,Socket
+5714,Unknown,Unknown
+5715,Coordinator,Coordinator
+5716,Power Plug 2,Socket
+5717,Unknown,Unknown
+5718,Coordinator,Coordinator
+5719,Unknown,Unknown
+5720,Philips Lamp 1,Bulb
+5721,Unknown,Unknown
+5722,Coordinator,Coordinator
+5723,Unknown,Unknown
+5724,Philips Lamp 1,Bulb
+5725,Unknown,Unknown
+5726,Power Plug 1,Socket
+5727,Unknown,Unknown
+5728,Coordinator,Coordinator
+5729,Unknown,Unknown
+5730,Power Plug 2,Socket
+5731,Unknown,Unknown
+5732,Coordinator,Coordinator
+5733,Unknown,Unknown
+5734,Philips Lamp 1,Bulb
+5735,Unknown,Unknown
+5736,Coordinator,Coordinator
+5737,Unknown,Unknown
+5738,Philips Lamp 1,Bulb
+5739,Unknown,Unknown
+5740,Power Plug 1,Socket
+5741,Unknown,Unknown
+5742,Coordinator,Coordinator
+5743,Unknown,Unknown
+5744,Philips Lamp 1,Bulb
+5745,Unknown,Unknown
+5746,Power Plug 1,Socket
+5747,Unknown,Unknown

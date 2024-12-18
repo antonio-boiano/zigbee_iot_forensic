@@ -3,10 +3,11 @@
 import os
 import pandas as pd
 import pyshark
+import re
 
 
 # Device mappings
-device_type_mapping_v1 = {
+device_type_mapping_vA = {
     '0x0000': 'Coordinator',
     '0x09ac': 'Socket',
     '0x5db6': 'Door',
@@ -31,7 +32,7 @@ device_type_mapping_v1 = {
     '0xe5c4': 'Bulb',
 }
 
-device_name_mapping_v1 = {
+device_name_mapping_vA = {
     '0x0000': 'Coordinator',
     '0x09ac': 'Ledvance Z3 Plug',
     '0x5db6': 'Aqara Door 1',
@@ -57,7 +58,7 @@ device_name_mapping_v1 = {
 }
 
 
-device_type_mapping_v2 = {
+device_type_mapping_vB = {
     '0x0000': 'Coordinator',
     '0x4615': 'Temperature',
     '0x946e': 'Door',
@@ -82,7 +83,7 @@ device_type_mapping_v2 = {
     '0x059b': 'Motion'    
 }
 
-device_name_mapping_v2 = {
+device_name_mapping_vB = {
     '0x0000': 'Coordinator',
     '0x4615': 'Sonoff Temperature',
     '0x946e': 'Sonoff Door 1',
@@ -108,49 +109,291 @@ device_name_mapping_v2 = {
 }
 
 
+def parse_layer_data(input_string):
+    """
+    Parses the given input string into a structured dictionary.
+    
+    Args:
+        input_string (str): The formatted string to parse.
+
+    Returns:
+        dict: A nested dictionary representing the parsed data.
+    """
+    import re
+
+    # Split the input string into lines, ensuring consistency in handling newline characters
+    lines = input_string.replace('\r\n', '\n').replace('\r', '\n').split('\n')
+
+    # Initialize a dictionary to store the parsed data
+    parsed_data = {}
+    current_key = None
+
+    # Regular expressions for parsing
+    key_value_pattern = re.compile(r"^(\w[\w\s]+):\s*(.*)")
+    subkey_value_pattern = re.compile(r"^\t(.*?):\s*(.*)")
+
+    for line in lines:
+        line = line.strip()
+        if not line:
+            continue
+
+        # Match top-level keys
+        key_match = key_value_pattern.match(line)
+        if key_match:
+            current_key = key_match.group(1)
+            if current_key in parsed_data:
+                if isinstance(parsed_data[current_key], list):
+                    parsed_data[current_key].append(key_match.group(2))
+                else:
+                    parsed_data[current_key] = [parsed_data[current_key], key_match.group(2)]
+            else:
+                parsed_data[current_key] = key_match.group(2)
+            continue
+
+        # Match subkeys under the current key
+        if current_key:
+            subkey_match = subkey_value_pattern.match(line)
+            if subkey_match:
+                subkey = subkey_match.group(1)
+                value = subkey_match.group(2)
+                if not isinstance(parsed_data[current_key], dict):
+                    parsed_data[current_key] = {}
+                parsed_data[current_key][subkey] = value
+
+    return parsed_data
+
+
+def detect_cmd(src_addr, packet,dict_mem = {},device_name = None):  
+    """
+    Detects the human-readable command string based on the source address and command ID.
+    Args:
+        src_addr (str): The source address of the packet.
+        packet (pyshark.packet.packet.Packet): The pyshark packet to classify.
+    
+    Returns:
+        int: 1 if the command is human-readable, 0 otherwise.
+    """
+    
+    human_cmd = [
+        'zbee_zcl_lighting.color_control.cmd.srv_rx.id',
+        'zbee_zcl_general.level_control.cmd.srv_rx.id',
+        'zbee_zcl_general.onoff.cmd.srv_rx.id',
+        'zbee_zcl_ias.zone.cmd.srv_tx.id'
+    ]
+    
+    
+    
+    if 'ZBEE_ZCL' in packet:
+        for attribute in packet['ZBEE_ZCL']._all_fields.values():
+            if attribute.name in human_cmd:
+                return 1
+            
+    cmd_id = None
+    cmd_str = None
+    
+    if src_addr is not None and src_addr != '0x0000':
+        if 'ZBEE_ZCL' in packet:
+            if hasattr(packet['ZBEE_ZCL'],'cmd_id'):
+                cmd_id = packet['ZBEE_ZCL'].cmd_id
+                cmd_str = str(packet['ZBEE_ZCL'])
+                
+        if cmd_id is not None and cmd_str is not None:
+            if cmd_id == '0x0a' and hasattr(packet['ZBEE_ZCL'], 'zbee_zcl_general_onoff_attr_onoff'):
+                if src_addr in dict_mem:
+                    if dict_mem[src_addr] != packet['ZBEE_ZCL'].zbee_zcl_general_onoff_attr_onoff:
+                        dict_mem[src_addr] = packet['ZBEE_ZCL'].zbee_zcl_general_onoff_attr_onoff
+                        return 1
+                else:
+                    dict_mem[src_addr] = packet['ZBEE_ZCL'].zbee_zcl_general_onoff_attr_onoff
+            
+            if cmd_id == '0x0a' and device_name is not None and (device_name == 'Aqara Button' or device_name == 'Aqara Vibration'):
+                try: 
+                    if packet['ZBEE_ZCL'].attr_id == '0xff01':
+                        return 0
+                    else:
+                        return 1
+                except:
+                    return 1
+                
+            if cmd_id == '0x0a' and device_name is not None and device_name == 'Aqara Motion':
+                        if packet['ZBEE_ZCL'].attr_id != '0x00f7':
+                            return 1
+                
+                   
+    return 0
+
+
+def classify_packet(packet):
+    """
+    Classify a given pyshark packet and return a label.
+
+    Parameters:
+        packet (pyshark.packet.packet.Packet): The pyshark packet to classify.
+
+    Returns:
+        str: The label for the packet.
+    """
+    # Define command attributes to check
+    command_attributes = [
+        'zbee_zcl.cmd.id',
+        'zbee_zcl_lighting.color_control.cmd.srv_rx.id',
+        'zbee_zcl_general.groups.cmd_srv_rx.id',
+        'zbee_zcl_general.groups.cmd.srv_tx.id',
+        'zbee_zcl_general.level_control.cmd.srv_rx.id',
+        'zbee_zcl_general.onoff.cmd.srv_rx.id',
+        'zbee_zcl_ias.zone.cmd.srv_tx.id',
+        'zbee_zcl_general_ota_cmd_srv_rx_id',
+        'zbee_nwk.cmd.id'
+    ]
+    
+
+    def isAck(packet):
+        return hasattr(packet, 'WPAN') and packet['WPAN'].fcf == '0x0002'
+
+    try:
+        if 'ZBEE_BEACON' in packet:
+            return 'beacon'
+
+        if 'ZBEE_ZDP' in packet:
+            return 'zdp'
+
+        if 'ZBEE_ZCL' in packet:
+            for attribute in packet['ZBEE_ZCL']._all_fields.values():
+                if attribute.name in command_attributes:
+                    return attribute.showname_value
+
+        if 'ZBEE_APS' in packet:
+            if packet['ZBEE_APS'].type == '0x02':
+                return 'APS: Ack'
+
+        if isAck(packet):
+            return 'Ack'
+
+        if 'ZBEE_NWK' in packet:
+            for attribute in packet['ZBEE_NWK']._all_fields.values():
+                if attribute.name in command_attributes:
+                    return attribute.showname_value
+
+    except Exception as e:
+        # Handle any unexpected packet processing errors
+        print(f"Error processing packet: {e}")
+
+    # Default label if no conditions are met
+    return None
+
+
+def strip_ansi(input_str):
+    """
+    Removes ANSI escape sequences from a string.
+    Args:
+        input_str (str): The string containing ANSI escape sequences.
+    Returns:
+        str: A clean string without ANSI codes.
+    """
+    ansi_escape = re.compile(r'\x1B(?:[@-Z\\-_]|\[[0-?]*[ -/]*[@-~])')
+    return ansi_escape.sub('', input_str)
+
 def main(input_file):
     """
     Process a .pcapng file using pyshark, map packets to rows,
     focusing on `src_address` to `Device Name Label`.
     Returns a DataFrame.
     """
+
+    def safe_get_attr(obj, attr, default=None):
+        """Safely retrieve an attribute from an object."""
+        return getattr(obj, attr, default)
+
+    def map_device_info(source_addr, mapping):
+        """Map source address to device name/type with fallback."""
+        return mapping.get(source_addr, 'Unknown')
+    
+    def get_topology_mapping(input_file):
+        """Get the device name and type mappings for the specified topology."""
+        if 'Topology_A' in input_file:
+            return device_name_mapping_vA, device_type_mapping_vA
+        elif 'Topology_B' in input_file:
+            return device_name_mapping_vB, device_type_mapping_vB
+        else:
+            raise ValueError(f"Invalid topology:")
+            
     packets = pyshark.FileCapture(input_file)  # Example filter for Zigbee
     rows = []
-
+    dict_mem = {}
+    
+    device_name_mapping,device_type_mapping = get_topology_mapping(input_file)
+    
     for packet in packets:
         try:
-            # Extract source address
-            source_addr = packet.wpan.src16 if hasattr(packet.wpan, 'src16') else None
             
-            # Map source address to Device Name and Device Type with fallback
-            device_name = (
-                device_name_mapping_v1.get(source_addr) 
-                or device_name_mapping_v2.get(source_addr, 'Unknown')
-            )
+            # Extract WPAN information
+            source_addr = safe_get_attr(packet.wpan, 'src16')
+            device_name = map_device_info(source_addr, device_name_mapping)
+            device_type = map_device_info(source_addr, device_type_mapping)
 
-            device_type = (
-                device_type_mapping_v2.get(source_addr) 
-                or device_type_mapping_v2.get(source_addr, 'Unknown')
+            # Extract ZigBee NWK information
+            source_addr_zb = None
+            device_name_zb = None
+            device_name_zb_dst = None
+            device_type_zb = None
+            human_cmd = None
+
+            try:
+                source_addr_zb = safe_get_attr(packet.ZBEE_NWK, 'src')
+            except:
+                pass
+
+            try:
+                device_name_zb = map_device_info(source_addr_zb, device_name_mapping)
+            except:
+                pass
+
+            try:
+                device_name_zb_dst = map_device_info(
+                    safe_get_attr(packet.ZBEE_NWK, 'dst'),device_name_mapping
             )
-            
-            
-            
+            except:
+                pass
+
+            try:
+                device_type_zb = map_device_info(source_addr_zb, device_type_mapping)
+            except:
+                pass
+
+            try:
+                human_cmd = detect_cmd(source_addr_zb, packet,dict_mem,device_name_zb)
+            except:
+                pass
+
+            # Extract ZigBee ZCL information
+            try:
+                cmd_str = parse_layer_data(strip_ansi(str(packet.ZBEE_ZCL)))
+            except:
+                cmd_str = None
+
             # Append row
             rows.append({
                 'Packet Number': packet.number,
-                'Device Name': device_name,  # Direct mapping of src_address to device name
-                'Device Type': device_type,  # Direct mapping of src_address to device type
+                'Device Name': device_name,
+                'Device Type': device_type,
+                'Device Name ZigBee': device_name_zb,
+                'Device Type ZigBee': device_type_zb,
+                'Device Name ZigBee Destination': device_name_zb_dst,
+                'Human Command': human_cmd,
+                'Packet Type': classify_packet(packet),
+                'Command String': cmd_str,
             })
 
-        except AttributeError as e:
-            print(f"Packet skipped due to missing attributes: {e}")
+        except AttributeError:
+            pass  # Skip packets with missing attributes
+        except:
+            pass  # Catch all other unexpected errors and skip
 
     packets.close()
 
     # Convert to a DataFrame
     df = pd.DataFrame(rows)
     return df
-    
 
 def find_and_process_pcapng(file_path):
     """
@@ -184,6 +427,6 @@ def find_and_process_pcapng(file_path):
     print("All files processed successfully.")
     
     
-root_path = './Data'
+root_path = './Dataset/Data'
 
 find_and_process_pcapng(root_path)
